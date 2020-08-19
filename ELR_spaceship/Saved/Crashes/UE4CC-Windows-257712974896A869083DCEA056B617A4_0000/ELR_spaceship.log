@@ -1,0 +1,960 @@
+﻿Log file open, 08/16/20 15:38:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ELR_spaceship
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-644022275) SRandInit(-644022274).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.348090
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.16-09.38.26:330][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.16-09.38.26:330][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.16-09.38.26:583][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.16-09.38.26:583][  0]LogInit: User: farha
+[2020.08.16-09.38.26:583][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.16-09.38.26:583][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.16-09.38.26:599][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.16-09.38.26:599][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.16-09.38.26:599][  0]LogMemory: Process Physical Memory: 272.56 MB used, 272.57 MB peak
+[2020.08.16-09.38.26:599][  0]LogMemory: Process Virtual Memory: 269.40 MB used, 269.40 MB peak
+[2020.08.16-09.38.26:599][  0]LogMemory: Physical Memory: 2608.77 MB used,  1368.25 MB free, 3977.01 MB total
+[2020.08.16-09.38.26:599][  0]LogMemory: Virtual Memory: 4759.74 MB used,  1368.25 MB free, 134217728.00 MB total
+[2020.08.16-09.38.28:724][  0]LogInit: Using OS detected language (en-US).
+[2020.08.16-09.38.28:724][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.16-09.38.29:138][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.16-09.38.30:466][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.16-09.38.39:915][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.16-09.38.39:955][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.16-09.38.39:955][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.16-09.38.40:026][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.16-09.38.40:026][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.16-09.38.40:026][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.16-09.38.40:054][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.16-09.38.40:055][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.16-09.38.40:055][  0]LogWindows: EnumDisplayDevices:
+[2020.08.16-09.38.40:055][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.16-09.38.40:080][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.16-09.38.40:080][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.16-09.38.40:080][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.16-09.38.40:080][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.16-09.38.40:080][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.16-09.38.40:080][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.16-09.38.40:085][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.16-09.38.41:454][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.16-09.38.42:096][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Client_Projects/ELR_spaceship/Intermediate/Shaders/WorkingDirectory/1624/).
+[2020.08.16-09.38.42:096][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/CF2D4AA6431086A1E4BB94B42BDA012F/'.
+[2020.08.16-09.38.42:135][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.16-09.39.00:112][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.16-09.39.00:193][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.16-09.39.00:280][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.16-09.39.00:368][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.16-09.39.00:553][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.16-09.39.00:643][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.16-09.39.00:730][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.16-09.39.00:824][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.16-09.39.00:894][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.16-09.39.00:989][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.16-09.39.01:076][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.16-09.39.01:166][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.16-09.39.01:254][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.16-09.39.01:343][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.16-09.39.01:523][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.16-09.39.01:523][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.16-09.39.01:648][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.16-09.39.01:716][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.16-09.39.02:030][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.16-09.39.02:095][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.16-09.39.02:184][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.16-09.39.02:274][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.16-09.39.02:358][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.16-09.39.02:496][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.16-09.39.02:496][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.16-09.39.09:027][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.16-09.39.10:639][  0]LogDerivedDataCache: Loaded boot cache 1.58s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.16-09.39.10:640][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.16-09.39.10:640][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.16-09.39.10:640][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.16-09.39.10:640][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.16-09.39.10:640][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.16-09.39.10:774][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.16-09.39.10:803][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.16-09.39.10:980][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.16-09.39.11:072][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.16-09.39.11:205][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.16-09.39.11:216][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.16-09.39.59:964][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.16-09.40.11:828][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.16-09.40.11:967][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.16-09.40.11:975][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.16-09.40.11:975][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.16-09.40.11:975][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.16-09.40.11:975][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.16-09.40.14:753][  0]LogNetVersion: ELR_spaceship , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1111601439)
+[2020.08.16-09.40.22:138][  0]LogAssetRegistry: FAssetRegistry took 0.0468 seconds to start up
+[2020.08.16-09.40.41:690][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.371165 seconds
+[2020.08.16-09.40.41:899][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.16-09.40.41:900][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.08.16-09.40.41:900][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.16-09.40.42:240][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.16-09.41.13:356][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.16-09.41.13:461][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.16-09.41.16:545][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.16-09.41.18:730][  0]SourceControl: Source control is disabled
+[2020.08.16-09.41.18:740][  0]SourceControl: Source control is disabled
+[2020.08.16-09.41.19:093][  0]SourceControl: Source control is disabled
+[2020.08.16-09.41.19:284][  0]SourceControl: Source control is disabled
+[2020.08.16-09.41.22:074][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.16-09.41.22:637][  0]LogOcInput: OculusInput pre-init called
+[2020.08.16-09.41.24:518][  0]LogEngine: Initializing Engine...
+[2020.08.16-09.41.24:846][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.16-09.41.28:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.16-09.41.28:096][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.010 s
+[2020.08.16-09.41.29:181][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.16-09.41.29:809][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.41.29:949][  0]LogInit: FAudioDevice initialized.
+[2020.08.16-09.41.32:015][  0]LogDerivedDataCache: Saved boot cache 2.02s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.16-09.41.32:137][  0]LogInit: Texture streaming: Enabled
+[2020.08.16-09.41.32:703][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.16-09.41.32:704][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={D71EB2F9-4D9F-4411-CA46-DCA1FD02D657}
+[2020.08.16-09.41.36:121][  0]LogInit: Transaction tracking system initialized
+[2020.08.16-09.41.38:768][  0]BlueprintLog: New page: Editor Load
+[2020.08.16-09.41.48:570][  0]LocalizationService: Localization service is disabled
+[2020.08.16-09.41.56:851][  0]LogConsoleResponse: Display: 
+[2020.08.16-09.42.05:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.16-09.42.05:830][  0]LogCook: Display: Mobile HDR setting 0
+[2020.08.16-09.42.05:864][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.16-09.42.16:396][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/' took 10.69s
+[2020.08.16-09.42.16:396][  0]SourceControl: Source control is disabled
+[2020.08.16-09.42.16:537][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.16-09.42.16:658][  0]LightingResults: New page: Lighting Build
+[2020.08.16-09.42.17:714][  0]MapCheck: New page: Map Check
+[2020.08.16-09.42.17:714][  0]LightingResults: New page: Lighting Build
+[2020.08.16-09.43.07:354][  0]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.43.12:378][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.16-09.43.17:460][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.16-09.43.36:627][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 18,982.901ms to complete.
+[2020.08.16-09.43.36:637][  0]LogFileHelpers: Loading map 'GamePlayTestMap' took 80.133
+[2020.08.16-09.45.00:967][  0]LogCollectionManager: Loaded 0 collections in 0.036042 seconds
+[2020.08.16-09.45.08:241][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Saved/Collections/' took 0.01s
+[2020.08.16-09.45.08:242][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Developers/farha/Collections/' took 0.01s
+[2020.08.16-09.45.08:242][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Collections/' took 0.01s
+[2020.08.16-09.45.08:242][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.16-09.45.08:362][  0]LogContentBrowser: Native class hierarchy populated in 0.0603 seconds. Added 2364 classes and 521 folders.
+[2020.08.16-09.45.08:981][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2020.08.16-09.45.12:621][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.16-09.45.13:375][  0]LogSlate: Took 0.084909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.16-09.45.13:840][  0]LogSlate: Took 0.024157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.16-09.45.16:593][  0]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:1).
+[2020.08.16-09.45.29:213][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.08.16-09.45.29:213][  0]LogLoad: (Engine Initialization) Total time: 461.29 seconds
+[2020.08.16-09.45.29:213][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.16-09.45.29:271][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.16-09.45.31:225][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.08.16-09.45.35:327][  1]LogSlate: Took 0.113771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.16-09.45.37:607][  6]LogAssetRegistry: Asset discovery search completed in 315.4923 seconds
+[2020.08.16-09.45.38:137][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.16-09.45.38:138][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.040295 seconds (updated 0 objects)
+[2020.08.16-09.47.41:691][960]LogSlate: Took 0.064707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.16-09.47.42:182][960]LogSlate: Took 0.048981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.16-09.47.59:341][960]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0121 seconds. Added 116 classes and 0 folders.
+[2020.08.16-09.48.06:944][960]LogSlate: Took 0.027472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.16-09.48.08:819][961]LogSlate: Took 0.022197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.16-09.48.45:676][730]LogSlate: Took 0.018441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.16-09.50.41:203][632]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-09.50.46:048][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-09.50.47:037][673]LogSavePackage: Save=388.15ms
+[2020.08.16-09.50.47:037][673]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLane762193954D17357CDFAE6A85287018F6.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-09.50.47:133][673]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-09.50.48:568][744]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.50.49:937][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.50.50:253][744]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:50:50 PM)
+[2020.08.16-09.50.50:293][744]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.50.50:504][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211446s)
+[2020.08.16-09.50.50:505][744]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.50.50:550][744]LogPlayLevel: PIE: World Init took: (0.045892s)
+[2020.08.16-09.50.50:569][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.291876s)
+[2020.08.16-09.50.50:815][744]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.50.50:875][744]LogInit: FAudioDevice initialized.
+[2020.08.16-09.50.51:033][744]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.50.51:340][744]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.50.51
+[2020.08.16-09.50.51:373][744]LogWorld: Bringing up level for play took: 0.050158
+[2020.08.16-09.50.53:568][744]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2020.08.16-09.50.54:003][744]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 4.853
+[2020.08.16-09.51.06:325][263]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-09.51.07:980][341]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.51.08:009][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.51.08:009][341]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:51:08 PM)
+[2020.08.16-09.51.08:010][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.51.08:023][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013384s)
+[2020.08.16-09.51.08:024][341]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.51.08:025][341]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2020.08.16-09.51.08:025][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015478s)
+[2020.08.16-09.51.08:055][341]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.51.08:062][341]LogInit: FAudioDevice initialized.
+[2020.08.16-09.51.08:108][341]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.51.08:109][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.51.08
+[2020.08.16-09.51.08:110][341]LogWorld: Bringing up level for play took: 0.001206
+[2020.08.16-09.51.08:113][341]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.984
+[2020.08.16-09.51.10:960][426]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.51.16:602][613]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.51.27:020][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-09.51.27:179][ 85]LogSavePackage: Save=129.41ms
+[2020.08.16-09.51.27:179][ 85]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLane28C4A2DA4345F1EE82BCA696C2FBF85B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-09.51.27:183][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-09.51.32:019][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-09.51.32:161][373]LogSavePackage: Save=112.86ms
+[2020.08.16-09.51.32:161][373]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLaneBF7F9DC44C8CC0DCF5DA16995A4DCBDA.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-09.51.32:162][373]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-09.51.56:779][255]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-09.51.57:636][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-09.51.57:796][271]LogSavePackage: Save=129.81ms
+[2020.08.16-09.51.57:796][271]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLane88F490014555834B712E3EBD3EF388E1.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-09.51.57:799][271]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-09.51.59:241][342]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.51.59:271][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.51.59:271][342]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:51:59 PM)
+[2020.08.16-09.51.59:271][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.51.59:285][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014440s)
+[2020.08.16-09.51.59:287][342]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.51.59:287][342]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2020.08.16-09.51.59:288][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016681s)
+[2020.08.16-09.51.59:322][342]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.51.59:329][342]LogInit: FAudioDevice initialized.
+[2020.08.16-09.51.59:367][342]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.51.59:368][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.51.59
+[2020.08.16-09.51.59:368][342]LogWorld: Bringing up level for play took: 0.001191
+[2020.08.16-09.51.59:372][342]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.242
+[2020.08.16-09.52.02:528][440]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.52.03:515][473]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.52.07:065][591]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.52.09:612][675]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.52.10:211][695]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.52.10:912][718]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.52.42:438][867]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-09.52.44:135][933]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.52.44:167][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.52.44:167][933]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:52:44 PM)
+[2020.08.16-09.52.44:167][933]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.52.44:181][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013512s)
+[2020.08.16-09.52.44:183][933]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.52.44:183][933]LogPlayLevel: PIE: World Init took: (0.002201s)
+[2020.08.16-09.52.44:184][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016306s)
+[2020.08.16-09.52.44:218][933]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.52.44:225][933]LogInit: FAudioDevice initialized.
+[2020.08.16-09.52.44:264][933]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.52.44:265][933]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.52.44
+[2020.08.16-09.52.44:265][933]LogWorld: Bringing up level for play took: 0.001183
+[2020.08.16-09.52.44:269][933]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap -0.86
+[2020.08.16-09.53.32:023][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-09.53.32:165][746]LogSavePackage: Save=112.69ms
+[2020.08.16-09.53.32:165][746]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLaneE6E235E2442DF5C055DC1AB32A1C7E66.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-09.53.32:169][746]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-09.53.35:107][922]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.53.35:138][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.53.35:139][922]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:53:35 PM)
+[2020.08.16-09.53.35:139][922]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.53.35:152][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013313s)
+[2020.08.16-09.53.35:153][922]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.53.35:153][922]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2020.08.16-09.53.35:154][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.014989s)
+[2020.08.16-09.53.35:186][922]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.53.35:193][922]LogInit: FAudioDevice initialized.
+[2020.08.16-09.53.35:227][922]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.53.35:228][922]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.53.35
+[2020.08.16-09.53.35:228][922]LogWorld: Bringing up level for play took: 0.001174
+[2020.08.16-09.53.35:232][922]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.103
+[2020.08.16-09.53.37:222][985]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.53.37:718][  2]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.53.39:152][ 50]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.54.19:283][509]BlueprintLog: New page: Compile Player_Plane
+[2020.08.16-09.54.20:586][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.16-09.54.21:034][510]LogSavePackage: Save=410.52ms
+[2020.08.16-09.54.21:034][510]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneA2C13113489DC08463C650BEF95062E9.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.16-09.54.21:053][510]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.16-09.54.22:440][576]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.54.22:505][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.54.22:505][576]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:54:22 PM)
+[2020.08.16-09.54.22:505][576]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.54.22:518][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013288s)
+[2020.08.16-09.54.22:532][576]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.54.22:532][576]LogPlayLevel: PIE: World Init took: (0.013299s)
+[2020.08.16-09.54.22:532][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.026954s)
+[2020.08.16-09.54.22:565][576]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.54.22:572][576]LogInit: FAudioDevice initialized.
+[2020.08.16-09.54.22:610][576]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.54.22:611][576]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.54.22
+[2020.08.16-09.54.22:612][576]LogWorld: Bringing up level for play took: 0.001456
+[2020.08.16-09.54.22:615][576]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap -0.514
+[2020.08.16-09.54.25:334][660]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.54.26:617][702]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.19:356][611]BlueprintLog: New page: Compile Player_Plane
+[2020.08.16-09.55.21:180][660]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.55.21:216][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.55.21:216][660]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:55:21 PM)
+[2020.08.16-09.55.21:217][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.55.21:230][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013684s)
+[2020.08.16-09.55.21:232][660]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.55.21:232][660]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2020.08.16-09.55.21:232][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015935s)
+[2020.08.16-09.55.21:264][660]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.55.21:271][660]LogInit: FAudioDevice initialized.
+[2020.08.16-09.55.21:304][660]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.55.21:305][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.55.21
+[2020.08.16-09.55.21:305][660]LogWorld: Bringing up level for play took: 0.001115
+[2020.08.16-09.55.21:309][660]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.18
+[2020.08.16-09.55.28:168][898]BlueprintLog: New page: Compile Player_Plane
+[2020.08.16-09.55.30:162][961]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.55.30:197][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.55.30:197][961]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:55:30 PM)
+[2020.08.16-09.55.30:197][961]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.55.30:211][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013252s)
+[2020.08.16-09.55.30:212][961]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.55.30:212][961]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2020.08.16-09.55.30:212][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015222s)
+[2020.08.16-09.55.30:246][961]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.55.30:252][961]LogInit: FAudioDevice initialized.
+[2020.08.16-09.55.30:291][961]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.55.30:292][961]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.55.30
+[2020.08.16-09.55.30:292][961]LogWorld: Bringing up level for play took: 0.001157
+[2020.08.16-09.55.30:296][961]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap -0.833
+[2020.08.16-09.55.32:296][ 23]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.32:807][ 41]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.55.33:907][ 78]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.34:572][100]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.55.35:558][133]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.55.36:014][148]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.36:890][177]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.37:243][189]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.55.38:089][216]Cmd: LevelEditor.ToggleImmersive
+[2020.08.16-09.55.39:960][254]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.55.41:091][292]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.41:397][298]LogRenderer: Reallocating scene render targets to support 1368x740 Format 9 NumSamples 1 (Frame:42).
+[2020.08.16-09.55.48:212][525]BlueprintLog: New page: Compile Player_Plane
+[2020.08.16-09.55.50:328][593]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.55.50:363][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.55.50:364][593]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:55:50 PM)
+[2020.08.16-09.55.50:364][593]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.55.50:377][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013183s)
+[2020.08.16-09.55.50:378][593]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.55.50:379][593]LogPlayLevel: PIE: World Init took: (0.001734s)
+[2020.08.16-09.55.50:379][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015471s)
+[2020.08.16-09.55.50:416][593]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.55.50:422][593]LogInit: FAudioDevice initialized.
+[2020.08.16-09.55.50:460][593]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.55.50:462][593]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.55.50
+[2020.08.16-09.55.50:462][593]LogWorld: Bringing up level for play took: 0.001110
+[2020.08.16-09.55.50:465][593]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap -0.664
+[2020.08.16-09.55.51:656][628]Cmd: LevelEditor.ToggleImmersive
+[2020.08.16-09.55.55:233][734]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.55.56:044][759]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.57:238][796]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.55.57:701][810]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.12:898][276]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.13:517][295]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.14:271][318]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.14:926][338]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.15:321][350]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.16:027][372]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.17:107][405]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.17:658][422]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.18:111][436]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.21:218][533]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.35:623][981]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.36:997][ 23]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.37:512][ 39]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.39:704][107]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.44:816][267]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.45:414][286]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.46:430][318]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.47:000][336]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.47:510][352]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.48:000][367]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.48:454][381]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.48:929][396]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.49:378][410]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.56.49:848][425]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.56.58:411][692]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-09.57.01:184][778]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-09.57.13:940][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.16-09.57.14:324][233]LogSavePackage: Save=355.51ms
+[2020.08.16-09.57.14:324][233]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneC67332FC4F3128BBA84346A2C08E591F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.16-09.57.14:327][233]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.16-09.57.49:158][193]BlueprintLog: New page: Compile CourseSpawnner
+[2020.08.16-09.57.50:635][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CourseSpawnner" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset" SILENT=true
+[2020.08.16-09.57.50:827][252]LogSavePackage: Save=67.38ms
+[2020.08.16-09.57.50:828][252]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CourseSpawnnerCD16EDD045B2562F85E991A16311EAA7.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset'
+[2020.08.16-09.57.50:831][252]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset
+[2020.08.16-09.58.15:473][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CourseSpawnner" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset" SILENT=true
+[2020.08.16-09.58.15:589][726]LogSavePackage: Save=86.29ms
+[2020.08.16-09.58.15:589][726]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CourseSpawnner062CF109487EFACA094ECDAFF2B035DE.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset'
+[2020.08.16-09.58.15:592][726]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset
+[2020.08.16-09.58.17:104][816]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-09.58.17:144][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-09.58.17:144][816]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 9:58:17 PM)
+[2020.08.16-09.58.17:144][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-09.58.17:158][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013517s)
+[2020.08.16-09.58.17:159][816]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-09.58.17:159][816]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2020.08.16-09.58.17:160][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015574s)
+[2020.08.16-09.58.17:195][816]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-09.58.17:202][816]LogInit: FAudioDevice initialized.
+[2020.08.16-09.58.17:236][816]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-09.58.17:238][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-15.58.17
+[2020.08.16-09.58.17:238][816]LogWorld: Bringing up level for play took: 0.001213
+[2020.08.16-09.58.17:243][816]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.114
+[2020.08.16-09.58.42:613][673]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-09.58.43:483][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-09.58.43:696][688]LogSavePackage: Save=111.31ms
+[2020.08.16-09.58.43:697][688]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLane9BB224B74592F4843E9D78B275290545.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-09.58.43:700][688]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-09.58.49:173][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.16-09.58.49:630][860]LogSavePackage: Save=407.71ms
+[2020.08.16-09.58.49:630][860]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneAC028E4B467DBC547E4BB1997F16EA2A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.16-09.58.49:631][860]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.16-10.00.13:821][634]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-10.00.14:553][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.00.14:712][655]LogSavePackage: Save=129.29ms
+[2020.08.16-10.00.14:712][655]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLaneF400CF3144A0A39DE568EFB7688ADA50.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.00.14:714][655]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.00.49:376][616]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-10.00.50:072][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.00.50:268][636]LogSavePackage: Save=167.09ms
+[2020.08.16-10.00.50:268][636]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLane69693C4240217241500D96BB439DE8DC.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.00.50:272][636]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.00.51:932][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GamePlayTestMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.16-10.00.52:101][724]LogSavePackage: Save=48.87ms
+[2020.08.16-10.00.52:101][724]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GamePlayTestMap84397BB24573835CBB5A52866EBFFF1B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap'
+[2020.08.16-10.00.52:104][724]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap
+[2020.08.16-10.01.02:268][173]BlueprintLog: New page: Compile EnemyPlanes
+[2020.08.16-10.01.04:536][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy/EnemyPlanes" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset" SILENT=true
+[2020.08.16-10.01.04:636][253]LogSavePackage: Save=63.57ms
+[2020.08.16-10.01.04:636][253]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/EnemyPlanesFD6936FB47B06ECA8EF430AE671C893B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset'
+[2020.08.16-10.01.04:639][253]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset
+[2020.08.16-10.01.05:740][319]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-10.01.05:771][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-10.01.05:771][319]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 10:01:05 PM)
+[2020.08.16-10.01.05:771][319]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-10.01.05:786][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014939s)
+[2020.08.16-10.01.05:787][319]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-10.01.05:788][319]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2020.08.16-10.01.05:788][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016956s)
+[2020.08.16-10.01.05:822][319]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-10.01.05:830][319]LogInit: FAudioDevice initialized.
+[2020.08.16-10.01.05:862][319]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-10.01.05:864][319]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-16.01.05
+[2020.08.16-10.01.05:864][319]LogWorld: Bringing up level for play took: 0.001261
+[2020.08.16-10.01.05:870][319]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.741
+[2020.08.16-10.01.19:208][716]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10A6
+[2020.08.16-10.01.19:244][716]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.01.19:244][716]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10CA
+[2020.08.16-10.01.19:244][716]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.01.25:648][910]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10A6
+[2020.08.16-10.01.25:648][910]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.01.25:648][910]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10CA
+[2020.08.16-10.01.25:648][910]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.01.32:083][103]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_2
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10A6
+[2020.08.16-10.01.32:084][103]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.01.32:084][103]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_2
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10CA
+[2020.08.16-10.01.32:084][103]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.01.36:433][235]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-10.01.38:368][293]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_3
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10A6
+[2020.08.16-10.01.38:369][293]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.01.38:369][293]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_3
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10CA
+[2020.08.16-10.01.38:370][293]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.01.39:683][333]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-10.01.42:601][423]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-10.01.43:312][445]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-10.01.44:529][482]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_4
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10A6
+[2020.08.16-10.01.44:530][482]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.01.44:530][482]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_4
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:10CA
+[2020.08.16-10.01.44:531][482]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.02.15:298][692]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-10.02.15:995][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.02.16:207][712]LogSavePackage: Save=180.87ms
+[2020.08.16-10.02.16:208][712]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLaneA2F5ACFA45CA776F8C0FA59F907FC33E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.02.16:210][712]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.02.17:871][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GamePlayTestMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.16-10.02.17:998][810]LogSavePackage: Save=65.73ms
+[2020.08.16-10.02.17:998][810]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GamePlayTestMap0BFFCA4347AAAD4B9A64BE9DE552E975.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap'
+[2020.08.16-10.02.18:001][810]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap
+[2020.08.16-10.02.19:345][886]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-10.02.19:376][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-10.02.19:376][886]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 10:02:19 PM)
+[2020.08.16-10.02.19:376][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-10.02.19:389][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013453s)
+[2020.08.16-10.02.19:390][886]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-10.02.19:391][886]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2020.08.16-10.02.19:391][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015513s)
+[2020.08.16-10.02.19:428][886]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-10.02.19:434][886]LogInit: FAudioDevice initialized.
+[2020.08.16-10.02.19:471][886]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-10.02.19:473][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-16.02.19
+[2020.08.16-10.02.19:473][886]LogWorld: Bringing up level for play took: 0.001108
+[2020.08.16-10.02.19:479][886]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.349
+[2020.08.16-10.03.10:789][398]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-10.03.11:638][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.03.11:806][425]LogSavePackage: Save=138.45ms
+[2020.08.16-10.03.11:806][425]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLaneB046C16E4EB55E20D34D228875FC6916.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.03.11:809][425]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.03.29:193][424]BlueprintLog: New page: Compile CourseSpawnner
+[2020.08.16-10.03.30:047][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CourseSpawnner" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset" SILENT=true
+[2020.08.16-10.03.30:252][446]LogSavePackage: Save=69.29ms
+[2020.08.16-10.03.30:253][446]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CourseSpawnner2A90038E48B5130431AA5D9133585250.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset'
+[2020.08.16-10.03.30:256][446]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset
+[2020.08.16-10.03.37:715][862]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-10.03.39:218][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.03.39:375][927]LogSavePackage: Save=128.04ms
+[2020.08.16-10.03.39:375][927]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLaneB81EAC2647F8A612906CBBA8EAFED359.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.03.39:378][927]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.03.41:037][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-10.03.41:200][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-10.03.41:200][ 25]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 10:03:41 PM)
+[2020.08.16-10.03.41:200][ 25]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-10.03.41:214][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013227s)
+[2020.08.16-10.03.41:215][ 25]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-10.03.41:215][ 25]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2020.08.16-10.03.41:216][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015130s)
+[2020.08.16-10.03.41:251][ 25]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-10.03.41:259][ 25]LogInit: FAudioDevice initialized.
+[2020.08.16-10.03.41:294][ 25]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-10.03.41:296][ 25]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-16.03.41
+[2020.08.16-10.03.41:296][ 25]LogWorld: Bringing up level for play took: 0.001226
+[2020.08.16-10.03.41:302][ 25]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.173
+[2020.08.16-10.03.42:799][ 65]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-10.03.44:037][103]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-10.03.44:460][116]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.16-10.03.45:302][142]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-10.03.54:451][422]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.03.54:451][422]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.03.54:451][422]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.03.54:451][422]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.00:791][616]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.00:792][616]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.00:792][616]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.00:793][616]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.07:072][809]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_2
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.07:073][809]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.07:073][809]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_2
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.07:074][809]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.13:341][999]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_3
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.13:342][999]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.13:342][999]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_3
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.13:342][999]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.19:469][188]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_4
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.19:469][188]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.19:470][188]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_4
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.19:470][188]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.25:512][375]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_5
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.25:513][375]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.25:513][375]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_5
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.25:514][375]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.31:500][560]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_6
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.31:500][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.31:501][560]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_6
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.31:501][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.37:457][743]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_7
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.37:458][743]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.37:458][743]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_7
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.37:459][743]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.43:304][925]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_8
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.43:305][925]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.43:305][925]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_8
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.43:306][925]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.04.49:120][105]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_9
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.04.49:121][105]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.04.49:121][105]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_9
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.04.49:121][105]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.05.05:809][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.05.05:977][956]LogSavePackage: Save=130.40ms
+[2020.08.16-10.05.05:977][956]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLaneF76EF3984596739C698CC1AB6E383915.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.05.05:979][956]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.05.19:735][737]BlueprintLog: New page: Compile CourseSpawnner
+[2020.08.16-10.05.21:056][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CourseSpawnner" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset" SILENT=true
+[2020.08.16-10.05.21:143][787]LogSavePackage: Save=56.98ms
+[2020.08.16-10.05.21:143][787]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CourseSpawnner429E5F834EA0F0B6F20FEC827E5EFED8.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset'
+[2020.08.16-10.05.21:146][787]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/CourseSpawnner.uasset
+[2020.08.16-10.05.22:364][859]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-10.05.22:400][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-10.05.22:400][859]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 10:05:22 PM)
+[2020.08.16-10.05.22:400][859]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-10.05.22:414][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013487s)
+[2020.08.16-10.05.22:415][859]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-10.05.22:416][859]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2020.08.16-10.05.22:416][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015668s)
+[2020.08.16-10.05.22:449][859]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-10.05.22:457][859]LogInit: FAudioDevice initialized.
+[2020.08.16-10.05.22:491][859]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-10.05.22:493][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-16.05.22
+[2020.08.16-10.05.22:493][859]LogWorld: Bringing up level for play took: 0.001132
+[2020.08.16-10.05.22:499][859]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap -0.63
+[2020.08.16-10.05.42:841][256]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.05.42:841][256]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.05.42:842][256]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.05.42:842][256]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.05.44:943][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.16-10.05.46:114][304]LogEditorViewport: Clicking on Actor (LMB): Player_Plane_C (Player_Plane)
+[2020.08.16-10.05.49:172][370]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-10.05.51:784][450]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.05.51:784][450]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.05.51:785][450]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.05.51:785][450]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.06.03:823][643]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_2
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.06.03:824][643]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.06.03:824][643]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_2
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.06.03:824][643]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.06.13:809][833]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_3
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.06.13:810][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.06.13:810][833]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_3
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.06.13:810][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.06.22:559][ 22]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_4
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.06.22:560][ 22]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.06.22:560][ 22]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_4
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.06.22:560][ 22]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.07.03:646][881]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-10.07.04:449][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.07.04:604][906]LogSavePackage: Save=125.57ms
+[2020.08.16-10.07.04:604][906]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLane0BAAFB3F434BD344C4B722B2A50BE35D.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.07.04:607][906]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.07.06:788][ 27]BlueprintLog: New page: Compile PlaneLane
+[2020.08.16-10.07.07:527][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlaneLane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset" SILENT=true
+[2020.08.16-10.07.07:684][ 49]LogSavePackage: Save=127.55ms
+[2020.08.16-10.07.07:684][ 49]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneLane426129F443AF6BF558DA478B5E375B31.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset'
+[2020.08.16-10.07.07:687][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlaneLane.uasset
+[2020.08.16-10.07.08:990][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-10.07.09:031][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-10.07.09:032][ 94]PIE: New page: PIE session: GamePlayTestMap (Aug 16, 2020, 10:07:09 PM)
+[2020.08.16-10.07.09:033][ 94]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.16-10.07.09:057][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024131s)
+[2020.08.16-10.07.09:058][ 94]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.16-10.07.09:059][ 94]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2020.08.16-10.07.09:059][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.026269s)
+[2020.08.16-10.07.09:104][ 94]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-10.07.09:112][ 94]LogInit: FAudioDevice initialized.
+[2020.08.16-10.07.09:146][ 94]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-10.07.09:148][ 94]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.16-16.07.09
+[2020.08.16-10.07.09:148][ 94]LogWorld: Bringing up level for play took: 0.001186
+[2020.08.16-10.07.09:154][ 94]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.024
+[2020.08.16-10.07.15:133][271]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.16-10.07.28:775][491]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.07.28:775][491]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.07.28:775][491]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_0
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.07.28:776][491]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.07.39:284][685]LogScript: Warning: Accessed None trying to read property Enemy 1
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:001C
+[2020.08.16-10.07.39:284][685]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 1 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 1
+[2020.08.16-10.07.39:285][685]LogScript: Warning: Accessed None trying to read property Enemy 2
+	PlaneLane_C /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap:PersistentLevel.PlaneLane_C_1
+	Function /Game/Blueprints/PlaneLane.PlaneLane_C:ExecuteUbergraph_PlaneLane:0042
+[2020.08.16-10.07.39:285][685]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Enemy 2 from function: 'ExecuteUbergraph_PlaneLane' from node: DestroyActor in graph: EventGraph in object: PlaneLane with description: Accessed None trying to read property Enemy 2
+[2020.08.16-10.07.46:776][  5]LogUObjectArray: Warning: Other object in slot
+[2020.08.16-10.07.53:846][  5]LogStats: FPlatformStackWalk::StackWalkAndDump -  7.016 s
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: 
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: Stack: 
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006FC62786 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006FA0123A UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006FA1B906 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006A0733F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x0000000067D203AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x0000000067203EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x00000000670974AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006709ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x00000000671C8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006ED37397 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006ED3CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006EF79913 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006ED93484 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006ED6B68C UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x000000006ED5D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x0000000070BBE39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x0000000070BB1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x0000000070BC03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x0000000070BAD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-10.07.53:888][  5]LogOutputDevice: Error: [Callstack] 0x00000000A5A2E338 USER32.dll!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000A5A2DD79 USER32.dll!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x0000000070BC1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000F3B250C8 UE4Editor.exe!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000F3B35430 UE4Editor.exe!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000F3B354AA UE4Editor.exe!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000F3B42379 UE4Editor.exe!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000F3B43D57 UE4Editor.exe!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000A5BD6FD4 KERNEL32.DLL!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: [Callstack] 0x00000000A5FBCEC1 ntdll.dll!UnknownFunction []
+[2020.08.16-10.07.53:889][  5]LogOutputDevice: Error: 
+[2020.08.16-10.07.53:898][  5]LogStats:                SubmitErrorReport -  0.001 s

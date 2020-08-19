@@ -1,0 +1,1381 @@
+﻿Log file open, 08/19/20 08:29:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ELR_spaceship
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1206025455) SRandInit(1206025455).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.860050
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.19-02.29.32:542][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.19-02.29.32:542][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.19-02.29.32:693][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.19-02.29.32:693][  0]LogInit: User: farha
+[2020.08.19-02.29.32:693][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.19-02.29.32:694][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.19-02.29.32:706][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.19-02.29.32:706][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.19-02.29.32:706][  0]LogMemory: Process Physical Memory: 275.55 MB used, 275.56 MB peak
+[2020.08.19-02.29.32:706][  0]LogMemory: Process Virtual Memory: 269.24 MB used, 269.24 MB peak
+[2020.08.19-02.29.32:706][  0]LogMemory: Physical Memory: 3089.96 MB used,  887.05 MB free, 3977.01 MB total
+[2020.08.19-02.29.32:706][  0]LogMemory: Virtual Memory: 4760.30 MB used,  887.05 MB free, 134217728.00 MB total
+[2020.08.19-02.29.34:800][  0]LogInit: Using OS detected language (en-US).
+[2020.08.19-02.29.34:800][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.19-02.29.35:045][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.19-02.29.36:092][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.19-02.29.44:116][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.19-02.29.44:175][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.19-02.29.44:175][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.19-02.29.44:219][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.19-02.29.44:219][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.19-02.29.44:219][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.19-02.29.44:246][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.19-02.29.44:247][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.19-02.29.44:247][  0]LogWindows: EnumDisplayDevices:
+[2020.08.19-02.29.44:265][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.19-02.29.44:280][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.19-02.29.44:281][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.19-02.29.44:281][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.19-02.29.44:281][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.19-02.29.44:281][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.19-02.29.44:281][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.19-02.29.44:305][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.19-02.29.44:974][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.19-02.29.45:153][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Client_Projects/ELR_spaceship/Intermediate/Shaders/WorkingDirectory/8636/).
+[2020.08.19-02.29.45:153][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/864ECB54499EC34B8E0C4196469B3EC7/'.
+[2020.08.19-02.29.45:176][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.19-02.29.55:404][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.19-02.29.55:472][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.19-02.29.55:540][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.19-02.29.55:609][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.19-02.29.55:711][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.19-02.29.55:780][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.19-02.29.55:849][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.19-02.29.55:917][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.19-02.29.55:975][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.19-02.29.56:046][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.19-02.29.56:115][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.19-02.29.56:188][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.19-02.29.56:258][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.19-02.29.56:329][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.19-02.29.56:468][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.19-02.29.56:468][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.19-02.29.56:569][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.19-02.29.56:628][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.19-02.29.56:958][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.19-02.29.57:040][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.19-02.29.57:111][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.19-02.29.57:184][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.19-02.29.57:255][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.19-02.29.57:353][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.19-02.29.57:353][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.19-02.30.00:343][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.19-02.30.02:164][  0]LogDerivedDataCache: Loaded boot cache 1.73s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.19-02.30.02:164][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.19-02.30.02:164][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.19-02.30.02:164][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.19-02.30.02:164][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.19-02.30.02:164][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.19-02.30.02:507][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.19-02.30.02:550][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.19-02.30.02:811][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.19-02.30.03:092][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.19-02.30.03:707][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.19-02.30.03:742][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.19-02.30.33:154][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.19-02.30.44:417][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.19-02.30.44:975][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.19-02.30.45:037][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.19-02.30.45:037][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.19-02.30.45:037][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.19-02.30.45:037][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.19-02.30.46:722][  0]LogNetVersion: ELR_spaceship , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1111601439)
+[2020.08.19-02.30.52:532][  0]LogAssetRegistry: FAssetRegistry took 0.0612 seconds to start up
+[2020.08.19-02.31.07:716][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.514539 seconds
+[2020.08.19-02.31.07:823][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.19-02.31.07:825][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.08.19-02.31.07:825][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.19-02.31.08:042][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.19-02.31.47:801][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.19-02.31.47:914][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.19-02.31.51:559][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.19-02.31.54:727][  0]SourceControl: Source control is disabled
+[2020.08.19-02.31.54:741][  0]SourceControl: Source control is disabled
+[2020.08.19-02.31.54:950][  0]SourceControl: Source control is disabled
+[2020.08.19-02.31.55:095][  0]SourceControl: Source control is disabled
+[2020.08.19-02.31.58:141][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.19-02.31.58:719][  0]LogOcInput: OculusInput pre-init called
+[2020.08.19-02.32.00:403][  0]LogEngine: Initializing Engine...
+[2020.08.19-02.32.00:609][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.19-02.32.02:537][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.19-02.32.02:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.035 s
+[2020.08.19-02.32.07:087][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.19-02.32.09:891][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-02.32.11:018][  0]LogInit: FAudioDevice initialized.
+[2020.08.19-02.32.14:834][  0]LogDerivedDataCache: Saved boot cache 3.68s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.19-02.32.14:907][  0]LogInit: Texture streaming: Enabled
+[2020.08.19-02.32.16:316][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.19-02.32.20:635][  0]LogInit: Transaction tracking system initialized
+[2020.08.19-02.32.23:743][  0]BlueprintLog: New page: Editor Load
+[2020.08.19-02.32.32:548][  0]LocalizationService: Localization service is disabled
+[2020.08.19-02.32.39:303][  0]LogConsoleResponse: Display: 
+[2020.08.19-02.32.47:620][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.19-02.32.47:635][  0]LogCook: Display: Mobile HDR setting 0
+[2020.08.19-02.32.47:657][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.19-02.32.55:498][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/' took 7.31s
+[2020.08.19-02.32.56:028][  0]SourceControl: Source control is disabled
+[2020.08.19-02.32.56:519][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.19-02.32.56:749][  0]LightingResults: New page: Lighting Build
+[2020.08.19-02.32.57:656][  0]MapCheck: New page: Map Check
+[2020.08.19-02.32.57:657][  0]LightingResults: New page: Lighting Build
+[2020.08.19-02.34.39:622][  0]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-02.34.44:911][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.19-02.34.46:136][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.19-02.34.48:914][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,751.69ms to complete.
+[2020.08.19-02.34.48:969][  0]LogFileHelpers: Loading map 'SpaceMap' took 112.762
+[2020.08.19-02.35.24:701][  0]LogCollectionManager: Loaded 0 collections in 0.001812 seconds
+[2020.08.19-02.35.25:668][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Saved/Collections/' took 0.01s
+[2020.08.19-02.35.25:668][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Developers/farha/Collections/' took 0.01s
+[2020.08.19-02.35.25:668][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Collections/' took 0.01s
+[2020.08.19-02.35.25:668][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.19-02.35.26:316][  0]LogContentBrowser: Native class hierarchy populated in 0.6252 seconds. Added 2364 classes and 521 folders.
+[2020.08.19-02.35.27:636][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.19-02.35.35:647][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.19-02.35.39:006][  0]LogSlate: Took 0.076273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.19-02.35.39:415][  0]LogSlate: Took 0.018685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.19-02.35.42:261][  0]LogRenderer: Reallocating scene render targets to support 1016x656 Format 10 NumSamples 1 (Frame:1).
+[2020.08.19-02.35.47:431][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.19-02.35.47:431][  0]LogLoad: (Engine Initialization) Total time: 395.52 seconds
+[2020.08.19-02.35.47:431][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.19-02.35.47:519][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.19-02.35.50:974][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.19-02.35.56:633][  1]LogSlate: Took 0.777122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.19-02.36.02:015][ 25]LogAssetRegistry: Asset discovery search completed in 309.5070 seconds
+[2020.08.19-02.36.02:242][ 25]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.19-02.36.02:268][ 25]LogCollectionManager: Fixed up redirectors for 0 collections in 0.027383 seconds (updated 0 objects)
+[2020.08.19-02.36.11:600][510]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-02.36.13:137][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-02.36.13:495][510]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 2:36:13 PM)
+[2020.08.19-02.36.13:542][510]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-02.36.13:627][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085235s)
+[2020.08.19-02.36.13:639][510]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-02.36.13:680][510]LogPlayLevel: PIE: World Init took: (0.053321s)
+[2020.08.19-02.36.13:700][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.169864s)
+[2020.08.19-02.36.13:949][510]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-02.36.14:057][510]LogInit: FAudioDevice initialized.
+[2020.08.19-02.36.14:230][510]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-02.36.14:796][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-08.36.14
+[2020.08.19-02.36.14:852][510]LogWorld: Bringing up level for play took: 0.056472
+[2020.08.19-02.36.17:107][510]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0063 seconds. Added 11 classes and 0 folders.
+[2020.08.19-02.36.17:713][510]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 4.583
+[2020.08.19-02.36.43:734][168]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Right
+[2020.08.19-02.36.44:292][183]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Left
+[2020.08.19-02.36.44:922][199]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Left
+[2020.08.19-02.36.45:614][217]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Right
+[2020.08.19-02.36.46:310][236]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Right
+[2020.08.19-02.36.46:812][249]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Left
+[2020.08.19-02.36.47:270][261]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Left
+[2020.08.19-02.36.48:062][279]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_0] Right
+[2020.08.19-02.36.57:402][533]LogSlate: Took 0.054902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.19-02.36.57:694][533]LogSlate: Took 0.002573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.19-02.37.03:721][533]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0196 seconds. Added 116 classes and 0 folders.
+[2020.08.19-02.37.10:505][533]LogSlate: Took 0.061700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.19-02.37.16:683][534]LogSlate: Took 0.040964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.19-02.37.43:839][760]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-02.37.49:173][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-02.37.50:740][800]LogSavePackage: Save=727.72ms
+[2020.08.19-02.37.50:740][800]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneC6A9F405442F47AB0FF09AA27D985004.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-02.37.50:758][800]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-02.37.52:994][928]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-02.37.53:235][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-02.37.53:235][928]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 2:37:53 PM)
+[2020.08.19-02.37.53:235][928]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-02.37.53:237][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2020.08.19-02.37.53:238][928]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-02.37.53:238][928]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2020.08.19-02.37.53:238][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002678s)
+[2020.08.19-02.37.53:318][928]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-02.37.53:326][928]LogInit: FAudioDevice initialized.
+[2020.08.19-02.37.53:415][928]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-02.37.53:416][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-08.37.53
+[2020.08.19-02.37.53:416][928]LogWorld: Bringing up level for play took: 0.000785
+[2020.08.19-02.37.53:425][928]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.295
+[2020.08.19-02.39.21:764][ 74]BlueprintLog: New page: Compile PlaneSelectBP
+[2020.08.19-02.39.24:041][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-02.39.24:430][176]LogSavePackage: Save=229.37ms
+[2020.08.19-02.39.24:430][176]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBPDCA3198F497FAA05AB06D09FF49BE259.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-02.39.24:457][176]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-02.39.30:095][481]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-02.39.30:270][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-02.39.30:270][481]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 2:39:30 PM)
+[2020.08.19-02.39.30:270][481]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-02.39.30:272][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001154s)
+[2020.08.19-02.39.30:292][481]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-02.39.30:293][481]LogPlayLevel: PIE: World Init took: (0.020156s)
+[2020.08.19-02.39.30:293][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.021635s)
+[2020.08.19-02.39.30:327][481]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-02.39.30:334][481]LogInit: FAudioDevice initialized.
+[2020.08.19-02.39.30:366][481]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-02.39.30:367][481]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-08.39.30
+[2020.08.19-02.39.30:367][481]LogWorld: Bringing up level for play took: 0.000801
+[2020.08.19-02.39.30:416][481]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.714
+[2020.08.19-02.39.59:293][894]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-02.40.00:294][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-02.40.00:486][944]LogSavePackage: Save=53.97ms
+[2020.08.19-02.40.00:486][944]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GIF38B6CA9458FCB93215603B4EC2FEC8F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-02.40.00:489][944]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-02.40.05:566][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-02.40.05:695][248]LogSavePackage: Save=77.38ms
+[2020.08.19-02.40.05:695][248]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI05B1602B4725786A8EC07486DCA51B2F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-02.40.05:696][248]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-02.40.07:468][353]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-02.40.07:510][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-02.40.07:511][353]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 2:40:07 PM)
+[2020.08.19-02.40.07:760][353]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-02.40.07:761][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001155s)
+[2020.08.19-02.40.07:762][353]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-02.40.07:762][353]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2020.08.19-02.40.07:762][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002546s)
+[2020.08.19-02.40.07:793][353]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-02.40.07:800][353]LogInit: FAudioDevice initialized.
+[2020.08.19-02.40.07:837][353]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-02.40.07:839][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-08.40.07
+[2020.08.19-02.40.07:839][353]LogWorld: Bringing up level for play took: 0.000781
+[2020.08.19-02.40.07:848][353]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.719
+[2020.08.19-02.42.33:781][465]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V2.jpg)
+[2020.08.19-02.42.34:142][465]LogTexture: Display: Building textures: SF_ScoutShip-X5-Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-02.42.37:212][465]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V3.jpg)
+[2020.08.19-02.42.37:514][465]LogTexture: Display: Building textures: SF_ScoutShip-X5-Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-02.43.10:071][ 32]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2020.08.19-02.43.23:083][514]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ScoutShip-X5_V2, compiling. 
+[2020.08.19-02.43.33:774][514]TextureStreamingBuild: Display: Compiling optional shaders took 11.525 seconds.
+[2020.08.19-02.43.33:977][514]LogSavePackage: Save=53.47ms
+[2020.08.19-02.43.33:978][514]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_ScoutShip-X5_V2580BCD5243C28D5B048BC7B118288A19.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/M_ScoutShip-X5_V2.uasset'
+[2020.08.19-02.43.34:004][514]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/M_ScoutShip-X5_V2.uasset
+[2020.08.19-02.43.48:676][ 46]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ScoutShip-X5_V3, compiling. 
+[2020.08.19-02.43.49:003][ 46]TextureStreamingBuild: Display: Compiling optional shaders took 0.835 seconds.
+[2020.08.19-02.43.50:115][ 46]LogSavePackage: Save=1067.49ms
+[2020.08.19-02.43.50:116][ 46]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_ScoutShip-X5_V37601EA854DBF068B71C828A08A178F9E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/M_ScoutShip-X5_V3.uasset'
+[2020.08.19-02.43.50:119][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/M_ScoutShip-X5_V3.uasset
+[2020.08.19-02.43.56:428][276]LogSavePackage: Save=688.79ms
+[2020.08.19-02.43.56:428][276]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Diffuse_V224667E4148289841E7176C8715BFE84E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V2.uasset'
+[2020.08.19-02.43.56:431][276]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V2.uasset
+[2020.08.19-02.43.57:057][276]LogSavePackage: Save=605.28ms
+[2020.08.19-02.43.57:057][276]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Diffuse_V3BD62539D4A1DA217C66121936093F348.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V3.uasset'
+[2020.08.19-02.43.57:082][276]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V3.uasset
+[2020.08.19-02.44.15:830][698]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V2.jpg)
+[2020.08.19-02.44.16:068][698]LogTexture: Display: Building textures: SF_Bomber-X4_Diffuse-V2 (AutoDXT, 2048X2048)
+[2020.08.19-02.44.20:205][698]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V3.jpg)
+[2020.08.19-02.44.20:512][698]LogTexture: Display: Building textures: SF_Bomber-X4_Diffuse-V3 (AutoDXT, 2048X2048)
+[2020.08.19-02.44.55:070][515]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Bomber-X4_V2, compiling. 
+[2020.08.19-02.44.56:051][515]TextureStreamingBuild: Display: Compiling optional shaders took 0.984 seconds.
+[2020.08.19-02.44.56:101][515]LogSavePackage: Save=21.53ms
+[2020.08.19-02.44.56:101][515]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Bomber-X4_V273A0A7774A2B9F6479EF1592E3389415.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/M_SF_Bomber-X4_V2.uasset'
+[2020.08.19-02.44.56:104][515]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/M_SF_Bomber-X4_V2.uasset
+[2020.08.19-02.45.06:486][ 73]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Bomber-X4_V3, compiling. 
+[2020.08.19-02.45.06:800][ 73]TextureStreamingBuild: Display: Compiling optional shaders took 0.317 seconds.
+[2020.08.19-02.45.06:857][ 73]LogSavePackage: Save=21.20ms
+[2020.08.19-02.45.06:857][ 73]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Bomber-X4_V3E2F082BF472EEBAAF7B3B584C54E8711.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/M_SF_Bomber-X4_V3.uasset'
+[2020.08.19-02.45.06:860][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/M_SF_Bomber-X4_V3.uasset
+[2020.08.19-02.45.27:859][495]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Fighter-X2/SF_FighterX2_Diffuse_V2.jpg)
+[2020.08.19-02.45.28:125][495]LogTexture: Display: Building textures: SF_FighterX2_Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-02.45.31:864][495]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Fighter-X2/SF_FighterX2_Diffuse_V3.jpg)
+[2020.08.19-02.45.32:101][495]LogTexture: Display: Building textures: SF_FighterX2_Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-02.45.53:236][448]LogSavePackage: Save=21.60ms
+[2020.08.19-02.45.53:236][448]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Fighter-X2_V29F42C4204EEB169F65E6D3A9EFD550D7.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/M_SF_Fighter-X2_V2.uasset'
+[2020.08.19-02.45.53:238][448]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/M_SF_Fighter-X2_V2.uasset
+[2020.08.19-02.46.00:511][813]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Fighter-X2_V2, compiling. 
+[2020.08.19-02.46.01:662][813]TextureStreamingBuild: Display: Compiling optional shaders took 1.153 seconds.
+[2020.08.19-02.46.01:926][813]LogSavePackage: Save=105.26ms
+[2020.08.19-02.46.01:927][813]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Fighter-X2_V2E0B70239482B58797197C4AAA3AE4D3E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/M_SF_Fighter-X2_V2.uasset'
+[2020.08.19-02.46.01:930][813]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/M_SF_Fighter-X2_V2.uasset
+[2020.08.19-02.46.22:077][969]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Fighter-X2_V3, compiling. 
+[2020.08.19-02.46.22:697][969]TextureStreamingBuild: Display: Compiling optional shaders took 0.623 seconds.
+[2020.08.19-02.46.22:750][969]LogSavePackage: Save=21.10ms
+[2020.08.19-02.46.22:750][969]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Fighter-X2_V367035D5243B2B04822C854A76886D23A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/M_SF_Fighter-X2_V3.uasset'
+[2020.08.19-02.46.22:753][969]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/M_SF_Fighter-X2_V3.uasset
+[2020.08.19-02.46.40:427][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V2.jpg)
+[2020.08.19-02.46.40:621][611]LogTexture: Display: Building textures: SF_Gunship-X3-Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-02.46.44:006][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V3.jpg)
+[2020.08.19-02.46.44:203][611]LogTexture: Display: Building textures: SF_Gunship-X3-Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-02.47.03:742][553]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Gunship-X3_V2, compiling. 
+[2020.08.19-02.47.04:221][553]TextureStreamingBuild: Display: Compiling optional shaders took 0.482 seconds.
+[2020.08.19-02.47.04:308][553]LogSavePackage: Save=55.25ms
+[2020.08.19-02.47.04:308][553]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Gunship-X3_V2C674796C430042630EF883BC2C632332.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/M_SF_Gunship-X3_V2.uasset'
+[2020.08.19-02.47.04:324][553]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/M_SF_Gunship-X3_V2.uasset
+[2020.08.19-02.47.16:267][236]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Gunship-X3_V3, compiling. 
+[2020.08.19-02.47.16:549][236]TextureStreamingBuild: Display: Compiling optional shaders took 0.284 seconds.
+[2020.08.19-02.47.16:600][236]LogSavePackage: Save=20.74ms
+[2020.08.19-02.47.16:600][236]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Gunship-X3_V38C0D71784A816CEBEF5FE19132920D1F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/M_SF_Gunship-X3_V3.uasset'
+[2020.08.19-02.47.16:602][236]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/M_SF_Gunship-X3_V3.uasset
+[2020.08.19-02.47.30:142][654]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Light-Fighter-X6/SF_Light-Fighter-X6-Diffuse_V2.jpg)
+[2020.08.19-02.47.30:361][654]LogTexture: Display: Building textures: SF_Light-Fighter-X6-Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-02.47.33:972][654]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/Ship Meshes/Ship Meshes/My Ships/Human Spaceships_Vol-1/SF_Light-Fighter-X6/SF_Light-Fighter-X6-Diffuse_V3.jpg)
+[2020.08.19-02.47.34:189][654]LogTexture: Display: Building textures: SF_Light-Fighter-X6-Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-02.47.55:245][670]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Light_Fighter-X6_V2, compiling. 
+[2020.08.19-02.47.55:780][670]TextureStreamingBuild: Display: Compiling optional shaders took 0.538 seconds.
+[2020.08.19-02.47.55:832][670]LogSavePackage: Save=20.28ms
+[2020.08.19-02.47.55:832][670]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Light_Fighter-X6_V2A560768347C0914F7CEADAB8395B4AEE.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/M_SF_Light_Fighter-X6_V2.uasset'
+[2020.08.19-02.47.55:835][670]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/M_SF_Light_Fighter-X6_V2.uasset
+[2020.08.19-02.48.09:761][440]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SF_Light_Fighter-X6_V3, compiling. 
+[2020.08.19-02.48.10:031][440]TextureStreamingBuild: Display: Compiling optional shaders took 0.273 seconds.
+[2020.08.19-02.48.10:080][440]LogSavePackage: Save=20.08ms
+[2020.08.19-02.48.10:081][440]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SF_Light_Fighter-X6_V399263B8B4CC037D52A363CAF14A9F923.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/M_SF_Light_Fighter-X6_V3.uasset'
+[2020.08.19-02.48.10:083][440]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/M_SF_Light_Fighter-X6_V3.uasset
+[2020.08.19-02.48.15:155][641]LogSavePackage: Save=655.56ms
+[2020.08.19-02.48.15:155][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_Diffuse-V20654146C4B1C5FC79C7B99862A02052C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V2.uasset'
+[2020.08.19-02.48.15:157][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V2.uasset
+[2020.08.19-02.48.15:789][641]LogSavePackage: Save=613.44ms
+[2020.08.19-02.48.15:789][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_Diffuse-V310736636429C971012F3B3B4E5A2132E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V3.uasset'
+[2020.08.19-02.48.15:792][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V3.uasset
+[2020.08.19-02.48.16:438][641]LogSavePackage: Save=627.88ms
+[2020.08.19-02.48.16:438][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_FighterX2_Diffuse_V2661DB579440298FBA47F3B959D658DBD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V2.uasset'
+[2020.08.19-02.48.16:441][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V2.uasset
+[2020.08.19-02.48.17:107][641]LogSavePackage: Save=647.73ms
+[2020.08.19-02.48.17:107][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_FighterX2_Diffuse_V3F0F51A3B40CA10C2B494E29C1DBE2988.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V3.uasset'
+[2020.08.19-02.48.17:110][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V3.uasset
+[2020.08.19-02.48.17:752][641]LogSavePackage: Save=612.56ms
+[2020.08.19-02.48.17:752][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Diffuse_V20958F8D44137DB3B5DD2159C251E759F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V2.uasset'
+[2020.08.19-02.48.17:755][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V2.uasset
+[2020.08.19-02.48.18:387][641]LogSavePackage: Save=615.11ms
+[2020.08.19-02.48.18:387][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Diffuse_V332B55BD543A6F35D3681E594834B37A3.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V3.uasset'
+[2020.08.19-02.48.18:390][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V3.uasset
+[2020.08.19-02.48.19:170][641]LogSavePackage: Save=758.77ms
+[2020.08.19-02.48.19:170][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse_V2E7BE10BB4F852B7B3FDB59AC35759D97.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V2.uasset'
+[2020.08.19-02.48.19:173][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V2.uasset
+[2020.08.19-02.48.19:898][641]LogSavePackage: Save=655.98ms
+[2020.08.19-02.48.19:898][641]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse_V357DAA2B947C7FFFDB9722CBF2D2C078A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V3.uasset'
+[2020.08.19-02.48.19:902][641]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V3.uasset
+[2020.08.19-02.48.47:826][178]LogSlate: Took 0.033265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.19-02.49.01:991][918]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-02.49.08:378][170]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-02.49.08:614][170]LogClass: Warning: Type mismatch in PlayerMats of Player_Plane_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.08.19-02.49.08:614][170]LogClass: Warning: Type mismatch in PlayerMats of ScoutShip-X5BP_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.08.19-02.49.08:614][170]LogClass: Warning: Type mismatch in PlayerMats of SF_Bomber-X4BP_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.08.19-02.49.08:615][170]LogClass: Warning: Type mismatch in PlayerMats of SF_Fighter-X2_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.08.19-02.49.08:615][170]LogClass: Warning: Type mismatch in PlayerMats of SF_Gunship-X3BP_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.08.19-02.49.08:615][170]LogClass: Warning: Type mismatch in PlayerMats of SF_Light_Fighter-X6_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.08.19-02.49.12:767][302]LogSlate: Took 0.011012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.19-02.49.15:073][379]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-02.49.49:905][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-02.49.50:358][228]LogSavePackage: Save=400.76ms
+[2020.08.19-02.49.50:358][228]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneB24D64FE4FE8D56003AA04B1DD9C15B5.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-02.49.50:361][228]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-02.49.51:979][324]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.19-02.50.12:688][397]BlueprintLog: New page: Compile ScoutShip-X5BP
+[2020.08.19-02.50.13:585][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ScoutShip-X5BP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/ScoutShip-X5BP.uasset" SILENT=true
+[2020.08.19-02.50.13:768][417]LogSavePackage: Save=77.74ms
+[2020.08.19-02.50.13:768][417]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/ScoutShip-X5BP52BB0B7C4F83E1DB8166388B5493988A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/ScoutShip-X5BP.uasset'
+[2020.08.19-02.50.13:787][417]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/ScoutShip-X5BP.uasset
+[2020.08.19-02.50.30:341][204]BlueprintLog: New page: Compile SF_Bomber-X4BP
+[2020.08.19-02.50.31:231][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SF_Bomber-X4BP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Bomber-X4BP.uasset" SILENT=true
+[2020.08.19-02.50.31:307][225]LogSavePackage: Save=35.58ms
+[2020.08.19-02.50.31:307][225]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4BPC14F0B154F0D5E5C20F40B83D056D982.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Bomber-X4BP.uasset'
+[2020.08.19-02.50.31:327][225]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Bomber-X4BP.uasset
+[2020.08.19-02.50.51:821][203]BlueprintLog: New page: Compile SF_Fighter-X2
+[2020.08.19-02.51.08:325][972]BlueprintLog: New page: Compile SF_Gunship-X3BP
+[2020.08.19-02.51.09:138][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SF_Gunship-X3BP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Gunship-X3BP.uasset" SILENT=true
+[2020.08.19-02.51.09:215][989]LogSavePackage: Save=35.31ms
+[2020.08.19-02.51.09:215][989]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3BP1DA8A5A349AFD12C55E6BE888726B2EC.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Gunship-X3BP.uasset'
+[2020.08.19-02.51.09:217][989]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Gunship-X3BP.uasset
+[2020.08.19-02.51.26:865][841]BlueprintLog: New page: Compile SF_Light_Fighter-X6
+[2020.08.19-02.51.28:202][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SF_Light_Fighter-X6" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Light_Fighter-X6.uasset" SILENT=true
+[2020.08.19-02.51.28:339][887]LogSavePackage: Save=77.32ms
+[2020.08.19-02.51.28:339][887]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light_Fighter-X6C82BFFEC49D5EF838DFE768B3A8B25F3.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Light_Fighter-X6.uasset'
+[2020.08.19-02.51.28:341][887]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Light_Fighter-X6.uasset
+[2020.08.19-02.51.31:726][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SF_Fighter-X2" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Fighter-X2.uasset" SILENT=true
+[2020.08.19-02.51.31:814][ 10]LogSavePackage: Save=49.00ms
+[2020.08.19-02.51.31:814][ 10]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Fighter-X2EF489A284916788F591C8AB089165DED.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Fighter-X2.uasset'
+[2020.08.19-02.51.31:817][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/SF_Fighter-X2.uasset
+[2020.08.19-02.51.31:822][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-02.51.32:100][ 10]LogSavePackage: Save=174.30ms
+[2020.08.19-02.51.32:100][ 10]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBPB24B8080479D9F97D1C328BECF2519F2.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-02.51.32:103][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-02.51.58:980][614]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-02.51.59:610][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-02.51.59:741][647]LogSavePackage: Save=90.63ms
+[2020.08.19-02.51.59:741][647]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI8316EF684D04F72ABC6A0282A4F107A4.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-02.51.59:744][647]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-02.54.18:304][686]LogEditorTransaction: Undo Delete current selection
+[2020.08.19-02.54.35:955][678]BlueprintLog: New page: Compile PlaneSelectBP
+[2020.08.19-02.54.36:218][678]LogBlueprint: Error: [Compiler CostomizeMenuWB] In use pin  Style  no longer exists on node  Change Style . Please refresh node or break links to remove pin.
+[2020.08.19-02.54.36:404][678]LogBlueprint: Warning: [Compiler CostomizeMenuWB] [1524.49] Compile of CostomizeMenuWB failed. 1 Fatal Issue(s) 0 Warning(s) [in 412 ms] (/Game/UI/CostomizeMenuWB.CostomizeMenuWB)
+[2020.08.19-02.54.36:971][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-02.54.37:198][690]LogSavePackage: Save=193.87ms
+[2020.08.19-02.54.37:199][690]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP982CC6CE444E75A010263EA2880D4CE4.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-02.54.37:202][690]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-02.56.58:410][781]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-02.56.58:485][781]LogBlueprint: Warning: [Compiler Game_GI] Can't parse default value '0.000000' for  <None> . Property: Style Index.
+[2020.08.19-02.56.58:530][781]LogBlueprint: Warning: [Compiler Game_GI] [1666.61] Compile of Game_GI successful, but with 1 Warning(s) [in 119 ms] (/Game/Blueprints/Game_GI.Game_GI)
+[2020.08.19-02.56.59:375][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-02.56.59:444][826]LogSavePackage: Save=26.74ms
+[2020.08.19-02.56.59:444][826]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI6C1C10B543DDEECE23B099A303915FFC.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-02.56.59:447][826]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-02.59.27:266][348]BlueprintLog: New page: Compile PlaneSelectBP
+[2020.08.19-03.00.03:398][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.00.03:657][467]LogSavePackage: Save=212.30ms
+[2020.08.19-03.00.03:658][467]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBPE9D1A2564CDB99F40329E3B9931E6857.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.00.03:660][467]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.00.09:812][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.00.10:111][835]LogSavePackage: Save=260.80ms
+[2020.08.19-03.00.10:111][835]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP4114A8A54FA6802380F6F7856E66BA09.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.00.10:125][835]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.00.14:288][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.00.14:620][ 81]LogSavePackage: Save=284.65ms
+[2020.08.19-03.00.14:620][ 81]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP651B4F574E30A701DB1432902835F57D.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.00.14:621][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.01.34:571][633]BlueprintLog: New page: Compile CostomizeMenuWB
+[2020.08.19-03.01.34:623][633]LogBlueprint: Error: [Compiler CostomizeMenuWB] In use pin  Style  no longer exists on node  Change Style . Please refresh node or break links to remove pin.
+[2020.08.19-03.01.34:688][633]LogBlueprint: Warning: [Compiler CostomizeMenuWB] [1942.77] Compile of CostomizeMenuWB failed. 1 Fatal Issue(s) 0 Warning(s) [in 116 ms] (/Game/UI/CostomizeMenuWB.CostomizeMenuWB)
+[2020.08.19-03.01.48:575][458]BlueprintLog: New page: Compile CostomizeMenuWB
+[2020.08.19-03.02.06:922][533]BlueprintLog: New page: Compile CostomizeMenuWB
+[2020.08.19-03.02.07:995][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CostomizeMenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset" SILENT=true
+[2020.08.19-03.02.08:173][568]LogSavePackage: Save=125.32ms
+[2020.08.19-03.02.08:173][568]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CostomizeMenuWBD55C4CF04E04A9B7C8B93F846FC1C451.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset'
+[2020.08.19-03.02.08:176][568]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset
+[2020.08.19-03.02.14:334][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.02.14:571][919]LogSavePackage: Save=202.11ms
+[2020.08.19-03.02.14:572][919]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBPFAA603494058204E215C4188956AE417.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.02.14:573][919]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.02.27:411][607]LogSlate: Took 0.113303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.19-03.02.34:440][934]BlueprintLog: New page: Compile CostomizeMenuWB
+[2020.08.19-03.02.35:267][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CostomizeMenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset" SILENT=true
+[2020.08.19-03.02.35:389][969]LogSavePackage: Save=88.11ms
+[2020.08.19-03.02.35:389][969]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CostomizeMenuWB3A7CFE824B2604C1871077B6920BFEC1.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset'
+[2020.08.19-03.02.35:392][969]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset
+[2020.08.19-03.02.37:354][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.02.37:488][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.02.37:489][ 85]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:02:37 PM)
+[2020.08.19-03.02.37:583][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.02.37:585][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001237s)
+[2020.08.19-03.02.37:585][ 85]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.02.37:586][ 85]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2020.08.19-03.02.37:586][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002935s)
+[2020.08.19-03.02.37:624][ 85]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.02.37:656][ 85]LogInit: FAudioDevice initialized.
+[2020.08.19-03.02.37:694][ 85]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.02.37:695][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.02.37
+[2020.08.19-03.02.37:696][ 85]LogWorld: Bringing up level for play took: 0.000805
+[2020.08.19-03.02.37:722][ 85]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.593
+[2020.08.19-03.02.50:760][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.02.51:088][417]LogSavePackage: Save=80.42ms
+[2020.08.19-03.02.51:088][417]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapABE6970E457B9EE2B45C65AD93D31671.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.02.51:089][417]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.02.53:192][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CostomizeMenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset" SILENT=true
+[2020.08.19-03.02.53:311][533]LogSavePackage: Save=83.34ms
+[2020.08.19-03.02.53:311][533]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CostomizeMenuWB36E3554E44BB87160D55158B8E219957.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset'
+[2020.08.19-03.02.53:312][533]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset
+[2020.08.19-03.03.06:812][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CostomizeMenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset" SILENT=true
+[2020.08.19-03.03.06:937][331]LogSavePackage: Save=87.75ms
+[2020.08.19-03.03.06:937][331]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CostomizeMenuWB96D9B3E14E092B1C1F56B09AED255A39.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset'
+[2020.08.19-03.03.06:940][331]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset
+[2020.08.19-03.04.08:891][991]BlueprintLog: New page: Compile CostomizeMenuWB
+[2020.08.19-03.04.10:137][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CostomizeMenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset" SILENT=true
+[2020.08.19-03.04.10:303][ 57]LogSavePackage: Save=120.49ms
+[2020.08.19-03.04.10:303][ 57]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CostomizeMenuWB131B639B443036E48BF6C0B8E0F71BC6.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset'
+[2020.08.19-03.04.10:307][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset
+[2020.08.19-03.04.16:350][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.04.16:603][415]LogSavePackage: Save=215.78ms
+[2020.08.19-03.04.16:603][415]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP0D44F67849465EEA9B9426B30B720C2C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.04.16:604][415]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.04.22:229][751]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-03.05.00:498][941]BlueprintLog: New page: Compile PlaneSelectBP
+[2020.08.19-03.05.01:404][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.05.01:669][961]LogSavePackage: Save=224.72ms
+[2020.08.19-03.05.01:669][961]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP70D098E74822195C759B9288E1DB431E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.05.01:671][961]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.05.09:287][392]BlueprintLog: New page: Compile PlaneSelectBP
+[2020.08.19-03.05.10:178][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.05.10:443][415]LogSavePackage: Save=217.72ms
+[2020.08.19-03.05.10:443][415]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP44C2F9DF497FEA2B68162A8D5005F09F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.05.10:446][415]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.05.11:972][505]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.05.12:011][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.05.12:011][505]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:05:12 PM)
+[2020.08.19-03.05.12:014][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.05.12:015][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001145s)
+[2020.08.19-03.05.12:016][505]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.05.12:016][505]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2020.08.19-03.05.12:017][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002594s)
+[2020.08.19-03.05.12:057][505]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.05.12:066][505]LogInit: FAudioDevice initialized.
+[2020.08.19-03.05.12:104][505]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.05.12:105][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.05.12
+[2020.08.19-03.05.12:105][505]LogWorld: Bringing up level for play took: 0.000727
+[2020.08.19-03.05.12:113][505]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.984
+[2020.08.19-03.05.37:581][280]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.08.19-03.05.52:471][119]LogTexture: Display: Building textures: SF_ScoutShip-X5-Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-03.05.58:509][334]LogTexture: Display: Building textures: SF_ScoutShip-X5-Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-03.06.04:059][438]LogSavePackage: Save=229.51ms
+[2020.08.19-03.06.04:059][438]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Diffuse_V277350F734C5EB78D8502B5B3AAEAE0DD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V2.uasset'
+[2020.08.19-03.06.04:063][438]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V2.uasset
+[2020.08.19-03.06.10:934][827]LogTexture: Display: Building textures: SF_ScoutShip-X5-Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-03.06.16:235][895]LogSavePackage: Save=238.36ms
+[2020.08.19-03.06.16:235][895]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Diffuse_V3392B7CF24EE9333EA6ACE098660A6D9C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V3.uasset'
+[2020.08.19-03.06.16:238][895]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V3.uasset
+[2020.08.19-03.06.20:486][146]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.06.20:534][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.06.20:534][146]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:06:20 PM)
+[2020.08.19-03.06.20:535][146]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.06.20:536][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001287s)
+[2020.08.19-03.06.20:537][146]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.06.20:537][146]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2020.08.19-03.06.20:537][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002703s)
+[2020.08.19-03.06.20:571][146]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.06.20:578][146]LogInit: FAudioDevice initialized.
+[2020.08.19-03.06.20:615][146]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.06.20:616][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.06.20
+[2020.08.19-03.06.20:616][146]LogWorld: Bringing up level for play took: 0.000847
+[2020.08.19-03.06.20:624][146]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.506
+[2020.08.19-03.07.08:363][578]LogTexture: Display: Building textures: SF_Light-Fighter-X6-Diffuse (AutoDXT, 2048X2048)
+[2020.08.19-03.07.11:574][578]LogTexture: Display: Building textures: SF_Light-Fighter-X6-Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-03.07.14:796][578]LogTexture: Display: Building textures: SF_Light-Fighter-X6-Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-03.07.21:653][777]LogSavePackage: Save=273.00ms
+[2020.08.19-03.07.21:653][777]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse50965720432B26BE2E6CA6B27C26CE3E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse.uasset'
+[2020.08.19-03.07.21:656][777]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse.uasset
+[2020.08.19-03.07.22:079][777]LogSavePackage: Save=261.61ms
+[2020.08.19-03.07.22:079][777]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse_V2A5D83E38404C303BCC4A169C210C2C3F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V2.uasset'
+[2020.08.19-03.07.22:082][777]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V2.uasset
+[2020.08.19-03.07.23:033][777]LogSavePackage: Save=552.18ms
+[2020.08.19-03.07.23:034][777]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse_V313CFDEB843B4FB793DC69985B6E18A9A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V3.uasset'
+[2020.08.19-03.07.23:038][777]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V3.uasset
+[2020.08.19-03.07.36:765][559]LogTexture: Display: Building textures: SF_Gunship-X3-Diffuse (AutoDXT, 2048X2048)
+[2020.08.19-03.07.39:685][559]LogTexture: Display: Building textures: SF_Gunship-X3-Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-03.07.42:597][559]LogTexture: Display: Building textures: SF_Gunship-X3-Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-03.07.48:330][715]LogSavePackage: Save=219.12ms
+[2020.08.19-03.07.48:330][715]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-DiffuseB63E064F428067FE3574BA8ACE2F8B96.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse.uasset'
+[2020.08.19-03.07.48:333][715]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse.uasset
+[2020.08.19-03.07.48:853][715]LogSavePackage: Save=211.18ms
+[2020.08.19-03.07.48:853][715]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Diffuse_V261742E1D4FCFC5A3FD7BDCA5A4BD9444.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V2.uasset'
+[2020.08.19-03.07.48:872][715]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V2.uasset
+[2020.08.19-03.07.49:418][715]LogSavePackage: Save=222.96ms
+[2020.08.19-03.07.49:418][715]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Diffuse_V31A2E098A436D06A505C111944449CE2A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V3.uasset'
+[2020.08.19-03.07.49:421][715]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V3.uasset
+[2020.08.19-03.08.07:047][710]LogTexture: Display: Building textures: SF_FighterX2_Diffuse_V2 (AutoDXT, 2048X2048)
+[2020.08.19-03.08.10:196][710]LogTexture: Display: Building textures: SF_FighterX2_Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-03.08.17:232][932]LogSavePackage: Save=228.49ms
+[2020.08.19-03.08.17:232][932]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_FighterX2_Diffuse5BE6DF934FB55E69267A11BC5693148F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse.uasset'
+[2020.08.19-03.08.17:282][932]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse.uasset
+[2020.08.19-03.08.17:728][932]LogSavePackage: Save=241.93ms
+[2020.08.19-03.08.17:728][932]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_FighterX2_Diffuse_V24932933D4BCA9420BAB529BAB424D9CD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V2.uasset'
+[2020.08.19-03.08.17:731][932]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V2.uasset
+[2020.08.19-03.08.19:981][932]LogSavePackage: Save=298.29ms
+[2020.08.19-03.08.19:981][932]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_FighterX2_Diffuse_V3C702331C478A6658F2BED192320072B4.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V3.uasset'
+[2020.08.19-03.08.19:985][932]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Fighter-X2/SF_FighterX2_Diffuse_V3.uasset
+[2020.08.19-03.08.47:350][476]LogTexture: Display: Building textures: SF_Bomber-X4_Diffuse-V2 (AutoDXT, 2048X2048)
+[2020.08.19-03.08.50:423][476]LogTexture: Display: Building textures: SF_Bomber-X4_Diffuse-V3 (AutoDXT, 2048X2048)
+[2020.08.19-03.08.56:412][620]LogSavePackage: Save=251.14ms
+[2020.08.19-03.08.56:412][620]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_DiffuseF933FEA2402D86508FBDD3B6FAD1067C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse.uasset'
+[2020.08.19-03.08.56:431][620]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse.uasset
+[2020.08.19-03.08.56:584][620]LogSavePackage: Save=42.68ms
+[2020.08.19-03.08.56:584][620]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_Glow50E734F44D7CA30C206E4CA7CC0BE93F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Glow.uasset'
+[2020.08.19-03.08.56:586][620]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Glow.uasset
+[2020.08.19-03.08.56:774][620]LogSavePackage: Save=90.96ms
+[2020.08.19-03.08.56:774][620]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_NormalMapBFDD6FB04FDDF193471037AF28A3E97B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_NormalMap.uasset'
+[2020.08.19-03.08.56:777][620]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_NormalMap.uasset
+[2020.08.19-03.08.56:953][620]LogSavePackage: Save=119.77ms
+[2020.08.19-03.08.56:953][620]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_SpecularAEB551E54C3B9B6C81E2B8945C5D4F7C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Specular.uasset'
+[2020.08.19-03.08.56:956][620]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Specular.uasset
+[2020.08.19-03.08.57:482][620]LogSavePackage: Save=225.23ms
+[2020.08.19-03.08.57:482][620]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_Diffuse-V2327780F94E9B14074757BB961F6ADC2C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V2.uasset'
+[2020.08.19-03.08.57:485][620]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V2.uasset
+[2020.08.19-03.08.58:115][620]LogSavePackage: Save=329.19ms
+[2020.08.19-03.08.58:115][620]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Bomber-X4_Diffuse-V3EA86412C43AA49CBC5CBB6A6802A3F04.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V3.uasset'
+[2020.08.19-03.08.58:118][620]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Bomber-X4/SF_Bomber-X4_Diffuse-V3.uasset
+[2020.08.19-03.09.28:230][317]LogTexture: Display: Building textures: SF_Light-Fighter-X6-Glow (AutoDXT, 2048X2048)
+[2020.08.19-03.09.28:652][317]LogTexture: Display: Building textures: SF_Light-Fighter-X6-NormalMap (BC5, 2048X2048)
+[2020.08.19-03.09.29:326][317]LogTexture: Display: Building textures: SF_Light-Fighter-X6-Specular (AutoDXT, 2048X2048)
+[2020.08.19-03.09.32:656][397]LogSavePackage: Save=234.22ms
+[2020.08.19-03.09.32:656][397]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse683EFD4743C21BCC89E053B1FC8AF5C0.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse.uasset'
+[2020.08.19-03.09.32:659][397]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse.uasset
+[2020.08.19-03.09.32:830][397]LogSavePackage: Save=78.33ms
+[2020.08.19-03.09.32:830][397]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Glow7F874D7E491DA7D1A6D70A8BAED46D74.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Glow.uasset'
+[2020.08.19-03.09.32:832][397]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Glow.uasset
+[2020.08.19-03.09.33:058][397]LogSavePackage: Save=143.60ms
+[2020.08.19-03.09.33:059][397]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-NormalMap42D3AFE343AF91C94DE2AB86A6DA8544.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-NormalMap.uasset'
+[2020.08.19-03.09.33:062][397]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-NormalMap.uasset
+[2020.08.19-03.09.33:307][397]LogSavePackage: Save=160.26ms
+[2020.08.19-03.09.33:307][397]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-SpecularADF8A96C4B473541AB0DE183C4734745.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Specular.uasset'
+[2020.08.19-03.09.33:310][397]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Specular.uasset
+[2020.08.19-03.09.33:599][397]LogSavePackage: Save=244.10ms
+[2020.08.19-03.09.33:599][397]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse_V2182C061244E49CA64FCA33BA15652D06.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V2.uasset'
+[2020.08.19-03.09.33:602][397]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V2.uasset
+[2020.08.19-03.09.33:879][397]LogSavePackage: Save=232.83ms
+[2020.08.19-03.09.33:879][397]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Light-Fighter-X6-Diffuse_V34BA1F58D4E82DB16A326469960C24B32.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V3.uasset'
+[2020.08.19-03.09.33:883][397]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Light_Fighter-X6/SF_Light-Fighter-X6-Diffuse_V3.uasset
+[2020.08.19-03.09.49:085][209]LogTexture: Display: Building textures: SF_Gunship-X3-Glow (AutoDXT, 2048X2048)
+[2020.08.19-03.09.49:438][209]LogTexture: Display: Building textures: SF_Gunship-X3-NormalMap (BC5, 2048X2048)
+[2020.08.19-03.09.50:166][209]LogTexture: Display: Building textures: SF_Gunship-X3-Specular (AutoDXT, 2048X2048)
+[2020.08.19-03.09.55:170][392]LogSavePackage: Save=215.69ms
+[2020.08.19-03.09.55:170][392]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-DiffuseF1FD47534439E2238AF22C94CFB6A020.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse.uasset'
+[2020.08.19-03.09.55:173][392]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse.uasset
+[2020.08.19-03.09.55:347][392]LogSavePackage: Save=17.76ms
+[2020.08.19-03.09.55:347][392]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Glow4388C95A4A908387A90256947D520538.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Glow.uasset'
+[2020.08.19-03.09.55:350][392]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Glow.uasset
+[2020.08.19-03.09.55:575][392]LogSavePackage: Save=166.91ms
+[2020.08.19-03.09.55:575][392]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Specular96FD37574C4F5E34302666A4B0E9FD87.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Specular.uasset'
+[2020.08.19-03.09.55:578][392]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Specular.uasset
+[2020.08.19-03.09.55:861][392]LogSavePackage: Save=238.15ms
+[2020.08.19-03.09.55:861][392]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Diffuse_V2EFFC88774E6A8A259B53FF9343796534.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V2.uasset'
+[2020.08.19-03.09.55:864][392]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V2.uasset
+[2020.08.19-03.09.56:122][392]LogSavePackage: Save=213.72ms
+[2020.08.19-03.09.56:122][392]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-Diffuse_V30CE6F10F4ED7D6CCA7C90A9196B26476.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V3.uasset'
+[2020.08.19-03.09.56:125][392]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-Diffuse_V3.uasset
+[2020.08.19-03.09.56:277][392]LogSavePackage: Save=77.80ms
+[2020.08.19-03.09.56:277][392]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Gunship-X3-NormalMap968A042F45CD779FC5B8108EE454BDAD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-NormalMap.uasset'
+[2020.08.19-03.09.56:280][392]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/SF_Gunship-X3/SF_Gunship-X3-NormalMap.uasset
+[2020.08.19-03.10.38:144][714]LogTexture: Display: Building textures: SF_ScoutShip-X5-Diffuse_V3 (AutoDXT, 2048X2048)
+[2020.08.19-03.10.44:841][931]LogSavePackage: Save=158.63ms
+[2020.08.19-03.10.44:841][931]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_Scout-Ship-X5-NormalMap08E8DCF344022B2D345C7F9C96CC16F6.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_Scout-Ship-X5-NormalMap.uasset'
+[2020.08.19-03.10.44:863][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_Scout-Ship-X5-NormalMap.uasset
+[2020.08.19-03.10.45:150][931]LogSavePackage: Save=202.07ms
+[2020.08.19-03.10.45:150][931]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-DiffuseEB1598F64B313DA95EBD219A982A795E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse.uasset'
+[2020.08.19-03.10.45:154][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse.uasset
+[2020.08.19-03.10.45:243][931]LogSavePackage: Save=25.17ms
+[2020.08.19-03.10.45:243][931]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Glow4B40525D4395579F36B0A69EF3EE73F9.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Glow.uasset'
+[2020.08.19-03.10.45:245][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Glow.uasset
+[2020.08.19-03.10.45:508][931]LogSavePackage: Save=151.13ms
+[2020.08.19-03.10.45:508][931]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Specular176C763646603F4B2EB163ABE25E3076.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Specular.uasset'
+[2020.08.19-03.10.45:511][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Specular.uasset
+[2020.08.19-03.10.45:813][931]LogSavePackage: Save=258.50ms
+[2020.08.19-03.10.45:813][931]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Diffuse_V2AD021CAC45990AE364E4E6816F2F2992.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V2.uasset'
+[2020.08.19-03.10.45:816][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V2.uasset
+[2020.08.19-03.10.46:090][931]LogSavePackage: Save=236.74ms
+[2020.08.19-03.10.46:090][931]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SF_ScoutShip-X5-Diffuse_V356C7DCFB4F0C4AA94A075090A8E623D5.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V3.uasset'
+[2020.08.19-03.10.46:093][931]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/PlayerShips/ScoutShip-X5/SF_ScoutShip-X5-Diffuse_V3.uasset
+[2020.08.19-03.10.50:842][210]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.10.50:953][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.10.50:953][210]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:10:50 PM)
+[2020.08.19-03.10.50:954][210]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.10.50:955][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001250s)
+[2020.08.19-03.10.50:956][210]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.10.50:956][210]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2020.08.19-03.10.50:956][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002598s)
+[2020.08.19-03.10.50:987][210]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.10.51:007][210]LogInit: FAudioDevice initialized.
+[2020.08.19-03.10.51:040][210]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.10.51:041][210]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.10.51
+[2020.08.19-03.10.51:041][210]LogWorld: Bringing up level for play took: 0.000762
+[2020.08.19-03.10.51:049][210]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.08
+[2020.08.19-03.11.20:962][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.11.21:200][971]LogSavePackage: Save=23.90ms
+[2020.08.19-03.11.21:200][971]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapAF23BDCB41F3BBE2C608969A3411A2AD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.11.21:201][971]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.12.22:401][499]BlueprintLog: New page: Compile PlaneSelectBP
+[2020.08.19-03.12.23:248][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.12.23:759][520]LogSavePackage: Save=178.60ms
+[2020.08.19-03.12.23:759][520]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP4F2B641841212374016C94AB506318CC.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.12.23:762][520]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.12.26:113][660]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.12.26:151][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.12.26:152][660]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:12:26 PM)
+[2020.08.19-03.12.26:152][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.12.26:153][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001140s)
+[2020.08.19-03.12.26:154][660]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.12.26:154][660]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2020.08.19-03.12.26:154][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002496s)
+[2020.08.19-03.12.26:191][660]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.12.26:199][660]LogInit: FAudioDevice initialized.
+[2020.08.19-03.12.26:231][660]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.12.26:233][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.12.26
+[2020.08.19-03.12.26:233][660]LogWorld: Bringing up level for play took: 0.000844
+[2020.08.19-03.12.26:240][660]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.889
+[2020.08.19-03.12.37:728][934]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-03.12.38:339][949]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-03.12.39:144][969]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-03.12.40:397][995]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-03.12.41:006][ 10]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-03.12.42:107][ 37]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-03.12.42:559][ 48]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-03.12.43:670][ 75]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-03.13.06:189][559]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-03.13.08:518][613]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-03.13.12:754][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CostomizeMenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset" SILENT=true
+[2020.08.19-03.13.13:006][792]LogSavePackage: Save=81.38ms
+[2020.08.19-03.13.13:006][792]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CostomizeMenuWBCCFA5D7A47ED0367A88FB4B45CFFEDF2.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset'
+[2020.08.19-03.13.13:007][792]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset
+[2020.08.19-03.13.39:918][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-03.13.40:008][381]LogSavePackage: Save=10.53ms
+[2020.08.19-03.13.40:008][381]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI79AEFE4F44E9B75D02B4B6ABB5E8BB26.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-03.13.40:009][381]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-03.15.52:786][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu_WB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset" SILENT=true
+[2020.08.19-03.15.52:929][105]LogSavePackage: Save=110.18ms
+[2020.08.19-03.15.52:929][105]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Menu_WB95308DCF47A9034F548015B0EF6B8FE4.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset'
+[2020.08.19-03.15.52:930][105]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset
+[2020.08.19-03.15.57:932][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu_WB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset" SILENT=true
+[2020.08.19-03.15.58:036][401]LogSavePackage: Save=80.18ms
+[2020.08.19-03.15.58:036][401]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Menu_WB1CDC24C74523DE0AAAA59E9400B39FFB.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset'
+[2020.08.19-03.15.58:037][401]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset
+[2020.08.19-03.16.05:392][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.16.05:492][835]LogSavePackage: Save=39.12ms
+[2020.08.19-03.16.05:492][835]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM9130F75A411004BC237E988A569B21A3.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.16.05:493][835]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.16.24:002][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.16.24:066][449]LogSavePackage: Save=39.87ms
+[2020.08.19-03.16.24:066][449]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM262224414AEE33578DC2B9A2779148BA.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.16.24:067][449]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.16.26:585][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.16.26:633][599]LogSavePackage: Save=46.26ms
+[2020.08.19-03.16.26:633][599]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreenE8841404478B8F3D979FD596D3F92D57.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.16.26:636][599]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.17.56:698][718]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.17.57:371][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.17.57:420][743]LogSavePackage: Save=16.21ms
+[2020.08.19-03.17.57:420][743]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen0F30399149B04E971DB2F9AE401FC727.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.17.57:423][743]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.19.27:067][970]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.19.27:703][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.19.27:791][  2]LogSavePackage: Save=63.89ms
+[2020.08.19-03.19.27:791][  2]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen1DCB224143311B41D7234DB13B548B08.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.19.27:794][  2]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.23.33:115][191]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.23.33:967][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.23.34:140][231]LogSavePackage: Save=102.79ms
+[2020.08.19-03.23.34:141][231]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreenAC00A5AA4B5E47908959B4B98360E4D8.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.23.34:145][231]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.23.48:701][ 93]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.23.49:286][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.23.49:434][118]LogSavePackage: Save=26.88ms
+[2020.08.19-03.23.49:434][118]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreenF3F27B24452A4A673EB32B8DAD968313.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.23.49:436][118]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.25.10:947][836]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.25.12:075][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.25.12:139][892]LogSavePackage: Save=36.97ms
+[2020.08.19-03.25.12:139][892]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen5C8BDBF24F990EC9A8DC488ECB75B1E6.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.25.12:142][892]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.25.18:653][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.25.18:709][274]LogSavePackage: Save=30.98ms
+[2020.08.19-03.25.18:709][274]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen84DE9EBC4B4591255D99A4BF78089794.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.25.18:710][274]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.26.02:786][806]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.26.03:516][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.26.03:591][838]LogSavePackage: Save=49.79ms
+[2020.08.19-03.26.03:591][838]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen226DCB7B4BCB71B3DF5C60A557640407.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.26.03:594][838]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.26.11:744][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.26.11:813][325]LogSavePackage: Save=43.78ms
+[2020.08.19-03.26.11:813][325]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen732DB8A648CBEE7C19EF16927EB2A133.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.26.11:816][325]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.26.24:628][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.26.24:698][ 91]LogSavePackage: Save=46.28ms
+[2020.08.19-03.26.24:698][ 91]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen9D41A71D4203CAEBBB34CE80BA6DB506.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.26.24:699][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.26.37:634][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_2.WidgetTree_111.HorizontalBox_32
+[2020.08.19-03.26.37:658][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_4.WidgetTree_114.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_6.WidgetTree_115.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_7.WidgetTree_116.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_8.WidgetTree_117.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_13.WidgetTree_131.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_1.WidgetTree_119.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.REINST_PuseScreen_C_82:WidgetTree.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_10.WidgetTree_130.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_9.WidgetTree_133.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.REINST_PuseScreen_C_91:WidgetTree.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_11.WidgetTree_125.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_12.WidgetTree_126.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.REINST_PuseScreen_C_87:WidgetTree.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Game/UI/PuseScreen.PuseScreen_C:WidgetTree.HorizontalBox_32
+[2020.08.19-03.26.37:659][830]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32 or HorizontalBox /Engine/Transient.World_37:PuseScreen_C_14.WidgetTree_135.HorizontalBox_32
+[2020.08.19-03.26.37:679][830]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UI/PuseScreen.PuseScreen:WidgetTree.HorizontalBox_32.HorizontalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_0).  Import failed...
+[2020.08.19-03.26.37:679][830]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_32.HorizontalBoxSlot_0"''
+[2020.08.19-03.27.20:732][338]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.27.21:440][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.27.21:532][367]LogSavePackage: Save=62.51ms
+[2020.08.19-03.27.21:532][367]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen502FE9ED4B8181719CA728AFFCD80DAA.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.27.21:535][367]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.27.50:670][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.27.50:740][997]LogSavePackage: Save=44.55ms
+[2020.08.19-03.27.50:740][997]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen5429D8904EA2B019A646EC971F02C1DA.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.27.50:740][997]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.28.30:424][157]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-03.30.09:652][803]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.30.10:537][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.30.10:670][824]LogSavePackage: Save=95.73ms
+[2020.08.19-03.30.10:670][824]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMDF859FF04CC02D2E0DB40E982F639B90.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.30.10:672][824]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.30.41:041][579]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.30.41:959][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.30.42:133][628]LogSavePackage: Save=124.01ms
+[2020.08.19-03.30.42:133][628]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen63FEE4514938111E3404C79E5C90B943.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.30.42:137][628]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.30.48:303][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.30.48:443][990]LogSavePackage: Save=88.71ms
+[2020.08.19-03.30.48:443][990]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen2C125B6F452EFB6B65DD9E8408D938D2.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.30.48:444][990]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.31.02:002][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.31.02:108][794]LogSavePackage: Save=77.57ms
+[2020.08.19-03.31.02:108][794]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMA1344D4A486CD98CDCEDECAF7B156008.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.31.02:127][794]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.32.08:632][629]BlueprintLog: New page: Compile PlayerHUD
+[2020.08.19-03.32.10:419][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerHUD" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset" SILENT=true
+[2020.08.19-03.32.10:665][662]LogSavePackage: Save=45.25ms
+[2020.08.19-03.32.10:665][662]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlayerHUD76B65DAC4F5C1414B177B4A4F6A70986.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset'
+[2020.08.19-03.32.10:680][662]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset
+[2020.08.19-03.32.12:110][737]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.32.12:216][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.32.12:216][737]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:32:12 PM)
+[2020.08.19-03.32.12:270][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.32.12:272][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001209s)
+[2020.08.19-03.32.12:273][737]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.32.12:273][737]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2020.08.19-03.32.12:273][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002707s)
+[2020.08.19-03.32.12:335][737]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.32.12:360][737]LogInit: FAudioDevice initialized.
+[2020.08.19-03.32.12:397][737]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.32.12:398][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.32.12
+[2020.08.19-03.32.12:399][737]LogWorld: Bringing up level for play took: 0.000810
+[2020.08.19-03.32.12:423][737]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.706
+[2020.08.19-03.32.28:209][543]BlueprintLog: New page: Compile PlayerHUD
+[2020.08.19-03.32.30:061][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerHUD" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset" SILENT=true
+[2020.08.19-03.32.30:120][582]LogSavePackage: Save=35.87ms
+[2020.08.19-03.32.30:120][582]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlayerHUD0C872C4D4CFF9072B0E7219A99AF99B5.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset'
+[2020.08.19-03.32.30:123][582]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset
+[2020.08.19-03.32.37:498][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.32.37:624][  8]LogSavePackage: Save=101.38ms
+[2020.08.19-03.32.37:624][  8]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM25E2020D4E81555586C103B9942A9248.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.32.37:625][  8]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.33.29:433][ 29]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-03.33.43:780][856]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.33.44:812][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.33.44:930][876]LogSavePackage: Save=93.46ms
+[2020.08.19-03.33.44:931][876]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM9E9466D04CDCBFA4009E2A9957DDD30F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.33.44:934][876]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.34.03:374][838]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.34.04:030][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.34.04:167][865]LogSavePackage: Save=111.38ms
+[2020.08.19-03.34.04:167][865]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen33B31F0A436F7DE327B71EAA4344A94B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.34.04:170][865]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.34.06:498][999]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.34.06:647][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.34.06:647][999]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:34:06 PM)
+[2020.08.19-03.34.06:648][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.34.06:650][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001814s)
+[2020.08.19-03.34.06:652][999]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.34.06:652][999]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2020.08.19-03.34.06:652][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.004410s)
+[2020.08.19-03.34.06:707][999]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.34.06:718][999]LogInit: FAudioDevice initialized.
+[2020.08.19-03.34.06:758][999]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.34.06:759][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.34.06
+[2020.08.19-03.34.06:760][999]LogWorld: Bringing up level for play took: 0.000847
+[2020.08.19-03.34.06:769][999]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.36
+[2020.08.19-03.34.20:639][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.34.20:762][653]LogSavePackage: Save=94.97ms
+[2020.08.19-03.34.20:762][653]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGME5E25EFA45A928C6910525A20E0B32E5.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.34.20:763][653]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.34.40:850][802]BlueprintLog: New page: Compile PlayerHUD
+[2020.08.19-03.34.42:171][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerHUD" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset" SILENT=true
+[2020.08.19-03.34.42:235][803]LogSavePackage: Save=41.37ms
+[2020.08.19-03.34.42:236][803]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlayerHUD9523163143700BB204F17399D0E8AE8E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset'
+[2020.08.19-03.34.42:238][803]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset
+[2020.08.19-03.34.47:325][ 85]BlueprintLog: New page: Compile PlayerHUD
+[2020.08.19-03.34.49:147][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerHUD" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset" SILENT=true
+[2020.08.19-03.34.49:222][106]LogSavePackage: Save=50.80ms
+[2020.08.19-03.34.49:222][106]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlayerHUD6811B201478C54179977169BA2B85011.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset'
+[2020.08.19-03.34.49:224][106]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset
+[2020.08.19-03.34.50:391][173]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.34.50:461][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.34.50:461][173]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:34:50 PM)
+[2020.08.19-03.34.50:461][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.34.50:462][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001172s)
+[2020.08.19-03.34.50:464][173]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.34.50:464][173]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2020.08.19-03.34.50:464][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002966s)
+[2020.08.19-03.34.50:502][173]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.34.50:511][173]LogInit: FAudioDevice initialized.
+[2020.08.19-03.34.50:548][173]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.34.50:550][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.34.50
+[2020.08.19-03.34.50:550][173]LogWorld: Bringing up level for play took: 0.000830
+[2020.08.19-03.34.50:559][173]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.57
+[2020.08.19-03.34.58:360][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.34.58:533][388]LogSavePackage: Save=21.71ms
+[2020.08.19-03.34.58:534][388]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapD54AB7B7419D97BA1C8AE29B8609F906.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.34.58:534][388]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.35.22:088][740]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.35.22:682][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.35.22:782][758]LogSavePackage: Save=74.41ms
+[2020.08.19-03.35.22:782][758]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreenDA66B18B4BED8BC8E222E6A1EE9D1C5E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.35.22:784][758]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.35.23:867][821]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.35.23:937][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.35.23:937][821]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:35:23 PM)
+[2020.08.19-03.35.23:938][821]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.35.23:956][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001562s)
+[2020.08.19-03.35.23:957][821]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.35.23:958][821]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2020.08.19-03.35.23:958][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.020427s)
+[2020.08.19-03.35.24:004][821]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.35.24:013][821]LogInit: FAudioDevice initialized.
+[2020.08.19-03.35.24:047][821]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.35.24:048][821]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.35.24
+[2020.08.19-03.35.24:049][821]LogWorld: Bringing up level for play took: 0.000821
+[2020.08.19-03.35.24:057][821]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.928
+[2020.08.19-03.35.31:117][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.35.31:204][ 34]LogSavePackage: Save=23.56ms
+[2020.08.19-03.35.31:204][ 34]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap9511CB084D1E3F44AF98B4A67F5EA255.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.35.31:205][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.35.49:124][ 44]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.35.50:019][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.35.50:142][ 57]LogSavePackage: Save=88.04ms
+[2020.08.19-03.35.50:142][ 57]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM3868418B419E10A39266C59DFF8DC222.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.35.50:145][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.35.51:359][127]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.35.51:460][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.35.51:460][127]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:35:51 PM)
+[2020.08.19-03.35.51:461][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.35.51:463][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002069s)
+[2020.08.19-03.35.51:465][127]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.35.51:465][127]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2020.08.19-03.35.51:466][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.004418s)
+[2020.08.19-03.35.51:521][127]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.35.51:532][127]LogInit: FAudioDevice initialized.
+[2020.08.19-03.35.51:568][127]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.35.51:570][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.35.51
+[2020.08.19-03.35.51:570][127]LogWorld: Bringing up level for play took: 0.000940
+[2020.08.19-03.35.51:581][127]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.452
+[2020.08.19-03.35.57:583][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.35.57:676][294]LogSavePackage: Save=26.30ms
+[2020.08.19-03.35.57:676][294]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapB4729FAA4E9C6AB026370A9891FD361C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.35.57:677][294]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.36.06:158][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlaneSelectBP" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset" SILENT=true
+[2020.08.19-03.36.06:481][786]LogSavePackage: Save=194.80ms
+[2020.08.19-03.36.06:481][786]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlaneSelectBP0DA50E2F43D38A1009EBFFBEACE271E3.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset'
+[2020.08.19-03.36.06:482][786]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PlaneSelectBP.uasset
+[2020.08.19-03.37.06:517][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerHUD" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset" SILENT=true
+[2020.08.19-03.37.06:593][348]LogSavePackage: Save=46.40ms
+[2020.08.19-03.37.06:593][348]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PlayerHUD7D1B39564675FF9FF62D5D8EF1050E56.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset'
+[2020.08.19-03.37.06:594][348]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/PlayerHUD.uasset
+[2020.08.19-03.37.34:060][952]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-03.38.10:559][954]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.38.12:446][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.38.12:492][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.38.12:493][ 34]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:38:12 PM)
+[2020.08.19-03.38.12:493][ 34]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.38.12:494][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001175s)
+[2020.08.19-03.38.12:496][ 34]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.38.12:496][ 34]LogPlayLevel: PIE: World Init took: (0.001968s)
+[2020.08.19-03.38.12:496][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003484s)
+[2020.08.19-03.38.12:536][ 34]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.38.12:544][ 34]LogInit: FAudioDevice initialized.
+[2020.08.19-03.38.12:648][ 34]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.38.12:649][ 34]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.38.12
+[2020.08.19-03.38.12:649][ 34]LogWorld: Bringing up level for play took: 0.000770
+[2020.08.19-03.38.12:657][ 34]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.472
+[2020.08.19-03.38.43:098][576]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.38.44:026][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.38.44:144][599]LogSavePackage: Save=92.70ms
+[2020.08.19-03.38.44:144][599]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMC5991A454A32F2940AA009B0F14BF44B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.38.44:147][599]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.38.59:505][469]BlueprintLog: New page: Compile PuseScreen
+[2020.08.19-03.39.00:132][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PuseScreen" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset" SILENT=true
+[2020.08.19-03.39.00:309][495]LogSavePackage: Save=139.97ms
+[2020.08.19-03.39.00:309][495]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/PuseScreen7F81B32640EFE2B781CEF69F00DB877E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset'
+[2020.08.19-03.39.00:312][495]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/PuseScreen.uasset
+[2020.08.19-03.39.01:538][565]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.39.01:605][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.39.01:605][565]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:39:01 PM)
+[2020.08.19-03.39.01:605][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.39.01:607][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001616s)
+[2020.08.19-03.39.01:608][565]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.39.01:608][565]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2020.08.19-03.39.01:609][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003428s)
+[2020.08.19-03.39.01:661][565]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.39.01:670][565]LogInit: FAudioDevice initialized.
+[2020.08.19-03.39.01:710][565]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.39.01:712][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.39.01
+[2020.08.19-03.39.01:712][565]LogWorld: Bringing up level for play took: 0.000896
+[2020.08.19-03.39.01:721][565]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.591
+[2020.08.19-03.39.17:203][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.39.17:299][973]LogSavePackage: Save=27.92ms
+[2020.08.19-03.39.17:299][973]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap2D22AB5841736D9553271A90E8DE9E00.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.39.17:300][973]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.39.32:522][833]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.39.33:536][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.39.33:642][856]LogSavePackage: Save=81.72ms
+[2020.08.19-03.39.33:643][856]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM1AD60E3A45DF9FE6AF138C93D48DDD8C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.39.33:646][856]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.39.43:479][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.39.43:579][411]LogSavePackage: Save=75.91ms
+[2020.08.19-03.39.43:579][411]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMB7DCA86940057064A80FA688A6DA7D42.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.39.43:590][411]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.39.57:523][165]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.39.58:862][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.39.58:982][196]LogSavePackage: Save=85.63ms
+[2020.08.19-03.39.58:982][196]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMB665B7C64C124921A6A0B3909FAAEB4E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.39.58:985][196]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.40.03:720][472]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.40.03:792][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.40.03:793][472]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:40:03 PM)
+[2020.08.19-03.40.03:793][472]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.40.03:795][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001673s)
+[2020.08.19-03.40.03:796][472]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.40.03:797][472]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2020.08.19-03.40.03:797][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003784s)
+[2020.08.19-03.40.03:846][472]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.40.03:856][472]LogInit: FAudioDevice initialized.
+[2020.08.19-03.40.03:890][472]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.40.03:892][472]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.40.03
+[2020.08.19-03.40.03:892][472]LogWorld: Bringing up level for play took: 0.001019
+[2020.08.19-03.40.03:901][472]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.772
+[2020.08.19-03.40.16:834][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.40.16:988][905]LogSavePackage: Save=129.33ms
+[2020.08.19-03.40.16:988][905]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMA20952F74ED8523EF7D3CE9156B8A49C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.40.16:989][905]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.40.26:196][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.40.26:369][447]LogSavePackage: Save=143.66ms
+[2020.08.19-03.40.26:369][447]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMEC5FFFCE47C904F13B08AE90E390F745.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.40.26:371][447]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.40.27:809][531]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.40.27:859][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.40.27:859][531]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:40:27 PM)
+[2020.08.19-03.40.27:859][531]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.40.27:861][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001323s)
+[2020.08.19-03.40.27:861][531]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.40.27:878][531]LogPlayLevel: PIE: World Init took: (0.017573s)
+[2020.08.19-03.40.27:878][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.019277s)
+[2020.08.19-03.40.27:922][531]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.40.27:929][531]LogInit: FAudioDevice initialized.
+[2020.08.19-03.40.27:965][531]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.40.27:966][531]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.40.27
+[2020.08.19-03.40.27:967][531]LogWorld: Bringing up level for play took: 0.000755
+[2020.08.19-03.40.27:974][531]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.845
+[2020.08.19-03.40.35:936][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.40.36:043][771]LogSavePackage: Save=34.22ms
+[2020.08.19-03.40.36:043][771]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapD664ADC84B15E27F53503C928CD5D9D9.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.40.36:044][771]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.40.45:100][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.40.45:245][301]LogSavePackage: Save=117.33ms
+[2020.08.19-03.40.45:245][301]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM7CF5AB024C0E116C717513AB15849FAC.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.40.45:246][301]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.40.51:664][673]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.40.53:255][727]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-03.40.53:306][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-03.40.53:306][727]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 3:40:53 PM)
+[2020.08.19-03.40.53:306][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-03.40.53:308][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001313s)
+[2020.08.19-03.40.53:309][727]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-03.40.53:309][727]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2020.08.19-03.40.53:309][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002719s)
+[2020.08.19-03.40.53:354][727]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-03.40.53:361][727]LogInit: FAudioDevice initialized.
+[2020.08.19-03.40.53:396][727]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-03.40.53:397][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-09.40.53
+[2020.08.19-03.40.53:398][727]LogWorld: Bringing up level for play took: 0.000716
+[2020.08.19-03.40.53:406][727]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.276
+[2020.08.19-03.40.59:421][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-03.40.59:580][897]LogSavePackage: Save=91.55ms
+[2020.08.19-03.40.59:580][897]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapB1FD1CAC462AE5CE8E683BB6C3DDF869.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-03.40.59:582][897]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-03.41.20:691][121]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-03.41.21:872][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.41.22:026][155]LogSavePackage: Save=103.77ms
+[2020.08.19-03.41.22:026][155]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM60F2F7994EB6BF9187CE8A84D92E1580.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.41.22:028][155]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.41.29:145][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-03.41.29:324][576]LogSavePackage: Save=152.06ms
+[2020.08.19-03.41.29:325][576]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGMD34A37D04FA83AAADBA63598B0C8CB7E.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-03.41.29:326][576]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-03.42.00:844][539]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_Player_Plane_C_CHILDACTOR_83.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.08.19-03.42.17:778][539]LogStats: FPlatformStackWalk::StackWalkAndDump - 16.869 s
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: 
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: Ensure condition failed: Obj != nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\PropertyEditor\Private\PropertyChangeListener.cpp] [Line: 246]
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: 
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: Stack: 
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x0000000058D42786 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x0000000058AE123A UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x0000000058AFB906 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x000000004F864412 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x000000004C95FE21 UE4Editor-Sequencer.dll!UnknownFunction []
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x000000004C91628E UE4Editor-Sequencer.dll!UnknownFunction []
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x000000005949BA9B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.19-03.42.17:786][539]LogOutputDevice: Error: [Callstack] 0x00000000551DAEC2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-03.42.17:787][539]LogOutputDevice: Error: [Callstack] 0x0000000055E1AA66 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-03.42.17:787][539]LogOutputDevice: Error: [Callstack] 0x00000000594C39EA UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.19-03.42.17:787][539]LogOutputDevice: Error: [Callstack] 0x00000000534E0148 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.19-03.42.17:787][539]LogOutputDevice: Error: [Callstack] 0x0000000051DDE322 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.42.17:787][539]LogOutputDevice: Error: [Callstack] 0x0000000051D90B8C UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000051D9588C UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x00000000550DD4D7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x00000000534DB5FF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000051E08172 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000051E07B52 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000052045DBE UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000052007C97 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x000000004F3D955B UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x000000004F40CD34 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x000000004F39A8FB UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x000000004F3A039A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x000000004F39EBD7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x000000004F43461C UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x000000004F41B0D9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000054AD5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000054AA8095 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000054B428A7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.42.17:803][539]LogOutputDevice: Error: [Callstack] 0x0000000054B2B092 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x0000000054B1D902 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x000000008C7EE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x000000008C7E1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x000000008C7F03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x000000008C7DD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A56FE338 USER32.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A56FDD79 USER32.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x000000008C7F1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A95250C8 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A9535430 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A95354AA UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A9542379 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A9543D57 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A5F06FD4 KERNEL32.DLL!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: [Callstack] 0x00000000A663CEC1 ntdll.dll!UnknownFunction []
+[2020.08.19-03.42.17:804][539]LogOutputDevice: Error: 
+[2020.08.19-03.42.17:827][539]LogStats:                SubmitErrorReport -  0.016 s
+[2020.08.19-03.43.19:166][539]LogStats:                    SendNewReport - 61.340 s
+[2020.08.19-03.43.19:166][539]LogStats:             FDebug::EnsureFailed - 78.309 s
+[2020.08.19-03.43.22:145][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_Player_Plane_C_CHILDACTOR_85.Sphere) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.08.19-03.43.39:750][550]LogWindows: Error: === Critical error: ===
+[2020.08.19-03.43.39:751][550]LogWindows: Error: 
+[2020.08.19-03.43.39:751][550]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000000b8
+[2020.08.19-03.43.39:751][550]LogWindows: Error: 
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F80653C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F80614C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F80614C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F80614C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F7F4F24 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F8647A7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F864155 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004C95FE21 UE4Editor-Sequencer.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004C91628E UE4Editor-Sequencer.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000005949BA9B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x00000000551DAEC2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x0000000055E1AA66 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x00000000594C39EA UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x00000000534E0148 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x0000000051DDE322 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x0000000051D90B8C UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x0000000051D9588C UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x00000000550DD4D7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x00000000534DB5FF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x0000000051DFA278 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x0000000051D90AF2 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x0000000051D957F2 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F39DEED UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F4203EC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F39B177 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:751][550]LogWindows: Error: [Callstack] 0x000000004F3A0827 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054D4EEBE UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054D277A7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054D28257 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054D33675 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054B48CAA UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054B40F5B UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054B2ABE2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x0000000054B1D253 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x000000008C7EE5EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x000000008C7E1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x000000008C7F03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x000000008C7DD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A56FE338 USER32.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A56FDD79 USER32.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x000000008C7F1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A95250C8 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A9535430 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A95354AA UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A9542379 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A9543D57 UE4Editor.exe!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A5F06FD4 KERNEL32.DLL!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A663CEC1 ntdll.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: [Callstack] 0x00000000A663CEC1 ntdll.dll!UnknownFunction []
+[2020.08.19-03.43.39:858][550]LogWindows: Error: 
+[2020.08.19-03.43.47:031][550]LogExit: Executing StaticShutdownAfterError
+[2020.08.19-03.44.54:509][550]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.08.19-03.44.55:889][550]Log file closed, 08/19/20 09:44:55

@@ -1,0 +1,1535 @@
+﻿Log file open, 08/17/20 06:51:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ELR_spaceship
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(514413626) SRandInit(514413627).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.515898
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.17-00.51.38:342][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.17-00.51.38:342][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.17-00.51.38:845][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.17-00.51.38:845][  0]LogInit: User: farha
+[2020.08.17-00.51.38:845][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.17-00.51.38:845][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.17-00.51.38:860][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.17-00.51.38:860][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.17-00.51.38:860][  0]LogMemory: Process Physical Memory: 273.11 MB used, 273.11 MB peak
+[2020.08.17-00.51.38:860][  0]LogMemory: Process Virtual Memory: 269.52 MB used, 269.52 MB peak
+[2020.08.17-00.51.38:860][  0]LogMemory: Physical Memory: 3321.78 MB used,  655.23 MB free, 3977.01 MB total
+[2020.08.17-00.51.38:860][  0]LogMemory: Virtual Memory: 4759.74 MB used,  655.23 MB free, 134217728.00 MB total
+[2020.08.17-00.51.41:357][  0]LogInit: Using OS detected language (en-US).
+[2020.08.17-00.51.41:357][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.17-00.51.43:985][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.17-00.51.46:379][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.17-00.51.59:241][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.17-00.51.59:338][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.17-00.51.59:338][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.17-00.51.59:373][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.17-00.51.59:373][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.17-00.51.59:373][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.17-00.51.59:403][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.17-00.51.59:404][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.17-00.51.59:404][  0]LogWindows: EnumDisplayDevices:
+[2020.08.17-00.51.59:429][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.17-00.51.59:444][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.17-00.51.59:445][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.17-00.51.59:445][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.17-00.51.59:445][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.17-00.51.59:445][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.17-00.51.59:445][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.17-00.51.59:471][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.17-00.52.00:196][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.17-00.52.00:376][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Projects/Client_Projects/ELR_spaceship/Intermediate/Shaders/WorkingDirectory/9948/).
+[2020.08.17-00.52.00:376][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/CE4F6557476ABE48E8741BBEC5AD39BD/'.
+[2020.08.17-00.52.00:398][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.17-00.52.19:692][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.17-00.52.19:777][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.17-00.52.19:857][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.17-00.52.19:936][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.17-00.52.20:085][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.17-00.52.20:167][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.17-00.52.20:256][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.17-00.52.20:341][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.17-00.52.20:431][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.17-00.52.20:513][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.17-00.52.20:628][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.17-00.52.20:716][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.17-00.52.20:819][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.17-00.52.20:927][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.17-00.52.21:123][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.17-00.52.21:123][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.17-00.52.21:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.17-00.52.21:456][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.17-00.52.21:999][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.17-00.52.22:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.17-00.52.22:167][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.17-00.52.22:242][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.17-00.52.22:317][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.17-00.52.22:397][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.17-00.52.22:415][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.17-00.52.26:015][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.17-00.52.28:952][  0]LogDerivedDataCache: Loaded boot cache 2.86s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.17-00.52.28:952][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.17-00.52.28:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.17-00.52.28:952][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.17-00.52.28:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.17-00.52.28:952][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.17-00.52.29:277][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.17-00.52.29:313][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.17-00.52.29:774][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.17-00.52.30:184][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.17-00.52.30:352][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.17-00.52.30:364][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.17-00.52.56:548][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.17-00.53.00:963][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.17-00.53.01:064][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.17-00.53.01:086][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.17-00.53.01:086][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.17-00.53.01:086][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.17-00.53.01:086][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.17-00.53.01:865][  0]LogNetVersion: ELR_spaceship , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1111601439)
+[2020.08.17-00.53.04:714][  0]LogAssetRegistry: FAssetRegistry took 0.0603 seconds to start up
+[2020.08.17-00.53.21:621][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.257215 seconds
+[2020.08.17-00.53.21:687][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.17-00.53.21:688][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.08.17-00.53.21:688][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.17-00.53.21:830][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.17-00.53.43:931][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.17-00.53.44:020][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.17-00.53.47:685][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.17-00.53.49:709][  0]SourceControl: Source control is disabled
+[2020.08.17-00.53.49:719][  0]SourceControl: Source control is disabled
+[2020.08.17-00.53.49:918][  0]SourceControl: Source control is disabled
+[2020.08.17-00.53.50:098][  0]SourceControl: Source control is disabled
+[2020.08.17-00.53.53:103][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.17-00.53.53:654][  0]LogOcInput: OculusInput pre-init called
+[2020.08.17-00.53.55:462][  0]LogEngine: Initializing Engine...
+[2020.08.17-00.53.55:577][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.17-00.53.58:103][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.17-00.53.58:115][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.007 s
+[2020.08.17-00.54.01:552][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.17-00.54.02:251][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-00.54.02:382][  0]LogInit: FAudioDevice initialized.
+[2020.08.17-00.54.03:448][  0]LogDerivedDataCache: Saved boot cache 1.00s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.17-00.54.03:613][  0]LogInit: Texture streaming: Enabled
+[2020.08.17-00.54.05:015][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.17-00.54.13:330][  0]LogInit: Transaction tracking system initialized
+[2020.08.17-00.54.15:703][  0]BlueprintLog: New page: Editor Load
+[2020.08.17-00.54.26:339][  0]LocalizationService: Localization service is disabled
+[2020.08.17-00.54.36:581][  0]LogConsoleResponse: Display: 
+[2020.08.17-00.54.46:539][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.17-00.54.46:579][  0]LogCook: Display: Mobile HDR setting 0
+[2020.08.17-00.54.46:635][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.17-00.54.56:030][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/' took 8.00s
+[2020.08.17-00.54.57:612][  0]SourceControl: Source control is disabled
+[2020.08.17-00.54.57:700][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.17-00.54.57:821][  0]LightingResults: New page: Lighting Build
+[2020.08.17-00.54.59:714][  0]MapCheck: New page: Map Check
+[2020.08.17-00.54.59:714][  0]LightingResults: New page: Lighting Build
+[2020.08.17-00.57.21:439][  0]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-00.57.24:474][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.17-00.57.27:074][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.17-00.57.32:685][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,395.71ms to complete.
+[2020.08.17-00.57.32:697][  0]LogFileHelpers: Loading map 'GamePlayTestMap' took 155.021
+[2020.08.17-00.57.40:725][  0]LogCollectionManager: Loaded 0 collections in 0.001814 seconds
+[2020.08.17-00.57.47:240][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Saved/Collections/' took 0.01s
+[2020.08.17-00.57.47:240][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Developers/farha/Collections/' took 0.01s
+[2020.08.17-00.57.47:240][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Collections/' took 0.01s
+[2020.08.17-00.57.47:241][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.17-00.57.47:311][  0]LogContentBrowser: Native class hierarchy populated in 0.0255 seconds. Added 2363 classes and 519 folders.
+[2020.08.17-00.57.47:958][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.17-00.57.51:437][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.17-00.57.53:000][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2020.08.17-00.58.00:149][  0]LogSlate: Took 0.278556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.17-00.58.01:045][  0]LogSlate: Took 0.018208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.17-00.58.04:329][  0]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:1).
+[2020.08.17-00.58.12:454][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.17-00.58.12:516][  0]LogLoad: (Engine Initialization) Total time: 421.38 seconds
+[2020.08.17-00.58.12:516][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.17-00.58.12:552][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.17-00.58.21:179][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.08.17-00.58.27:836][  7]LogAssetRegistry: Asset discovery search completed in 323.1465 seconds
+[2020.08.17-00.58.28:044][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.17-00.58.28:046][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.025973 seconds (updated 0 objects)
+[2020.08.17-01.06.00:648][413]LogSlate: Took 0.077661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.17-01.06.07:003][665]LogSlate: Took 0.066984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.17-01.06.07:905][665]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0106 seconds. Added 1 classes and 0 folders.
+[2020.08.17-01.06.08:438][665]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.06.09:971][665]LogSlate: Took 0.116175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.17-01.06.21:822][665]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.06.22:223][665]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.06.22:315][665]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.08.17-01.06.22:367][665]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.06.22:403][665]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.06.22:441][665]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.08.17-01.06.22:693][665]LogSlate: Took 0.034628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.17-01.06.27:440][668]LogSlate: Took 0.014741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.17-01.06.27:743][669]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.17-01.06.27:743][669]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.17-01.06.27:743][669]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.06.27:743][669]MaterialEditorStats: Texture samplers: 6/16
+[2020.08.17-01.06.27:743][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.23.25:942][ 12]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.23.26:429][ 12]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.23.31:294][202]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.23.33:143][223]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.23.33:144][223]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.23.33:144][223]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.23.33:144][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.23.41:929][639]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.23.42:669][658]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.23.42:669][658]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.23.42:669][658]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.23.42:669][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.23.45:631][798]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.23.47:713][876]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.23.47:714][876]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.23.47:714][876]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.23.47:714][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.23.54:295][944]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.17-01.26.41:118][864]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.41:171][864]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.43:412][950]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.43:570][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.26.45:374][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.08.17-01.26.45:464][983]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.26.45:464][983]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.26.45:464][983]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.26.45:464][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.26.53:139][326]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.53:199][326]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.08.17-01.26.55:084][412]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.55:104][412]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.26.55:216][412]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.08.17-01.26.57:186][494]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.57:266][494]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.08.17-01.26.58:198][542]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.58:246][542]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.08.17-01.26.59:304][590]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.26.59:348][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.26.59:416][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.08.17-01.27.01:977][655]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.27.01:977][655]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.27.01:977][655]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.27.01:977][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.27.12:852][ 42]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.08.17-01.27.12:921][ 42]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.27.15:559][138]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.27.15:559][138]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.27.15:559][138]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.27.15:559][138]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.27.24:953][590]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.27.27:714][707]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.27.30:004][810]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.27.30:004][810]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.27.30:004][810]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.27.30:004][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.28.02:764][406]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.28.03:713][407]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2020.08.17-01.28.03:794][407]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.08.17-01.28.03:794][407]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.28.03:794][407]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-01.28.03:859][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.28.05:660][485]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.28.07:005][546]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.28.07:066][546]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.28.08:745][622]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.28.10:746][703]LogMaterialEditor: Applying material M_Plane
+[2020.08.17-01.28.13:680][703]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.28.13:900][703]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.28.14:212][703]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.28.14:950][703]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plane, compiling. 
+[2020.08.17-01.28.15:351][703]TextureStreamingBuild: Display: Compiling optional shaders took 0.567 seconds.
+[2020.08.17-01.28.15:518][704]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2020.08.17-01.28.15:519][704]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.28.15:519][704]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.28.15:519][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.30.02:926][864]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.09:430][123]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.09:546][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.30.21:940][651]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.26:438][825]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.28:019][886]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.28:060][886]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.08.17-01.30.31:078][  6]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.32:372][ 63]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.35:641][206]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.38:408][319]LogMaterialEditor: Applying material M_Plane
+[2020.08.17-01.30.40:096][319]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.40:194][319]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.40:223][319]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.40:305][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plane, compiling. 
+[2020.08.17-01.30.41:364][319]TextureStreamingBuild: Display: Compiling optional shaders took 1.084 seconds.
+[2020.08.17-01.30.42:428][323]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.08.17-01.30.42:428][323]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.30.42:428][323]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.30.42:428][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.30.54:184][905]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.56:120][993]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.08.17-01.30.56:121][993]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.30.56:121][993]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.30.56:121][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.30.57:685][ 69]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.30.59:337][136]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.08.17-01.30.59:337][136]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.30.59:337][136]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.30.59:337][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.32.54:748][300]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.32.55:554][301]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2020.08.17-01.32.57:307][379]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.08.17-01.32.57:307][379]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.32.57:307][379]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.32.57:307][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.33.00:344][537]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.00:421][537]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.08.17-01.33.04:752][752]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.06:113][810]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.08.17-01.33.06:113][810]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.33.06:113][810]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.33.06:113][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.33.23:771][745]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.31:642][190]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.33:209][256]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2020.08.17-01.33.33:209][256]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.33.33:209][256]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.33.33:209][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.33.53:054][218]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.53:193][219]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2020.08.17-01.33.55:343][305]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.55:416][305]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.33.55:416][305]LogMaterial: 	Function Blend_LinearLight: Missing function input 'Blend'
+[2020.08.17-01.33.55:416][305]LogMaterial: 	Function Blend_LinearLight: (Node If) If input A must be of type float.
+[2020.08.17-01.33.56:190][339]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.56:192][339]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.33.56:192][339]LogMaterial: 	Function Blend_LinearLight: Missing function input 'Blend'
+[2020.08.17-01.33.56:192][339]LogMaterial: 	Function Blend_LinearLight: (Node If) If input A must be of type float.
+[2020.08.17-01.33.56:228][339]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.08.17-01.33.56:337][339]MaterialEditorStats: Error: [SM4] Function Blend_LinearLight: Missing function input 'Blend'
+[2020.08.17-01.33.56:338][339]MaterialEditorStats: Error: [SM4] Function Blend_LinearLight: (Node If) If input A must be of type float.
+[2020.08.17-01.33.56:866][355]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.56:868][355]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.33.56:868][355]LogMaterial: 	Function Blend_LinearLight: Missing function input 'Blend'
+[2020.08.17-01.33.56:868][355]LogMaterial: 	Function Blend_LinearLight: (Node If) If input A must be of type float.
+[2020.08.17-01.33.57:966][408]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.33.57:966][408]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.33.57:966][408]LogMaterial: 	Function Blend_LinearLight: Missing function input 'Blend'
+[2020.08.17-01.33.57:966][408]LogMaterial: 	Function Blend_LinearLight: (Node If) If input A must be of type float.
+[2020.08.17-01.34.00:482][538]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.34.02:738][643]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.34.04:590][714]MaterialEditorStats: Base pass shader without light map: 44 instructions
+[2020.08.17-01.34.04:590][714]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.34.04:590][714]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.34.04:590][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.35.09:806][902]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.09:864][902]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.13:256][ 26]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.13:304][ 26]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.15:355][101]MaterialEditorStats: Base pass shader without light map: 44 instructions
+[2020.08.17-01.35.15:355][101]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.35.15:355][101]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.35.15:355][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.35.18:516][230]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.19:798][281]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.19:853][281]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.35.27:840][570]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2020.08.17-01.35.27:840][570]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.35.27:840][570]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.17-01.35.27:840][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.35.28:105][582]LogMaterialEditor: Applying material M_Plane
+[2020.08.17-01.35.28:986][582]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.29:094][582]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.29:167][582]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.29:249][582]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plane, compiling. 
+[2020.08.17-01.35.30:441][582]TextureStreamingBuild: Display: Compiling optional shaders took 1.204 seconds.
+[2020.08.17-01.35.40:079][943]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.42:606][ 38]MaterialEditorStats: Base pass shader without light map: 44 instructions
+[2020.08.17-01.35.42:607][ 38]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.35.42:607][ 38]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.35.42:607][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.35.51:438][449]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.35.51:561][449]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.35.57:764][684]MaterialEditorStats: Base pass shader without light map: 44 instructions
+[2020.08.17-01.35.57:764][684]MaterialEditorStats: Vertex shader: 38 instructions
+[2020.08.17-01.35.57:764][684]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.35.57:764][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.36.18:281][603]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.36.21:808][732]MaterialEditorStats: Base pass shader without light map: 44 instructions
+[2020.08.17-01.36.21:809][732]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.36.21:809][732]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.36.21:809][732]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.36.49:214][953]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.36.49:502][954]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2020.08.17-01.36.52:390][ 78]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.36.52:419][ 78]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.37.01:191][510]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.03:037][594]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.05:640][690]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2020.08.17-01.37.05:640][690]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.37.05:640][690]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.17-01.37.05:640][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.37.15:597][161]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.15:894][162]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2020.08.17-01.37.17:411][222]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.18:829][280]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.18:848][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.37.20:926][363]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.24:046][482]MaterialEditorStats: Base pass shader without light map: 51 instructions
+[2020.08.17-01.37.24:047][482]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.37.24:047][482]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.17-01.37.24:047][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.37.36:608][ 46]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.36:643][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2020.08.17-01.37.37:681][ 73]MaterialEditorStats: Base pass shader without light map: 51 instructions
+[2020.08.17-01.37.37:681][ 73]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.37.37:681][ 73]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.17-01.37.37:681][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.37.42:543][306]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.42:557][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.37.42:594][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2020.08.17-01.37.45:182][402]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.45:184][402]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.37.45:184][402]LogMaterial: 	(Node BumpOffset) Invalid node used in vertex/hull/domain shader input!
+[2020.08.17-01.37.45:226][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2020.08.17-01.37.45:252][402]MaterialEditorStats: Error: [SM4] (Node BumpOffset) Invalid node used in vertex/hull/domain shader input!
+[2020.08.17-01.37.48:160][546]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.48:161][546]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.37.48:161][546]LogMaterial: 	(Node BumpOffset) Invalid node used in vertex/hull/domain shader input!
+[2020.08.17-01.37.51:822][729]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.51:823][729]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.37.51:823][729]LogMaterial: 	(Node BumpOffset) Arithmetic between types float2 and float are undefined
+[2020.08.17-01.37.51:823][729]LogMaterial: 	(Node BumpOffset) Invalid node used in vertex/hull/domain shader input!
+[2020.08.17-01.37.51:827][729]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2020.08.17-01.37.51:853][729]MaterialEditorStats: Error: [SM4] (Node BumpOffset) Arithmetic between types float2 and float are undefined
+[2020.08.17-01.37.51:853][729]MaterialEditorStats: Error: [SM4] (Node BumpOffset) Invalid node used in vertex/hull/domain shader input!
+[2020.08.17-01.37.55:504][885]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.37.55:505][885]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.37.55:505][885]LogMaterial: 	(Node BumpOffset) Arithmetic between types float2 and float are undefined
+[2020.08.17-01.37.55:602][891]MaterialEditorStats: Error: [SM4] (Node BumpOffset) Arithmetic between types float2 and float are undefined
+[2020.08.17-01.38.04:382][289]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.38.04:383][289]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.38.04:383][289]LogMaterial: 	(Node BumpOffset) Arithmetic between types float2 and float are undefined
+[2020.08.17-01.38.04:620][290]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2020.08.17-01.38.15:937][806]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.38.15:938][806]LogMaterial: Warning: /Engine/Transient.M_Plane (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-01.38.15:938][806]LogMaterial: 	(Node BumpOffset) Arithmetic between types float2 and float are undefined
+[2020.08.17-01.38.15:946][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.38.18:304][893]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.38.21:401][ 47]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2020.08.17-01.38.21:401][ 47]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.38.21:401][ 47]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.38.21:401][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.38.43:632][ 86]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.38.43:690][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.08.17-01.38.45:438][166]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.38.45:459][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.08.17-01.38.48:734][316]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.38.48:803][316]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.38.53:312][510]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2020.08.17-01.38.53:312][510]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-01.38.53:312][510]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-01.38.53:312][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.42.34:744][692]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.42.34:783][692]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.42.45:155][ 49]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-01.42.45:155][ 49]MaterialEditorStats: Vertex shader: 124 instructions
+[2020.08.17-01.42.45:155][ 49]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.42.45:155][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.43.19:474][473]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.43.19:510][473]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.43.25:333][677]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.43.31:747][958]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.43.31:960][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.08.17-01.43.32:006][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.17-01.43.32:080][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.08.17-01.43.36:329][135]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.43.36:364][135]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.17-01.43.43:922][226]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-01.43.43:922][226]MaterialEditorStats: Vertex shader: 124 instructions
+[2020.08.17-01.43.43:922][226]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.43.43:922][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.44.15:161][774]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.16:269][818]LogMaterialEditor: Applying material M_Plane
+[2020.08.17-01.44.18:017][818]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.18:119][818]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.18:174][818]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.18:299][818]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plane, compiling. 
+[2020.08.17-01.44.19:792][818]TextureStreamingBuild: Display: Compiling optional shaders took 1.540 seconds.
+[2020.08.17-01.44.27:851][120]LogMaterialEditor: Saving and Compiling material M_Plane
+[2020.08.17-01.44.28:724][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/MainPlanes/M_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/M_Plane.uasset" SILENT=true
+[2020.08.17-01.44.36:491][120]LogSavePackage: Save=2190.40ms
+[2020.08.17-01.44.36:491][120]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_PlaneD757B42E4BB73E802A52EEB1C3F1866C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/M_Plane.uasset'
+[2020.08.17-01.44.36:793][120]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/M_Plane.uasset
+[2020.08.17-01.44.36:982][120]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.08.17-01.44.36:982][120]MaterialEditorStats: Vertex shader: 124 instructions
+[2020.08.17-01.44.36:982][120]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.44.36:982][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.44.43:749][444]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.46:384][551]LogMaterialEditor: Applying material M_Plane
+[2020.08.17-01.44.47:820][551]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.47:904][551]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.47:941][551]LogMaterial: Missing cached shader map for material M_Plane, compiling. 
+[2020.08.17-01.44.48:154][551]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Plane, compiling. 
+[2020.08.17-01.44.49:507][551]TextureStreamingBuild: Display: Compiling optional shaders took 1.517 seconds.
+[2020.08.17-01.44.55:454][784]LogMaterialEditor: Saving and Compiling material M_Plane
+[2020.08.17-01.44.56:339][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/MainPlanes/M_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/M_Plane.uasset" SILENT=true
+[2020.08.17-01.44.56:515][784]LogSavePackage: Save=146.34ms
+[2020.08.17-01.44.56:518][784]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_Plane3C31AB4544E8E047EA0A28AA556CB3CE.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/M_Plane.uasset'
+[2020.08.17-01.44.56:521][784]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/MainPlanes/M_Plane.uasset
+[2020.08.17-01.44.56:529][784]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2020.08.17-01.44.56:529][784]MaterialEditorStats: Vertex shader: 124 instructions
+[2020.08.17-01.44.56:529][784]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.17-01.44.56:529][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-01.45.07:965][205]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.45.11:126][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.45.11:608][205]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:45:11 PM)
+[2020.08.17-01.45.11:654][205]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.45.12:633][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.957023s)
+[2020.08.17-01.45.12:687][205]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.45.12:761][205]LogPlayLevel: PIE: World Init took: (0.127171s)
+[2020.08.17-01.45.12:761][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (1.116704s)
+[2020.08.17-01.45.14:061][205]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.45.14:205][205]LogInit: FAudioDevice initialized.
+[2020.08.17-01.45.14:527][205]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.45.15:356][205]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.45.15
+[2020.08.17-01.45.15:812][205]LogWorld: Bringing up level for play took: 0.554346
+[2020.08.17-01.45.18:541][205]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0733 seconds. Added 11 classes and 0 folders.
+[2020.08.17-01.45.19:292][205]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 9.164
+[2020.08.17-01.45.26:054][435]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.45.26:823][473]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.45.27:463][504]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.45.27:955][528]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.45.28:369][548]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.45.29:311][563]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.45.30:820][637]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.45.32:047][689]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.45.34:540][810]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.45.36:345][891]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.45.46:934][269]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:9).
+[2020.08.17-01.45.47:853][275]LogContentStreaming: Texture pool size now 800 MB
+[2020.08.17-01.45.51:756][507]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.45.52:062][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.45.52:062][507]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:45:52 PM)
+[2020.08.17-01.45.52:062][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.45.52:076][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013943s)
+[2020.08.17-01.45.52:077][507]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.45.52:078][507]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2020.08.17-01.45.52:078][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016063s)
+[2020.08.17-01.45.52:172][507]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.45.52:179][507]LogInit: FAudioDevice initialized.
+[2020.08.17-01.45.52:244][507]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.45.52:245][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.45.52
+[2020.08.17-01.45.52:246][507]LogWorld: Bringing up level for play took: 0.001234
+[2020.08.17-01.45.52:252][507]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.123
+[2020.08.17-01.45.54:589][546]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.45.55:307][560]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.45.56:359][580]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.45.57:325][599]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.47.48:892][357]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.47.48:942][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.47.48:942][357]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:47:48 PM)
+[2020.08.17-01.47.48:942][357]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.47.48:958][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015947s)
+[2020.08.17-01.47.48:984][357]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.47.48:984][357]LogPlayLevel: PIE: World Init took: (0.025910s)
+[2020.08.17-01.47.48:984][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.042231s)
+[2020.08.17-01.47.49:056][357]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.47.49:064][357]LogInit: FAudioDevice initialized.
+[2020.08.17-01.47.49:098][357]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.47.49:100][357]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.47.49
+[2020.08.17-01.47.49:100][357]LogWorld: Bringing up level for play took: 0.001335
+[2020.08.17-01.47.49:107][357]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.978
+[2020.08.17-01.47.51:054][387]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.47.51:476][396]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.47.59:231][723]Cmd: DELETE
+[2020.08.17-01.47.59:231][723]Cmd: ACTOR DELETE
+[2020.08.17-01.48.00:772][723]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.08.17-01.48.01:130][723]LogEditorActor: Deleted 1 Actors (0.834 secs)
+[2020.08.17-01.48.07:944][ 35]Cmd: DELETE
+[2020.08.17-01.48.07:944][ 35]Cmd: ACTOR DELETE
+[2020.08.17-01.48.07:946][ 35]LogEditorActor: Deleted Actor: SkyLight
+[2020.08.17-01.48.07:984][ 35]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.08.17-01.48.34:910][414]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.48.34:940][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.48.34:941][414]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:48:34 PM)
+[2020.08.17-01.48.34:941][414]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.48.34:955][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013844s)
+[2020.08.17-01.48.34:956][414]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.48.34:957][414]LogPlayLevel: PIE: World Init took: (0.002212s)
+[2020.08.17-01.48.34:957][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016646s)
+[2020.08.17-01.48.34:992][414]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.48.34:999][414]LogInit: FAudioDevice initialized.
+[2020.08.17-01.48.35:032][414]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.48.35:046][414]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.48.35
+[2020.08.17-01.48.35:046][414]LogWorld: Bringing up level for play took: 0.013728
+[2020.08.17-01.48.35:052][414]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.923
+[2020.08.17-01.48.38:698][513]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.48.39:293][529]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.48.39:886][545]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.48.40:515][562]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.48.41:098][578]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.48.41:868][599]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.48.44:974][680]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.48.45:690][698]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.48.48:747][774]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.48.49:704][796]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.48.56:181][955]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.48.59:061][ 24]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.06:504][209]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.11:219][325]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.16:638][587]LogRenderer: Reallocating scene render targets to support 1016x656 Format 10 NumSamples 1 (Frame:139).
+[2020.08.17-01.49.16:645][587]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.17-01.49.18:535][697]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.49.18:612][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.49.18:612][697]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:49:18 PM)
+[2020.08.17-01.49.18:612][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.49.18:627][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014385s)
+[2020.08.17-01.49.18:628][697]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.49.18:628][697]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2020.08.17-01.49.18:629][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016517s)
+[2020.08.17-01.49.18:653][697]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.49.18:661][697]LogInit: FAudioDevice initialized.
+[2020.08.17-01.49.18:722][697]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.49.18:724][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.49.18
+[2020.08.17-01.49.18:724][697]LogWorld: Bringing up level for play took: 0.001349
+[2020.08.17-01.49.18:732][697]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.603
+[2020.08.17-01.49.20:873][742]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.21:820][762]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.22:749][781]Cmd: LevelEditor.ToggleImmersive
+[2020.08.17-01.49.23:232][782]LogRenderer: Reallocating scene render targets to support 1356x736 Format 10 NumSamples 1 (Frame:86).
+[2020.08.17-01.49.23:342][783]LogRenderer: Reallocating scene render targets to support 1368x740 Format 10 NumSamples 1 (Frame:88).
+[2020.08.17-01.49.29:118][883]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.29:835][895]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.36:114][989]Cmd: Stat FPS
+[2020.08.17-01.49.38:628][ 31]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.39:540][ 46]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.42:844][101]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.44:055][121]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.45:239][141]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.46:107][155]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.47:074][171]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.51:168][239]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.51:796][249]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.49.55:226][305]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.49.56:847][332]Cmd: LevelEditor.ToggleImmersive
+[2020.08.17-01.50.08:313][936]LogRenderer: Reallocating scene render targets to support 1368x740 Format 10 NumSamples 1 (Frame:150).
+[2020.08.17-01.50.08:431][938]LogContentStreaming: Texture pool size now 3000 MB
+[2020.08.17-01.50.09:360][992]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.17-01.50.09:430][992]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2020.08.17-01.50.09:430][992]LogSynthBenchmark: Display: ===============
+[2020.08.17-01.50.09:430][992]LogSynthBenchmark: Display: Main Processor:
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:          ... 0.024439 s/Run 'RayIntersect'
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:          ... 0.028143 s/Run 'Fractal'
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display: 
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 4
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   CPU Perf Index 0: 104.8 (weight 1.00)
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   CPU Perf Index 1: 101.6 (weight 1.50)
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:  
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display: Graphics:
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 3000'
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   Device Id: 0x126
+[2020.08.17-01.50.09:483][992]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2020.08.17-01.50.09:484][992]LogSynthBenchmark: Display:   GPU Memory: 32/0/1632 MB
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:   GPU first test: 0.08s
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:          ... 0.133 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:          ... 0.147 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:          ... 0.134 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:          ... 0.702 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:          ... 0.020 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:          ... 0.115 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.08.17-01.50.09:731][992]LogSynthBenchmark: Display:          ... 0.620 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:   GPU second test: 0.63s
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.219 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.238 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.199 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 1.356 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.027 s/GigaPix, Confidence=89% 'Bandwidth' (likely to be inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.113 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.979 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.219 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.238 s/GigaPix, Confidence=100% 'TexHeavy'
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.199 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 1.356 s/GigaPix, Confidence=100% 'FillOnly'
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.027 s/GigaPix, Confidence=89% 'Bandwidth'
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.113 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:          ... 0.979 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display: 
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:   GPU Perf Index 0: 4.8 (weight 1.00)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:   GPU Perf Index 1: 3.2 (weight 0.10)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:   GPU Perf Index 2: 5.2 (weight 0.10)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:   GPU Perf Index 3: 5.3 (weight 3.00)
+[2020.08.17-01.50.10:420][992]LogSynthBenchmark: Display:   GPU Perf Index 4: 2.5 (weight 1.00)
+[2020.08.17-01.50.10:421][992]LogSynthBenchmark: Display:   GPU Perf Index 5: 7.4 (weight 0.00)
+[2020.08.17-01.50.10:421][992]LogSynthBenchmark: Display:   GPU Perf Index 6: 55.4 (weight 0.00)
+[2020.08.17-01.50.10:421][992]LogSynthBenchmark: Display:   CPUIndex: 102.9
+[2020.08.17-01.50.10:421][992]LogSynthBenchmark: Display:   GPUIndex: 4.6
+[2020.08.17-01.50.10:421][992]LogSynthBenchmark: Display: 
+[2020.08.17-01.50.10:421][992]LogSynthBenchmark: Display:          ... Total Time: 0.990514 sec
+[2020.08.17-01.50.11:737][993]LogRenderer: Reallocating scene render targets to support 1368x740 Format 9 NumSamples 1 (Frame:151).
+[2020.08.17-01.50.11:753][994]LogContentStreaming: Texture pool size now 400 MB
+[2020.08.17-01.50.13:349][ 60]LogRenderer: Reallocating scene render targets to support 1368x740 Format 10 NumSamples 1 (Frame:152).
+[2020.08.17-01.50.13:465][ 64]LogContentStreaming: Texture pool size now 3000 MB
+[2020.08.17-01.50.15:049][157]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.50.15:085][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.50.15:085][157]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:50:15 PM)
+[2020.08.17-01.50.15:085][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.50.15:099][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013958s)
+[2020.08.17-01.50.15:100][157]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.50.15:101][157]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2020.08.17-01.50.15:101][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016285s)
+[2020.08.17-01.50.15:123][157]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.50.15:131][157]LogInit: FAudioDevice initialized.
+[2020.08.17-01.50.15:168][157]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.50.15:170][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.50.15
+[2020.08.17-01.50.15:170][157]LogWorld: Bringing up level for play took: 0.001177
+[2020.08.17-01.50.15:176][157]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 1.047
+[2020.08.17-01.50.18:647][225]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.50.19:493][241]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.50.20:283][256]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.50.21:127][272]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.50.37:156][568]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.50.41:064][637]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.50.42:678][665]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.50.43:818][685]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.50.48:688][770]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.50.51:757][825]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.51.05:519][ 76]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.51.06:854][100]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.51.11:626][310]LogRenderer: Reallocating scene render targets to support 1368x740 Format 9 NumSamples 1 (Frame:158).
+[2020.08.17-01.51.11:642][311]LogContentStreaming: Texture pool size now 400 MB
+[2020.08.17-01.51.12:745][372]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.51.12:793][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.51.12:793][372]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:51:12 PM)
+[2020.08.17-01.51.12:793][372]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.51.12:808][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016032s)
+[2020.08.17-01.51.12:810][372]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.51.12:811][372]LogPlayLevel: PIE: World Init took: (0.002106s)
+[2020.08.17-01.51.12:811][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.018746s)
+[2020.08.17-01.51.12:848][372]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.51.12:856][372]LogInit: FAudioDevice initialized.
+[2020.08.17-01.51.12:893][372]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.51.12:894][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.51.12
+[2020.08.17-01.51.12:895][372]LogWorld: Bringing up level for play took: 0.001052
+[2020.08.17-01.51.12:901][372]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.773
+[2020.08.17-01.51.14:682][446]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.51.15:195][468]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.51.15:798][494]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.51.16:245][513]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.51.16:705][532]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.51.17:175][552]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.51.19:385][646]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.51.21:373][733]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.51.30:074][116]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.51.31:691][186]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.51.32:488][210]Cmd: SELECT NONE
+[2020.08.17-01.51.45:996][643]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0350 seconds. Added 116 classes and 0 folders.
+[2020.08.17-01.52.23:012][374]BlueprintLog: New page: Compile Player_Plane
+[2020.08.17-01.52.29:692][447]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.52.30:005][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.52.30:005][447]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:52:30 PM)
+[2020.08.17-01.52.30:005][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.52.30:019][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014041s)
+[2020.08.17-01.52.30:021][447]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.52.30:021][447]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2020.08.17-01.52.30:022][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.016359s)
+[2020.08.17-01.52.30:057][447]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.52.30:064][447]LogInit: FAudioDevice initialized.
+[2020.08.17-01.52.30:096][447]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.52.30:098][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.52.30
+[2020.08.17-01.52.30:098][447]LogWorld: Bringing up level for play took: 0.001257
+[2020.08.17-01.52.30:145][447]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.016
+[2020.08.17-01.52.33:210][582]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.52.33:739][606]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.52.34:430][637]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.52.34:873][657]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.52.35:266][675]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.52.35:726][696]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.52.36:165][716]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.52.36:712][741]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.52.52:393][261]BlueprintLog: New page: Compile Player_Plane
+[2020.08.17-01.52.54:379][325]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.52.54:441][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.52.54:441][325]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:52:54 PM)
+[2020.08.17-01.52.54:441][325]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.52.54:454][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013083s)
+[2020.08.17-01.52.54:455][325]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.52.54:455][325]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2020.08.17-01.52.54:456][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.014468s)
+[2020.08.17-01.52.54:490][325]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.52.54:497][325]LogInit: FAudioDevice initialized.
+[2020.08.17-01.52.54:529][325]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.52.54:531][325]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.52.54
+[2020.08.17-01.52.54:531][325]LogWorld: Bringing up level for play took: 0.001124
+[2020.08.17-01.52.54:537][325]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.407
+[2020.08.17-01.53.27:058][118]BlueprintLog: New page: Compile Player_Plane
+[2020.08.17-01.53.28:420][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.17-01.53.29:403][142]LogSavePackage: Save=889.35ms
+[2020.08.17-01.53.29:403][142]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneB832346D446D4906C413138162F67BBA.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.17-01.53.29:462][142]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.17-01.53.32:080][294]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.53.32:152][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.53.32:152][294]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:53:32 PM)
+[2020.08.17-01.53.32:152][294]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.53.32:166][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013712s)
+[2020.08.17-01.53.32:167][294]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.53.32:167][294]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2020.08.17-01.53.32:168][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.015739s)
+[2020.08.17-01.53.32:207][294]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.53.32:214][294]LogInit: FAudioDevice initialized.
+[2020.08.17-01.53.32:246][294]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.53.32:247][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.53.32
+[2020.08.17-01.53.32:248][294]LogWorld: Bringing up level for play took: 0.001122
+[2020.08.17-01.53.32:254][294]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap 0.125
+[2020.08.17-01.53.33:973][361]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.53.34:484][383]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.53.52:411][869]LogRenderer: Reallocating scene render targets to support 1368x740 Format 9 NumSamples 1 (Frame:177).
+[2020.08.17-01.53.52:529][873]LogContentStreaming: Texture pool size now 800 MB
+[2020.08.17-01.53.53:575][934]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-01.53.53:610][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-01.53.53:610][934]PIE: New page: PIE session: GamePlayTestMap (Aug 17, 2020, 1:53:53 PM)
+[2020.08.17-01.53.53:610][934]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GamePlayTestMap
+[2020.08.17-01.53.53:626][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015733s)
+[2020.08.17-01.53.53:628][934]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.08.17-01.53.53:628][934]LogPlayLevel: PIE: World Init took: (0.002189s)
+[2020.08.17-01.53.53:629][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GamePlayTestMap.GamePlayTestMap to /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap (0.018606s)
+[2020.08.17-01.53.53:670][934]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.17-01.53.53:689][934]LogInit: FAudioDevice initialized.
+[2020.08.17-01.53.53:722][934]LogLoad: Game class is 'GameModeBase'
+[2020.08.17-01.53.53:723][934]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GamePlayTestMap.GamePlayTestMap up for play (max tick rate 60) at 2020.08.17-07.53.53
+[2020.08.17-01.53.53:724][934]LogWorld: Bringing up level for play took: 0.001104
+[2020.08.17-01.53.53:730][934]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GamePlayTestMap -0.399
+[2020.08.17-01.53.56:867][  7]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.53.57:360][ 20]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.53.57:864][ 32]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.53.58:411][ 45]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.53.58:831][ 55]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.53.59:378][ 68]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.53.59:803][ 78]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.00:233][ 88]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.00:746][100]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.01:531][118]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.02:568][142]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.03:136][155]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.03:695][168]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.04:392][184]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.04:823][194]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.07:015][245]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.07:480][256]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.08:152][272]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.08:992][292]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.09:800][311]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.10:377][325]LogBlueprintUserMessages: [Player_Plane_10] Left
+[2020.08.17-01.54.11:087][342]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.54.11:623][355]LogBlueprintUserMessages: [Player_Plane_10] Right
+[2020.08.17-01.55.01:951][264]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/ELR SpaceShip Game/skybox/loc00180_1_Space_Sky_4k.exr)
+[2020.08.17-01.55.43:152][264]LogTexture: Display: Building textures: loc00180_1_Space_Sky_4k (RGBA16F, 4096X2048)
+[2020.08.17-02.06.31:696][715]LogTexture: Display: Building textures: loc00180_1_Space_Sky_4k (RGBA16F, 4096X2048)
+[2020.08.17-02.06.57:764][ 49]LogSavePackage: Save=7508.37ms
+[2020.08.17-02.06.57:782][ 49]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/loc00180_1_Space_Sky_4kF861ABC3457CEE2B5D6604A53CF4899A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sky/loc00180_1_Space_Sky_4k.uasset'
+[2020.08.17-02.06.58:002][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sky/loc00180_1_Space_Sky_4k.uasset
+[2020.08.17-02.07.28:382][901]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.07.39:636][901]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.07.39:939][901]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.07.43:941][908]MaterialEditorStats: Base pass shader: 98 instructions
+[2020.08.17-02.07.43:943][908]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2020.08.17-02.07.43:943][908]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.07.43:943][908]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-02.07.52:058][150]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.07.52:090][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.17-02.07.52:172][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.17-02.07.59:460][169]MaterialEditorStats: Base pass shader: 98 instructions
+[2020.08.17-02.07.59:460][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2020.08.17-02.07.59:460][169]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.07.59:460][169]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-02.08.10:639][433]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.10:756][433]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.08.17-02.08.13:093][482]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.21:109][661]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.22:688][662]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2020.08.17-02.08.23:682][680]MaterialEditorStats: Base pass shader: 98 instructions
+[2020.08.17-02.08.23:682][680]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2020.08.17-02.08.23:682][680]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.08.23:682][680]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-02.08.25:828][729]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.33:569][906]MaterialEditorStats: Base pass shader: 98 instructions
+[2020.08.17-02.08.33:570][906]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2020.08.17-02.08.33:570][906]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.08.33:570][906]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.17-02.08.34:816][931]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.41:045][ 67]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.41:092][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.17-02.08.44:087][132]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.44:157][132]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.17-02.08.45:306][157]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.45:357][157]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.08.17-02.08.50:639][276]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.50:741][276]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.52:686][316]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.08.52:767][316]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.08.52:767][316]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.08.52:779][316]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.08.17-02.08.52:847][316]MaterialEditorStats: Error: [SM4] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.09.53:320][921]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.09.53:321][921]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.09.53:321][921]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.09.53:412][921]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.08.17-02.09.56:362][999]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.09.56:363][999]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.09.56:363][999]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.09.56:415][999]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.08.17-02.09.59:083][ 70]LogMaterialEditor: Applying material M_SpaceSky
+[2020.08.17-02.10.03:251][113]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.10.05:520][167]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.10.05:521][167]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.10.05:521][167]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.10.13:146][367]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.10.13:239][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2020.08.17-02.10.15:065][411]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.10.15:065][411]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.10.15:065][411]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.10.19:322][517]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.10.20:520][544]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.10.20:520][544]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.10.20:520][544]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.10.23:521][622]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.10.23:528][622]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2020.08.17-02.10.25:219][661]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.10.25:219][661]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.10.25:219][661]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.10.25:524][667]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.10.25:575][667]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2020.08.17-02.10.26:828][696]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.10.26:829][696]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.10.26:829][696]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.10.28:157][729]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.10.28:158][729]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.10.28:158][729]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.10.28:179][729]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2020.08.17-02.10.28:204][729]MaterialEditorStats: Error: [SM4] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.11.02:570][311]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.05:091][363]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.05:185][363]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.17-02.11.06:567][395]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.11.06:567][395]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.11.06:567][395]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.11.09:715][468]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.09:793][468]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.17-02.11.12:533][532]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.12:534][532]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.11.12:535][532]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2020.08.17-02.11.12:567][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.17-02.11.12:594][532]MaterialEditorStats: Error: [SM4] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2020.08.17-02.11.19:441][703]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.20:562][727]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.11.20:563][727]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.11.20:563][727]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.11.34:973][ 93]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.36:117][117]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.11.36:117][117]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.11.36:117][117]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.11.37:719][158]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.39:029][189]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.11.39:030][189]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.11.39:030][189]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.11.42:641][280]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.42:727][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.11.44:233][312]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.11.44:233][312]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.11.44:233][312]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.11.44:623][320]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.44:693][320]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.11.46:831][368]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.11.46:831][368]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.11.46:832][368]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.11.47:742][389]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.47:743][389]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.11.47:743][389]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local1 = (Local0 * 1.00000000);
+: float3 -> float2
+[2020.08.17-02.11.47:774][389]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.11.47:816][389]MaterialEditorStats: Error: [SM4] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local1 = (Local0 * 1.00000000);
+: float3 -> float2
+[2020.08.17-02.11.50:968][466]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.51:013][466]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.11.52:549][499]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.54:942][550]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.11.54:942][550]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.11.54:942][550]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.11.54:942][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.11.56:413][574]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.56:472][574]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.58:428][617]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.11.58:428][617]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.11.58:428][617]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.11.58:428][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.11.58:866][626]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.11.58:898][626]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.12.00:732][668]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.12.00:732][668]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.12.00:732][668]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.12.35:572][558]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.12.36:064][558]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.12.36:325][559]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2020.08.17-02.12.39:151][626]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.12.39:152][626]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.12.39:152][626]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.12.40:824][664]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.12.42:324][699]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.12.42:325][699]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.12.42:325][699]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.12.52:705][958]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.12.52:745][958]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.12.52:884][959]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2020.08.17-02.12.54:882][  6]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.12.54:882][  6]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.12.54:882][  6]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.13.10:510][403]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.11:666][428]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.13:179][461]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.15:062][506]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.13.15:063][506]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.13.15:063][506]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.13.15:645][519]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.15:669][519]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.13.18:279][580]LogMaterialEditor: Applying material M_SpaceSky
+[2020.08.17-02.13.26:083][580]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.26:292][580]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.26:329][580]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.30:271][580]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SpaceSky, compiling. 
+[2020.08.17-02.13.30:610][580]TextureStreamingBuild: Display: Compiling optional shaders took 0.396 seconds.
+[2020.08.17-02.13.30:709][580]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.13.30:709][580]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.13.30:709][580]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.13.48:510][ 51]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.48:575][ 51]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_2, compiling. 
+[2020.08.17-02.13.50:702][ 99]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.13.50:702][ 99]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.13.50:702][ 99]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.13.59:133][319]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.13.59:157][319]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_2, compiling. 
+[2020.08.17-02.14.01:346][372]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.14.01:347][372]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.14.01:347][372]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.14.04:912][461]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.14.04:914][461]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.14.04:914][461]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.14.04:926][461]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_2, compiling. 
+[2020.08.17-02.14.04:961][461]MaterialEditorStats: Error: [SM4] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2020.08.17-02.21.01:175][118]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.03:007][161]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.07:289][262]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.07:290][262]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.07:290][262]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.09:885][327]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.09:903][327]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.10:041][328]LogMaterial: Missing cached shader map for material Material_9, compiling. 
+[2020.08.17-02.21.12:128][373]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.12:128][373]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.12:128][373]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.13:327][402]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.14:479][427]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.15:887][461]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.15:887][461]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.15:887][461]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.19:116][500]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.20:371][530]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.20:371][530]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.20:371][530]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.21:271][553]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.22:594][583]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.22:594][583]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.22:594][583]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.23:025][595]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.24:237][624]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.24:237][624]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.24:238][624]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.25:556][658]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.26:812][687]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.26:813][687]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.26:813][687]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.27:297][699]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.28:748][733]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.28:748][733]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.28:748][733]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.29:161][744]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.30:671][781]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.30:671][781]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.30:671][781]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.31:047][790]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.31:105][790]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.21.32:771][829]MaterialEditorStats: Base pass shader without light map: 27 instructions
+[2020.08.17-02.21.32:771][829]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.32:771][829]MaterialEditorStats: Texture samplers: 0/16
+[2020.08.17-02.21.41:069][ 39]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.41:114][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.21.43:004][ 82]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.21.43:005][ 82]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.43:005][ 82]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.21.50:519][271]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.21.51:899][304]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.21.51:899][304]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.21.51:899][304]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.04:606][629]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.05:743][654]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.05:744][654]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.05:745][654]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.11:432][793]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.11:453][793]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.12:764][822]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.12:764][822]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.12:765][822]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.13:046][827]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.13:807][841]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.15:916][888]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.15:916][888]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.15:916][888]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.16:227][894]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.17:572][925]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.17:572][925]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.17:572][925]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.17:791][929]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.19:090][959]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.19:090][959]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.19:090][959]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.20:189][985]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.21:504][ 16]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.21:505][ 16]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.21:505][ 16]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.22:831][ 49]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.24:121][ 78]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.24:792][ 93]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.26:707][137]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.26:708][137]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.26:708][137]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.29:461][206]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.30:931][241]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.30:931][241]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.30:931][241]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.31:142][245]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.31:801][260]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.33:781][306]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.22.33:781][306]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.33:782][306]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.35:329][343]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.36:715][374]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.38:082][406]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.08.17-02.22.38:082][406]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.38:083][406]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.38:913][426]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.22.40:247][457]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.22.40:247][457]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.22.40:247][457]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.22.58:995][943]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.00:722][986]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.23.00:723][986]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.23.00:723][986]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.04:287][ 77]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.06:031][120]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.23.06:031][120]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.23.06:031][120]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.07:542][159]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.09:118][195]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.23.09:118][195]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.23.09:118][195]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.09:309][198]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.10:755][231]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.13:215][292]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.23.13:216][292]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.23.13:216][292]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.20:641][475]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.20:650][475]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.22:079][504]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.23.22:079][504]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.23.22:079][504]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.22:433][510]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.24:116][550]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.23.24:117][550]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.23.24:117][550]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.24:303][553]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.26:129][597]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2020.08.17-02.23.26:130][597]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.23.26:130][597]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.41:279][989]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.41:311][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.23.44:163][ 57]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.23.44:163][ 57]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.23.44:164][ 57]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.44:164][ 57]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.23.47:511][140]LogMaterialEditor: Applying material M_SpaceSky
+[2020.08.17-02.23.48:760][140]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.48:802][140]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.48:849][140]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.23.48:956][140]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SpaceSky, compiling. 
+[2020.08.17-02.23.49:595][140]TextureStreamingBuild: Display: Compiling optional shaders took 0.677 seconds.
+[2020.08.17-02.23.50:732][165]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.23.50:733][165]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.23.50:733][165]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.23.50:733][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.24.04:825][528]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.24.04:826][528]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.24.04:826][528]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2020.08.17-02.24.04:831][528]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.24.04:858][528]MaterialEditorStats: Error: [SM4] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2020.08.17-02.24.09:594][642]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.24.09:604][642]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.24.13:039][721]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.24.13:039][721]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.24.13:040][721]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.24.13:040][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.24.32:471][202]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.24.32:745][202]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.24.32:982][203]LogMaterial: Missing cached shader map for material Material_10, compiling. 
+[2020.08.17-02.24.36:204][278]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.24.36:207][278]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.24.36:208][278]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.24.36:208][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.24.38:897][341]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.24.38:898][341]LogMaterial: Warning: /Engine/Transient.M_SpaceSky (no disk path found): Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2020.08.17-02.24.38:898][341]LogMaterial: 	Function ConstantScalebyDistance: (Node Multiply) Arithmetic between types float3 and float are undefined
+[2020.08.17-02.24.38:910][341]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.24.38:936][341]MaterialEditorStats: Error: [SM4] Function ConstantScalebyDistance: (Node Multiply) Arithmetic between types float3 and float are undefined
+[2020.08.17-02.24.41:764][410]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.24.41:830][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.24.44:948][480]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.24.44:948][480]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.24.44:948][480]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.24.44:949][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.25.14:735][229]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.17:036][283]LogEditorTransaction: Undo Material Editor: Delete
+[2020.08.17-02.25.17:111][283]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.17:425][283]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.17:718][283]LogSlate: Took 0.078739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.17-02.25.19:159][314]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.25.19:160][314]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.25.19:160][314]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.25.19:160][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.25.21:946][381]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.23:647][419]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.25.23:647][419]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.25.23:647][419]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.25.23:647][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.25.29:649][569]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.31:506][612]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.25.31:506][612]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.25.31:507][612]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.25.31:507][612]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.25.34:611][686]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.34:626][686]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.36:039][715]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.25.36:040][715]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.25.36:040][715]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.25.36:040][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.25.37:405][746]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.37:442][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.25.39:967][803]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2020.08.17-02.25.39:967][803]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.25.39:967][803]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.25.53:060][144]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.54:695][184]MaterialEditorStats: Base pass shader without light map: 36 instructions
+[2020.08.17-02.25.54:695][184]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.25.54:695][184]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.25.58:915][293]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.25.58:969][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.26.01:325][319]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.26.01:325][319]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.26.01:325][319]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.26.01:325][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.27.36:979][995]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.27.39:519][ 56]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.27.39:519][ 56]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.17-02.27.39:519][ 56]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.27.39:519][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.17-02.27.42:291][129]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.27.42:321][129]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.27.44:009][170]LogMaterialEditor: Applying material M_SpaceSky
+[2020.08.17-02.27.44:951][170]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.27.45:065][170]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.27.45:122][170]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.27.45:232][170]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SpaceSky, compiling. 
+[2020.08.17-02.27.45:839][170]TextureStreamingBuild: Display: Compiling optional shaders took 0.618 seconds.
+[2020.08.17-02.27.46:816][193]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.27.46:817][193]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.27.46:817][193]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.27.52:947][361]LogMaterialEditor: Saving and Compiling material M_SpaceSky
+[2020.08.17-02.27.53:075][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/Sky/M_SpaceSky" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sky/M_SpaceSky.uasset" SILENT=true
+[2020.08.17-02.27.53:218][361]LogSavePackage: Save=140.18ms
+[2020.08.17-02.27.53:219][361]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/M_SpaceSky57AAE95E42D5DF52477853A76A7672CA.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sky/M_SpaceSky.uasset'
+[2020.08.17-02.27.53:221][361]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sky/M_SpaceSky.uasset
+[2020.08.17-02.28.00:591][482]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.28.00:677][482]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.28.00:721][482]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.28.00:816][482]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SpaceSky, compiling. 
+[2020.08.17-02.28.01:401][482]TextureStreamingBuild: Display: Compiling optional shaders took 0.598 seconds.
+[2020.08.17-02.29.00:404][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GamePlayTestMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.17-02.29.02:331][ 89]LogSavePackage: Save=1129.96ms
+[2020.08.17-02.29.02:331][ 89]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GamePlayTestMap43A5DB4546F7BAC30C855290FD23831C.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap'
+[2020.08.17-02.29.02:349][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/GamePlayTestMap.umap
+[2020.08.17-02.29.03:630][ 89]LogFileHelpers: Saving map 'GamePlayTestMap' took 21.312
+[2020.08.17-02.29.03:638][ 89]LightingResults: New page: Lighting Build
+[2020.08.17-02.29.03:966][ 89]MapCheck: New page: Map Check
+[2020.08.17-02.29.03:966][ 89]LightingResults: New page: Lighting Build
+[2020.08.17-02.29.05:897][ 89]LogAIModule: Creating AISystem for world Untitled
+[2020.08.17-02.29.14:264][ 89]LoadErrors: New page: New Map
+[2020.08.17-02.30.12:434][594]LogSlate: Took 0.000841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.17-02.30.19:939][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.17-02.30.20:076][594]LogSavePackage: Save=62.87ms
+[2020.08.17-02.30.20:077][594]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap75BDBB46463845885A617789F456EF09.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.17-02.30.20:078][594]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.17-02.30.20:183][594]LogFileHelpers: Saving map 'SpaceMap' took 1.020
+[2020.08.17-02.30.20:301][594]Cmd: MAP LOAD FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.17-02.30.20:332][594]LightingResults: New page: Lighting Build
+[2020.08.17-02.30.20:601][594]LoadErrors: New page: Loading map: SpaceMap.umap
+[2020.08.17-02.30.20:601][594]MapCheck: New page: Map Check
+[2020.08.17-02.30.20:601][594]LightingResults: New page: Lighting Build
+[2020.08.17-02.30.20:862][594]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.17-02.30.21:436][594]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.17-02.30.21:566][594]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.17-02.30.21:726][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.645ms to complete.
+[2020.08.17-02.30.21:756][594]LogFileHelpers: Loading map 'SpaceMap' took 1.573
+[2020.08.17-02.32.09:501][860]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.32.09:741][860]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.32.09:849][860]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.32.09:884][860]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.17-02.32.09:912][860]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.17-02.32.18:161][ 33]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.32.18:161][ 33]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.32.18:161][ 33]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.32.37:108][521]LogMaterial: Missing cached shader map for material M_SpaceSky, compiling. 
+[2020.08.17-02.32.37:862][522]LogMaterial: Missing cached shader map for material Material_11, compiling. 
+[2020.08.17-02.32.37:884][522]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2020.08.17-02.32.37:884][522]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.17-02.32.37:884][522]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.17-02.32.51:471][557]LogStats: FPlatformStackWalk::StackWalkAndDump - 11.553 s
+[2020.08.17-02.32.51:473][557]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.17-02.32.51:473][557]LogOutputDevice: Error: 
+[2020.08.17-02.32.51:473][557]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 81]
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: FMath::FMod(X=0.000000, Y=0.000000) : Y is zero, this is invalid and would result in NaN!
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: Stack: 
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x0000000088562786 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x000000008830123A UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x000000008831B906 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x00000000881B1B95 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x000000008624BA02 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x000000008624CC3E UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x000000008624CC3E UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x000000008624B1A6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:487][557]LogOutputDevice: Error: [Callstack] 0x000000008624B1A6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x000000008624B1A6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x0000000086297988 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000862A1816 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x000000008625D9BB UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000862F9271 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x000000007C7DDA7A UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x000000007C7E60A9 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000881C4845 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000881C4E2A UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000C2A022C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000C2A032F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x000000008856092C UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x0000000088552563 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000D4176FD4 KERNEL32.DLL!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: [Callstack] 0x00000000D52BCEC1 ntdll.dll!UnknownFunction []
+[2020.08.17-02.32.51:488][557]LogOutputDevice: Error: 
+[2020.08.17-02.32.51:490][557]LogStats:                SubmitErrorReport -  0.003 s

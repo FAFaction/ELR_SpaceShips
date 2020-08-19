@@ -1,0 +1,1632 @@
+﻿Log file open, 08/19/20 14:52:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ELR_spaceship
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1082972449) SRandInit(-1082972449).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.305133
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.19-08.52.13:740][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.19-08.52.13:740][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.19-08.52.13:855][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.19-08.52.13:855][  0]LogInit: User: farha
+[2020.08.19-08.52.13:855][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.19-08.52.13:855][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.19-08.52.13:856][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.19-08.52.13:856][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.19-08.52.13:856][  0]LogMemory: Process Physical Memory: 272.80 MB used, 272.80 MB peak
+[2020.08.19-08.52.13:856][  0]LogMemory: Process Virtual Memory: 269.11 MB used, 269.11 MB peak
+[2020.08.19-08.52.13:856][  0]LogMemory: Physical Memory: 3082.69 MB used,  894.32 MB free, 3977.01 MB total
+[2020.08.19-08.52.13:856][  0]LogMemory: Virtual Memory: 4759.74 MB used,  894.32 MB free, 134217728.00 MB total
+[2020.08.19-08.52.14:426][  0]LogInit: Using OS detected language (en-US).
+[2020.08.19-08.52.14:426][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.19-08.52.14:888][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.19-08.52.16:003][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.19-08.52.18:035][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.19-08.52.18:057][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.19-08.52.18:057][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.19-08.52.18:102][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.19-08.52.18:102][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.19-08.52.18:102][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.19-08.52.18:118][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.19-08.52.18:118][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.19-08.52.18:118][  0]LogWindows: EnumDisplayDevices:
+[2020.08.19-08.52.18:119][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.19-08.52.18:119][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.19-08.52.18:119][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.19-08.52.18:119][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.19-08.52.18:119][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.19-08.52.18:119][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.19-08.52.18:119][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.19-08.52.18:124][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.19-08.52.18:229][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.19-08.52.18:230][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../Projects/Client_Projects/ELR_spaceship/Intermediate/Shaders/WorkingDirectory/10932/).
+[2020.08.19-08.52.18:231][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/CDADE1404703BAD0E9A1E9847590918C/'.
+[2020.08.19-08.52.18:231][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.19-08.52.23:903][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.19-08.52.23:995][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.19-08.52.24:101][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.19-08.52.24:175][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.19-08.52.24:344][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.19-08.52.24:432][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.19-08.52.24:505][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.19-08.52.24:585][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.19-08.52.24:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.19-08.52.24:781][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.19-08.52.24:879][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.19-08.52.24:951][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.19-08.52.25:026][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.19-08.52.25:127][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.19-08.52.25:288][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.19-08.52.25:289][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.19-08.52.25:610][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.19-08.52.25:723][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.19-08.52.26:063][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.19-08.52.26:108][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.19-08.52.26:247][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.19-08.52.26:400][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.19-08.52.26:575][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.19-08.52.26:734][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.19-08.52.26:734][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.19-08.52.28:423][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.19-08.52.29:930][  0]LogDerivedDataCache: Loaded boot cache 1.45s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.19-08.52.29:930][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.19-08.52.29:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.19-08.52.29:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.19-08.52.29:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Client_Projects/ELR_spaceship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.19-08.52.29:931][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.19-08.52.29:984][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.19-08.52.30:044][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.19-08.52.30:052][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.19-08.52.30:052][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.19-08.52.30:237][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.19-08.52.30:237][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.19-08.52.37:280][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.19-08.52.51:534][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.19-08.52.51:649][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.19-08.52.51:651][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.19-08.52.51:651][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.19-08.52.51:651][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.19-08.52.51:651][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.19-08.52.52:966][  0]LogNetVersion: ELR_spaceship , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1111601439)
+[2020.08.19-08.52.55:346][  0]LogAssetRegistry: FAssetRegistry took 0.0406 seconds to start up
+[2020.08.19-08.53.04:805][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.329778 seconds
+[2020.08.19-08.53.04:881][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.19-08.53.04:882][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.08.19-08.53.04:882][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.19-08.53.05:173][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.19-08.53.28:010][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.19-08.53.28:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.19-08.53.36:829][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.19-08.53.41:075][  0]SourceControl: Source control is disabled
+[2020.08.19-08.53.41:126][  0]SourceControl: Source control is disabled
+[2020.08.19-08.53.41:949][  0]SourceControl: Source control is disabled
+[2020.08.19-08.53.42:188][  0]SourceControl: Source control is disabled
+[2020.08.19-08.53.47:884][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.19-08.53.48:985][  0]LogOcInput: OculusInput pre-init called
+[2020.08.19-08.53.50:802][  0]LogEngine: Initializing Engine...
+[2020.08.19-08.53.50:899][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.19-08.53.52:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.19-08.53.52:354][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.002 s
+[2020.08.19-08.53.56:900][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.19-08.53.57:388][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-08.53.57:485][  0]LogInit: FAudioDevice initialized.
+[2020.08.19-08.53.58:727][  0]LogDerivedDataCache: Saved boot cache 1.19s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.19-08.53.58:911][  0]LogInit: Texture streaming: Enabled
+[2020.08.19-08.53.59:841][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.19-08.54.02:020][  0]LogInit: Transaction tracking system initialized
+[2020.08.19-08.54.03:166][  0]BlueprintLog: New page: Editor Load
+[2020.08.19-08.54.10:950][  0]LocalizationService: Localization service is disabled
+[2020.08.19-08.54.16:820][  0]LogConsoleResponse: Display: 
+[2020.08.19-08.54.24:698][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/' took 0.23s
+[2020.08.19-08.54.24:717][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.19-08.54.24:727][  0]LogCook: Display: Mobile HDR setting 0
+[2020.08.19-08.54.24:840][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.19-08.54.50:752][  0]SourceControl: Source control is disabled
+[2020.08.19-08.54.50:870][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.19-08.54.50:982][  0]LightingResults: New page: Lighting Build
+[2020.08.19-08.54.52:346][  0]MapCheck: New page: Map Check
+[2020.08.19-08.54.52:346][  0]LightingResults: New page: Lighting Build
+[2020.08.19-08.55.44:789][  0]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-08.55.47:478][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.08.19-08.55.48:699][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.19-08.55.51:401][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,681.897ms to complete.
+[2020.08.19-08.55.51:447][  0]LogFileHelpers: Loading map 'SpaceMap' took 60.610
+[2020.08.19-08.56.08:285][  0]LogCollectionManager: Loaded 0 collections in 0.001784 seconds
+[2020.08.19-08.56.08:766][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Saved/Collections/' took 0.06s
+[2020.08.19-08.56.08:766][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Developers/farha/Collections/' took 0.01s
+[2020.08.19-08.56.08:766][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Collections/' took 0.01s
+[2020.08.19-08.56.08:766][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.19-08.56.08:808][  0]LogContentBrowser: Native class hierarchy populated in 0.0222 seconds. Added 2364 classes and 521 folders.
+[2020.08.19-08.56.09:332][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.08.19-08.56.13:327][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.19-08.56.14:176][  0]LogSlate: Took 0.150165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.19-08.56.14:733][  0]LogSlate: Took 0.013348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.19-08.56.17:385][  0]LogRenderer: Reallocating scene render targets to support 1016x656 Format 10 NumSamples 1 (Frame:1).
+[2020.08.19-08.56.24:252][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.19-08.56.24:262][  0]LogLoad: (Engine Initialization) Total time: 267.87 seconds
+[2020.08.19-08.56.24:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.19-08.56.24:357][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.19-08.56.26:578][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.19-08.56.32:744][  7]LogAssetRegistry: Asset discovery search completed in 217.4221 seconds
+[2020.08.19-08.56.32:961][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.19-08.56.32:963][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012749 seconds (updated 0 objects)
+[2020.08.19-08.56.40:895][ 26]LogSlate: Took 0.039710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.19-08.56.49:390][816]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-08.56.50:563][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-08.56.51:102][816]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 8:56:50 PM)
+[2020.08.19-08.56.51:135][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-08.56.51:193][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057295s)
+[2020.08.19-08.56.51:220][816]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-08.56.51:244][816]LogPlayLevel: PIE: World Init took: (0.050988s)
+[2020.08.19-08.56.51:254][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.124259s)
+[2020.08.19-08.56.51:472][816]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-08.56.51:507][816]LogInit: FAudioDevice initialized.
+[2020.08.19-08.56.51:663][816]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-08.56.51:895][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-14.56.51
+[2020.08.19-08.56.51:970][816]LogWorld: Bringing up level for play took: 0.081000
+[2020.08.19-08.56.52:306][816]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0208 seconds. Added 11 classes and 0 folders.
+[2020.08.19-08.56.52:808][816]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 1.665
+[2020.08.19-08.57.02:007][ 49]Cmd: LevelEditor.ToggleImmersive
+[2020.08.19-08.57.03:012][ 50]LogRenderer: Reallocating scene render targets to support 1368x740 Format 10 NumSamples 1 (Frame:235).
+[2020.08.19-08.57.26:839][520]Set new viewmode: Wireframe
+[2020.08.19-08.57.32:952][926]LogSlate: Took 0.037538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.19-08.57.33:282][926]LogSlate: Took 0.002274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.19-08.57.37:482][926]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2020.08.19-08.57.44:150][926]LogSlate: Took 0.030779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.19-08.57.54:193][314]BlueprintLog: New page: Compile SelectionmenuWB
+[2020.08.19-08.57.55:591][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SelectionmenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset" SILENT=true
+[2020.08.19-08.57.56:493][341]LogSavePackage: Save=311.46ms
+[2020.08.19-08.57.56:493][341]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SelectionmenuWBBF0A1A6F4E805B7070EEBD87BDC0E613.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset'
+[2020.08.19-08.57.56:568][341]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset
+[2020.08.19-08.57.57:692][431]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-08.57.57:909][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-08.57.57:909][431]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 8:57:57 PM)
+[2020.08.19-08.57.57:910][431]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-08.57.57:911][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001340s)
+[2020.08.19-08.57.57:930][431]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-08.57.57:931][431]LogPlayLevel: PIE: World Init took: (0.019495s)
+[2020.08.19-08.57.57:931][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.021158s)
+[2020.08.19-08.57.57:984][431]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-08.57.57:992][431]LogInit: FAudioDevice initialized.
+[2020.08.19-08.57.58:035][431]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-08.57.58:036][431]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-14.57.58
+[2020.08.19-08.57.58:037][431]LogWorld: Bringing up level for play took: 0.001061
+[2020.08.19-08.57.58:045][431]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.926
+[2020.08.19-08.58.40:077][447]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Right
+[2020.08.19-08.58.40:829][463]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Left
+[2020.08.19-08.58.41:549][481]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Left
+[2020.08.19-08.58.42:258][499]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Right
+[2020.08.19-08.58.42:974][517]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Right
+[2020.08.19-08.58.43:690][535]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Left
+[2020.08.19-08.58.50:609][709]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Right
+[2020.08.19-08.58.54:571][800]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Left
+[2020.08.19-08.58.56:529][849]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Right
+[2020.08.19-08.59.00:441][944]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Left
+[2020.08.19-08.59.02:550][995]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Left
+[2020.08.19-08.59.04:302][ 37]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Right
+[2020.08.19-08.59.06:968][102]LogBlueprintUserMessages: [ScoutShip-X5BP_C_5] Left
+[2020.08.19-08.59.35:054][249]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-08.59.35:092][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-08.59.35:093][249]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 8:59:35 PM)
+[2020.08.19-08.59.35:093][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-08.59.35:095][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001485s)
+[2020.08.19-08.59.35:095][249]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-08.59.35:096][249]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2020.08.19-08.59.35:096][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002783s)
+[2020.08.19-08.59.35:142][249]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-08.59.35:149][249]LogInit: FAudioDevice initialized.
+[2020.08.19-08.59.35:185][249]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-08.59.35:186][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-14.59.35
+[2020.08.19-08.59.35:187][249]LogWorld: Bringing up level for play took: 0.001003
+[2020.08.19-08.59.35:195][249]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.076
+[2020.08.19-09.00.11:290][145]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Left
+[2020.08.19-09.00.11:810][158]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.00.12:563][177]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.00.13:158][192]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Left
+[2020.08.19-09.00.13:751][207]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Left
+[2020.08.19-09.00.14:581][228]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.00.16:695][281]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Left
+[2020.08.19-09.00.17:098][291]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.00.17:660][305]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Left
+[2020.08.19-09.00.18:018][314]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.00.20:665][380]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Left
+[2020.08.19-09.00.21:158][392]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.00.21:641][404]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.00.22:087][415]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Left
+[2020.08.19-09.00.39:767][848]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_6] Right
+[2020.08.19-09.01.07:303][830]LogSlate: Took 0.061540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.19-09.01.30:645][404]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-09.01.33:788][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-09.01.34:666][474]LogSavePackage: Save=552.29ms
+[2020.08.19-09.01.34:666][474]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneE10330AC498712CCBCF0CF9D935DFF75.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-09.01.34:723][474]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-09.01.35:861][566]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.01.35:919][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-09.01.35:919][566]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:01:35 PM)
+[2020.08.19-09.01.35:919][566]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.01.35:921][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001517s)
+[2020.08.19-09.01.35:922][566]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.01.35:922][566]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2020.08.19-09.01.35:922][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002865s)
+[2020.08.19-09.01.35:960][566]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.01.35:967][566]LogInit: FAudioDevice initialized.
+[2020.08.19-09.01.36:001][566]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.01.36:002][566]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.01.36
+[2020.08.19-09.01.36:003][566]LogWorld: Bringing up level for play took: 0.000774
+[2020.08.19-09.01.36:012][566]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.893
+[2020.08.19-09.01.55:328][ 39]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-09.01.56:035][ 56]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.01.56:980][ 78]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.01.57:485][ 90]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-09.02.05:024][267]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.02.07:528][323]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-09.02.13:825][465]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-09.02.16:065][519]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.02.20:314][620]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.02.21:385][645]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-09.02.24:515][717]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.02.28:032][798]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-09.02.35:377][970]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-09.02.37:641][ 24]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.02.38:081][ 35]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-09.03.01:006][166]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-09.03.03:614][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.03.03:655][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-09.03.03:656][290]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:03:03 PM)
+[2020.08.19-09.03.03:976][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.03.04:001][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024501s)
+[2020.08.19-09.03.04:001][290]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.03.04:002][290]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2020.08.19-09.03.04:002][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.025872s)
+[2020.08.19-09.03.04:042][290]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.03.04:051][290]LogInit: FAudioDevice initialized.
+[2020.08.19-09.03.04:089][290]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.03.04:091][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.03.04
+[2020.08.19-09.03.04:091][290]LogWorld: Bringing up level for play took: 0.000860
+[2020.08.19-09.03.04:099][290]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.98
+[2020.08.19-09.03.14:871][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SelectionmenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset" SILENT=true
+[2020.08.19-09.03.15:101][620]LogSavePackage: Save=161.80ms
+[2020.08.19-09.03.15:101][620]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SelectionmenuWB0F7C78F043315AA333F5F08078FD94DA.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset'
+[2020.08.19-09.03.15:103][620]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset
+[2020.08.19-09.05.11:845][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-09.05.12:106][719]LogSavePackage: Save=51.72ms
+[2020.08.19-09.05.12:106][719]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI7B67557A494EA57B15F8188D8A96D570.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-09.05.12:148][719]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-09.05.19:212][320]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.05.19:473][320]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.19-09.05.19:523][320]LogPlayLevel: [PlayLevel] Compiling SelectionmenuWB before play...
+[2020.08.19-09.05.19:760][320]LogPlayLevel: PlayLevel: Blueprint regeneration took 288 ms (1 blueprints)
+[2020.08.19-09.05.19:761][320]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:05:19 PM)
+[2020.08.19-09.05.19:765][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.05.19:766][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001501s)
+[2020.08.19-09.05.19:767][320]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.05.19:767][320]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2020.08.19-09.05.19:768][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.002844s)
+[2020.08.19-09.05.19:803][320]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.05.19:812][320]LogInit: FAudioDevice initialized.
+[2020.08.19-09.05.19:849][320]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.05.19:850][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.05.19
+[2020.08.19-09.05.19:851][320]LogWorld: Bringing up level for play took: 0.000878
+[2020.08.19-09.05.19:859][320]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.74
+[2020.08.19-09.05.46:821][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SelectionmenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset" SILENT=true
+[2020.08.19-09.05.47:052][ 55]LogSavePackage: Save=213.32ms
+[2020.08.19-09.05.47:053][ 55]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SelectionmenuWB8E7D71E3497732339A50289B277C9E64.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset'
+[2020.08.19-09.05.47:056][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset
+[2020.08.19-09.07.12:046][331]BlueprintLog: New page: Compile SelectionmenuWB
+[2020.08.19-09.07.13:392][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SelectionmenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset" SILENT=true
+[2020.08.19-09.07.13:768][405]LogSavePackage: Save=347.90ms
+[2020.08.19-09.07.13:768][405]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SelectionmenuWBFB21671A4F9BC4B585A655BF0A5FC936.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset'
+[2020.08.19-09.07.13:770][405]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset
+[2020.08.19-09.07.18:247][626]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.07.18:307][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-09.07.18:307][626]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:07:18 PM)
+[2020.08.19-09.07.18:308][626]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.07.18:310][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001785s)
+[2020.08.19-09.07.18:311][626]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.07.18:311][626]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2020.08.19-09.07.18:311][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003508s)
+[2020.08.19-09.07.18:360][626]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.07.18:368][626]LogInit: FAudioDevice initialized.
+[2020.08.19-09.07.18:413][626]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.07.18:415][626]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.07.18
+[2020.08.19-09.07.18:415][626]LogWorld: Bringing up level for play took: 0.001393
+[2020.08.19-09.07.18:428][626]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.691
+[2020.08.19-09.08.15:841][737]BlueprintLog: New page: Compile SelectionmenuWB
+[2020.08.19-09.08.16:518][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SelectionmenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset" SILENT=true
+[2020.08.19-09.08.16:778][772]LogSavePackage: Save=224.25ms
+[2020.08.19-09.08.16:780][772]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SelectionmenuWBE69EDDCA4DCDB0A4A5A3E1B7403FE313.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset'
+[2020.08.19-09.08.16:783][772]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset
+[2020.08.19-09.08.18:296][880]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.08.18:348][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-09.08.18:348][880]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:08:18 PM)
+[2020.08.19-09.08.18:348][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.08.18:350][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001782s)
+[2020.08.19-09.08.18:351][880]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.08.18:351][880]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2020.08.19-09.08.18:351][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003214s)
+[2020.08.19-09.08.18:393][880]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.08.18:401][880]LogInit: FAudioDevice initialized.
+[2020.08.19-09.08.18:436][880]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.08.18:437][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.08.18
+[2020.08.19-09.08.18:438][880]LogWorld: Bringing up level for play took: 0.000886
+[2020.08.19-09.08.18:446][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.673
+[2020.08.19-09.08.35:530][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-09.08.35:802][368]LogSavePackage: Save=62.43ms
+[2020.08.19-09.08.35:803][368]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap83B9659F46A552DA2372F7A044B252C7.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-09.08.35:804][368]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-09.08.38:419][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-09.08.38:515][554]LogSavePackage: Save=77.79ms
+[2020.08.19-09.08.38:515][554]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GIE10FA4B14741411B243A75BC7A06E1BC.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-09.08.38:517][554]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-09.10.06:652][259]BlueprintLog: New page: Compile SelectionmenuWB
+[2020.08.19-09.10.07:257][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SelectionmenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset" SILENT=true
+[2020.08.19-09.10.07:446][284]LogSavePackage: Save=171.36ms
+[2020.08.19-09.10.07:446][284]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SelectionmenuWB5ED84F0B4354A0BCCAA2469074B25771.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset'
+[2020.08.19-09.10.07:448][284]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset
+[2020.08.19-09.10.09:273][424]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.10.09:321][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-09.10.09:321][424]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:10:09 PM)
+[2020.08.19-09.10.09:326][424]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.10.09:329][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002634s)
+[2020.08.19-09.10.09:330][424]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.10.09:330][424]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2020.08.19-09.10.09:331][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.004441s)
+[2020.08.19-09.10.09:376][424]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.10.09:386][424]LogInit: FAudioDevice initialized.
+[2020.08.19-09.10.09:422][424]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.10.09:423][424]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.10.09
+[2020.08.19-09.10.09:424][424]LogWorld: Bringing up level for play took: 0.001091
+[2020.08.19-09.10.09:434][424]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.314
+[2020.08.19-09.10.27:034][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-09.10.27:159][904]LogSavePackage: Save=43.02ms
+[2020.08.19-09.10.27:159][904]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapC00B0E5F4950E0E96B80FB8B954AC2E1.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-09.10.27:161][904]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-09.10.29:521][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.10.29:573][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-09.10.29:573][ 56]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:10:29 PM)
+[2020.08.19-09.10.29:573][ 56]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.10.29:575][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001705s)
+[2020.08.19-09.10.29:576][ 56]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.10.29:576][ 56]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2020.08.19-09.10.29:577][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003208s)
+[2020.08.19-09.10.29:621][ 56]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.10.29:631][ 56]LogInit: FAudioDevice initialized.
+[2020.08.19-09.10.29:665][ 56]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.10.29:666][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.10.29
+[2020.08.19-09.10.29:666][ 56]LogWorld: Bringing up level for play took: 0.000879
+[2020.08.19-09.10.29:675][ 56]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.556
+[2020.08.19-09.10.45:354][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-09.10.45:470][473]LogSavePackage: Save=48.74ms
+[2020.08.19-09.10.45:470][473]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap4DB7B5234503E8BEBA7D7DBE92F520CC.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-09.10.45:472][473]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-09.13.10:463][424]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Young Tonight.wav)
+[2020.08.19-09.13.10:855][424]LogAudioDerivedData: Display: Building compressed audio format OGG wave Young_Tonight...
+[2020.08.19-09.13.13:630][424]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Music/Young_Tonight.Young_Tonight.
+[2020.08.19-09.13.15:415][424]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\cyborg kingdom.wav)
+[2020.08.19-09.13.15:999][424]LogAudioDerivedData: Display: Building compressed audio format OGG wave cyborg_kingdom...
+[2020.08.19-09.13.26:792][424]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Music/cyborg_kingdom.cyborg_kingdom.
+[2020.08.19-09.13.29:079][424]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Isotope (1).wav)
+[2020.08.19-09.13.29:295][424]LogAudioDerivedData: Display: Building compressed audio format OGG wave Isotope__1_...
+[2020.08.19-09.13.33:213][424]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Music/Isotope__1_.Isotope__1_.
+[2020.08.19-09.13.35:475][424]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Robot plasm.mp3)
+[2020.08.19-09.13.35:746][424]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Technologich Soundsphere.mp3)
+[2020.08.19-09.15.45:118][673]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Bomb Explosion 1.wav)
+[2020.08.19-09.15.45:123][673]Error: Currently, only 16 bit WAV files are supported (Bomb_Explosion_1).
+[2020.08.19-09.15.51:379][673]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Bomb Explosion 1.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Bomb_Explosion_1'.
+Please see Output Log for details.
+[2020.08.19-09.15.51:729][673]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 1.wav)
+[2020.08.19-09.15.51:734][673]Error: Currently, only 16 bit WAV files are supported (Futuristic_Machine_Gun_1).
+[2020.08.19-09.15.52:224][673]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 1.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_1'.
+Please see Output Log for details.
+[2020.08.19-09.15.52:272][673]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 4.wav)
+[2020.08.19-09.15.52:274][673]Error: Currently, only 16 bit WAV files are supported (Futuristic_Machine_Gun_4).
+[2020.08.19-09.15.52:677][673]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 4.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_4'.
+Please see Output Log for details.
+[2020.08.19-09.15.52:692][673]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 5.wav)
+[2020.08.19-09.15.52:695][673]Error: Currently, only 16 bit WAV files are supported (Futuristic_Machine_Gun_5).
+[2020.08.19-09.15.54:384][673]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 5.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_5'.
+Please see Output Log for details.
+[2020.08.19-09.15.54:537][673]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Propeller whoosh.wav)
+[2020.08.19-09.15.54:586][673]LogAudioDerivedData: Display: Building compressed audio format OGG wave Propeller_whoosh...
+[2020.08.19-09.15.54:665][673]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Effects/Propeller_whoosh.Propeller_whoosh.
+[2020.08.19-09.16.10:803][390]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 1.wav)
+[2020.08.19-09.16.10:807][390]Error: Currently, only 16 bit WAV files are supported (Futuristic_Machine_Gun_1).
+[2020.08.19-09.16.13:569][390]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 1.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_1'.
+Please see Output Log for details.
+[2020.08.19-09.17.39:348][  5]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 4.wav)
+[2020.08.19-09.17.39:350][  5]Error: Currently, only 16 bit WAV files are supported (Futuristic_Machine_Gun_4).
+[2020.08.19-09.17.46:377][  5]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 4.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_4'.
+Please see Output Log for details.
+[2020.08.19-09.17.46:385][  5]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 5.wav)
+[2020.08.19-09.17.46:388][  5]Error: Currently, only 16 bit WAV files are supported (Futuristic_Machine_Gun_5).
+[2020.08.19-09.17.47:093][  5]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 5.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_5'.
+Please see Output Log for details.
+[2020.08.19-09.17.47:102][  5]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 1.wav)
+[2020.08.19-09.17.47:106][  5]Error: Currently, only 16 bit WAV files are supported (Futuristic_Machine_Gun_1).
+[2020.08.19-09.17.47:336][  5]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Futuristic Machine Gun 1.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_1'.
+Please see Output Log for details.
+[2020.08.19-09.17.58:758][407]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-09.17.58:851][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-09.17.58:851][407]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 9:17:58 PM)
+[2020.08.19-09.17.58:852][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-09.17.58:853][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001505s)
+[2020.08.19-09.17.58:855][407]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-09.17.58:855][407]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2020.08.19-09.17.58:855][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003833s)
+[2020.08.19-09.17.58:934][407]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-09.17.58:942][407]LogInit: FAudioDevice initialized.
+[2020.08.19-09.17.58:977][407]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-09.17.58:979][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2020.08.19-15.17.58
+[2020.08.19-09.17.58:979][407]LogWorld: Bringing up level for play took: 0.001043
+[2020.08.19-09.17.58:988][407]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.132
+[2020.08.19-09.47.41:934][567]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Bomb Explosion 1.wav)
+[2020.08.19-09.47.41:943][567]Error: Currently, only 16 bit WAV files are supported (Bomb_Explosion_1).
+[2020.08.19-09.47.44:365][567]LogAssetTools: Warning: Failed to import 'E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Bomb Explosion 1.wav'. Failed to create asset '/Game/GameContents/Sound/Effects/Bomb_Explosion_1'.
+Please see Output Log for details.
+[2020.08.19-09.58.31:878][737]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\New\Bomb Explosion 1 (1).wav)
+[2020.08.19-09.58.32:004][737]LogAudioDerivedData: Display: Building compressed audio format OGG wave Bomb_Explosion_1__1_...
+[2020.08.19-09.58.32:298][737]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Effects/Bomb_Explosion_1__1_.Bomb_Explosion_1__1_.
+[2020.08.19-09.58.32:388][737]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\New\Futuristic Machine Gun 1.wav)
+[2020.08.19-09.58.32:515][737]LogAudioDerivedData: Display: Building compressed audio format OGG wave Futuristic_Machine_Gun_1...
+[2020.08.19-09.58.32:710][737]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_1.Futuristic_Machine_Gun_1.
+[2020.08.19-09.58.32:826][737]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\New\Futuristic Machine Gun 4.wav)
+[2020.08.19-09.58.32:883][737]LogAudioDerivedData: Display: Building compressed audio format OGG wave Futuristic_Machine_Gun_4...
+[2020.08.19-09.58.32:992][737]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_4.Futuristic_Machine_Gun_4.
+[2020.08.19-09.58.33:049][737]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\New\Futuristic Machine Gun 5.wav)
+[2020.08.19-09.58.33:108][737]LogAudioDerivedData: Display: Building compressed audio format OGG wave Futuristic_Machine_Gun_5...
+[2020.08.19-09.58.33:268][737]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Effects/Futuristic_Machine_Gun_5.Futuristic_Machine_Gun_5.
+[2020.08.19-10.06.14:327][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-10.06.16:585][766]LogSavePackage: Save=1564.30ms
+[2020.08.19-10.06.16:585][766]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI802441924CA7CD28C89BD9AAD90A600B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-10.06.16:586][766]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-10.06.46:923][325]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-10.07.29:624][ 74]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.19-10.07.40:217][416]Cmd: TRANSACTION UNDO
+[2020.08.19-10.07.40:218][416]LogEditorTransaction: Undo Move Actors
+[2020.08.19-10.07.40:552][416]LogSlate: Took 0.087089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.19-10.07.41:616][465]Cmd: TRANSACTION UNDO
+[2020.08.19-10.07.41:626][465]LogEditorTransaction: Undo Animatable Property Changed
+[2020.08.19-10.07.52:966][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-10.07.53:382][975]LogSavePackage: Save=89.21ms
+[2020.08.19-10.07.53:382][975]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap1BC715F541BD2EE12D1D6CA59AD9865A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-10.07.53:385][975]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-10.08.04:938][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-10.08.05:014][560]LogSavePackage: Save=26.26ms
+[2020.08.19-10.08.05:014][560]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapF8834F1D4E675219E1799392D3536489.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-10.08.05:017][560]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-10.08.10:070][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-10.08.11:125][824]LogSavePackage: Save=538.68ms
+[2020.08.19-10.08.11:125][824]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM83DBA2EA4D97521E0DA7BE99E2536312.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-10.08.11:128][824]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-10.09.09:745][748]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-10.09.11:029][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-10.09.11:264][768]LogSavePackage: Save=220.09ms
+[2020.08.19-10.09.11:264][768]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM248483474219663B6137CF814604361A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-10.09.11:266][768]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-10.10.00:965][158]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-10.10.01:962][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-10.10.02:126][179]LogSavePackage: Save=148.39ms
+[2020.08.19-10.10.02:126][179]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM8F7455E448F456264949169FB4F28D86.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-10.10.02:129][179]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-10.10.08:561][552]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.10.08:879][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.10.08:935][552]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:10:08 PM)
+[2020.08.19-10.10.09:062][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.10.09:074][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012314s)
+[2020.08.19-10.10.09:133][552]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.10.09:150][552]LogPlayLevel: PIE: World Init took: (0.075777s)
+[2020.08.19-10.10.09:150][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.088560s)
+[2020.08.19-10.10.09:355][552]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.10.09:439][552]LogInit: FAudioDevice initialized.
+[2020.08.19-10.10.09:490][552]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.10.09:509][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.10.09
+[2020.08.19-10.10.09:523][552]LogWorld: Bringing up level for play took: 0.031721
+[2020.08.19-10.10.09:676][552]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.557
+[2020.08.19-10.10.26:840][825]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.10.27:264][836]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.10.27:648][847]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.10.28:023][857]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.10.28:414][864]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.10.29:228][880]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.10.31:660][981]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.10.31:702][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.10.31:703][981]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:10:31 PM)
+[2020.08.19-10.10.31:703][981]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.10.31:705][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002465s)
+[2020.08.19-10.10.31:707][981]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.10.31:707][981]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2020.08.19-10.10.31:707][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.004309s)
+[2020.08.19-10.10.31:743][981]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.10.31:777][981]LogInit: FAudioDevice initialized.
+[2020.08.19-10.10.31:816][981]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.10.31:818][981]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.10.31
+[2020.08.19-10.10.31:818][981]LogWorld: Bringing up level for play took: 0.000861
+[2020.08.19-10.10.31:866][981]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.746
+[2020.08.19-10.10.51:508][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-10.10.51:643][413]LogSavePackage: Save=58.78ms
+[2020.08.19-10.10.51:643][413]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap9AF74A5B4AEC5E4055A8DA91FF9AABEB.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-10.10.51:644][413]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-10.25.36:809][391]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\ELR SpaceShip Game\Audio\Music.wav)
+[2020.08.19-10.26.31:728][391]LogAudioDerivedData: Display: Building compressed audio format OGG wave Music...
+[2020.08.19-10.27.25:929][391]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/GameContents/Sound/Music/Music.Music.
+[2020.08.19-10.28.56:675][670]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-10.29.02:704][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-10.29.03:614][695]LogSavePackage: Save=318.04ms
+[2020.08.19-10.29.03:614][695]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM958FF075406F41456020E6B69E62EF0F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-10.29.03:616][695]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-10.31.03:346][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-10.31.03:864][938]LogSavePackage: Save=331.26ms
+[2020.08.19-10.31.03:864][938]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap438B46DC4D5B9FED7D1E1B8E43303483.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-10.31.03:866][938]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-10.31.04:090][938]LogFileHelpers: Saving map 'SpaceMap' took 31.783
+[2020.08.19-10.31.27:346][234]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.31.28:105][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.31.28:207][234]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:31:28 PM)
+[2020.08.19-10.31.28:467][234]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.31.29:563][234]LogPlayLevel: PIE: StaticDuplicateObject took: (1.040132s)
+[2020.08.19-10.31.30:027][234]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.31.30:294][234]LogPlayLevel: PIE: World Init took: (0.729906s)
+[2020.08.19-10.31.30:316][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (1.984715s)
+[2020.08.19-10.31.31:022][234]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.31.31:136][234]LogInit: FAudioDevice initialized.
+[2020.08.19-10.31.31:868][234]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.31.32:316][234]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.31.32
+[2020.08.19-10.31.32:374][234]LogWorld: Bringing up level for play took: 0.469301
+[2020.08.19-10.31.33:835][234]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 6.707
+[2020.08.19-10.32.04:124][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-10.32.04:208][924]LogSavePackage: Save=38.83ms
+[2020.08.19-10.32.04:209][924]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapA5140ACA45937FCE9DFAF58BE97F9C98.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-10.32.04:210][924]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-10.34.12:014][268]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.34.19:827][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-10.34.20:817][392]LogSavePackage: Save=616.57ms
+[2020.08.19-10.34.20:817][392]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneC906C73E47AD23E0BFDEEA8762303633.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-10.34.20:861][392]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-10.34.22:071][457]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.34.22:126][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.34.22:127][457]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:34:22 PM)
+[2020.08.19-10.34.22:127][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.34.22:129][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001927s)
+[2020.08.19-10.34.22:130][457]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.34.22:130][457]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2020.08.19-10.34.22:131][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003479s)
+[2020.08.19-10.34.22:168][457]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.34.22:176][457]LogInit: FAudioDevice initialized.
+[2020.08.19-10.34.22:214][457]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.34.22:215][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.34.22
+[2020.08.19-10.34.22:216][457]LogWorld: Bringing up level for play took: 0.000850
+[2020.08.19-10.34.22:224][457]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.896
+[2020.08.19-10.34.48:989][120]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.35.12:050][ 37]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.35.13:922][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-10.35.14:367][ 61]LogSavePackage: Save=431.64ms
+[2020.08.19-10.35.14:367][ 61]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_Plane44BE1A164BC00C4AE7EA65AD30A4A822.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-10.35.14:383][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-10.35.16:325][169]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.35.16:386][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.35.16:386][169]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:35:16 PM)
+[2020.08.19-10.35.16:386][169]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.35.16:388][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001912s)
+[2020.08.19-10.35.16:389][169]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.35.16:389][169]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2020.08.19-10.35.16:390][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003181s)
+[2020.08.19-10.35.16:427][169]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.35.16:434][169]LogInit: FAudioDevice initialized.
+[2020.08.19-10.35.16:473][169]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.35.16:474][169]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.35.16
+[2020.08.19-10.35.16:475][169]LogWorld: Bringing up level for play took: 0.000808
+[2020.08.19-10.35.16:502][169]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.617
+[2020.08.19-10.35.53:629][688]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.35.56:791][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-10.35.57:234][784]LogSavePackage: Save=427.70ms
+[2020.08.19-10.35.57:234][784]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_PlaneD1DB5A4941BB52B13A1EC79532F22D45.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-10.35.57:236][784]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-10.36.01:339][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.36.01:371][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.36.01:371][ 30]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:36:01 PM)
+[2020.08.19-10.36.01:372][ 30]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.36.01:374][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002160s)
+[2020.08.19-10.36.01:375][ 30]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.36.01:375][ 30]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2020.08.19-10.36.01:375][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003506s)
+[2020.08.19-10.36.01:425][ 30]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.36.01:433][ 30]LogInit: FAudioDevice initialized.
+[2020.08.19-10.36.01:471][ 30]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.36.01:472][ 30]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.36.01
+[2020.08.19-10.36.01:473][ 30]LogWorld: Bringing up level for play took: 0.000885
+[2020.08.19-10.36.01:524][ 30]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.404
+[2020.08.19-10.36.03:274][ 63]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	EnemyPlanes_3_C /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap:PersistentLevel.EnemyPlanes_3_C_26
+	Function /Game/Blueprints/Enemy/EnemyPlanes.EnemyPlanes_C:ExecuteUbergraph_EnemyPlanes:0000
+[2020.08.19-10.36.03:358][ 63]PIE: Error: Infinite Loop detected in  EnemyPlanes , asserted during  Event BeginPlay with the following  Call Stack
+[2020.08.19-10.36.15:510][759]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.36.17:571][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-10.36.18:024][795]LogSavePackage: Save=438.74ms
+[2020.08.19-10.36.18:024][795]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_Plane15012551407EE54FAF488CB72EA6550B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-10.36.18:027][795]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-10.36.19:643][892]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.36.19:676][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.36.19:676][892]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:36:19 PM)
+[2020.08.19-10.36.19:677][892]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.36.19:679][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001976s)
+[2020.08.19-10.36.19:679][892]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.36.19:680][892]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2020.08.19-10.36.19:680][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003261s)
+[2020.08.19-10.36.19:714][892]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.36.19:773][892]LogInit: FAudioDevice initialized.
+[2020.08.19-10.36.19:807][892]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.36.19:808][892]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.36.19
+[2020.08.19-10.36.19:809][892]LogWorld: Bringing up level for play took: 0.000843
+[2020.08.19-10.36.19:830][892]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.711
+[2020.08.19-10.36.46:826][573]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.37.43:424][264]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0662 seconds. Added 2 classes and 2 folders.
+[2020.08.19-10.38.54:126][633]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-10.41.46:804][ 62]LogSavePackage: Save=393.28ms
+[2020.08.19-10.41.46:805][ 62]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/P_ExplosionTrialBD8A5B9A45A06B1C97AD80B60C642A7B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/BackGroundShips/P_ExplosionTrial.uasset'
+[2020.08.19-10.41.46:808][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/BackGroundShips/P_ExplosionTrial.uasset
+[2020.08.19-10.42.00:253][591]LogSavePackage: Save=32.43ms
+[2020.08.19-10.42.00:253][591]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/P_ExplosionTrial55895E7144F2C6FDDADFB19F13F8F5FF.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/BackGroundShips/P_ExplosionTrial.uasset'
+[2020.08.19-10.42.00:256][591]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/BackGroundShips/P_ExplosionTrial.uasset
+[2020.08.19-10.42.01:774][650]LogCascade: Quitting Cascade. FXSystem=0x0000010720C251C0
+[2020.08.19-10.42.09:524][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-10.42.09:881][927]LogSavePackage: Save=60.04ms
+[2020.08.19-10.42.09:881][927]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap878126614D869EC1C7DD6E9322656DD6.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-10.42.09:882][927]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-10.43.40:361][129]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.43.53:220][660]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.43.57:786][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-10.43.59:438][820]LogSavePackage: Save=526.83ms
+[2020.08.19-10.43.59:440][820]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_Plane18368C2A46824626DB1CAFAF4288D1D9.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-10.43.59:444][820]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-10.44.01:846][959]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.44.01:885][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.44.01:885][959]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:44:01 PM)
+[2020.08.19-10.44.01:885][959]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.44.01:888][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002666s)
+[2020.08.19-10.44.01:889][959]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.44.01:890][959]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2020.08.19-10.44.01:890][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.004587s)
+[2020.08.19-10.44.02:097][959]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.44.02:107][959]LogInit: FAudioDevice initialized.
+[2020.08.19-10.44.02:140][959]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.44.02:142][959]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.44.02
+[2020.08.19-10.44.02:142][959]LogWorld: Bringing up level for play took: 0.001078
+[2020.08.19-10.44.02:163][959]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 1.044
+[2020.08.19-10.44.04:601][ 12]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.05:671][ 39]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.06:695][ 65]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.07:631][ 88]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.08:430][108]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.09:255][129]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.15:855][328]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.44.15:913][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.44.15:913][328]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:44:15 PM)
+[2020.08.19-10.44.15:914][328]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.44.15:916][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001965s)
+[2020.08.19-10.44.15:917][328]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.44.15:917][328]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2020.08.19-10.44.15:917][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003245s)
+[2020.08.19-10.44.15:972][328]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.44.15:979][328]LogInit: FAudioDevice initialized.
+[2020.08.19-10.44.16:011][328]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.44.16:012][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.44.16
+[2020.08.19-10.44.16:013][328]LogWorld: Bringing up level for play took: 0.000891
+[2020.08.19-10.44.16:020][328]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.901
+[2020.08.19-10.44.18:007][373]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.18:786][393]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.19:718][417]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.20:415][435]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.21:272][457]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.22:019][476]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.32:073][ 15]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.44.34:688][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.44.34:721][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.44.34:721][ 77]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:44:34 PM)
+[2020.08.19-10.44.34:731][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.44.34:733][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002066s)
+[2020.08.19-10.44.34:734][ 77]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.44.34:734][ 77]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2020.08.19-10.44.34:735][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003511s)
+[2020.08.19-10.44.34:768][ 77]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.44.34:775][ 77]LogInit: FAudioDevice initialized.
+[2020.08.19-10.44.34:811][ 77]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.44.34:813][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.44.34
+[2020.08.19-10.44.34:813][ 77]LogWorld: Bringing up level for play took: 0.001025
+[2020.08.19-10.44.34:821][ 77]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.299
+[2020.08.19-10.44.36:531][117]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.37:499][142]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.38:350][164]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.39:008][181]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.39:935][205]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.40:829][224]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.41:731][246]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.42:428][264]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.43:129][282]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.43:875][301]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.44:668][321]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.45:473][341]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.46:330][363]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.47:001][380]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.47:599][395]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.48:166][409]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.48:729][423]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.44.49:342][438]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.49:978][454]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.44.52:000][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-10.44.52:597][540]LogSavePackage: Save=580.05ms
+[2020.08.19-10.44.52:598][540]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_Plane0BD457134726380DE3E91088A187137A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-10.44.52:601][540]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-10.45.03:246][103]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-10.45.06:573][197]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.45.06:621][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.45.06:622][197]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:45:06 PM)
+[2020.08.19-10.45.06:629][197]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.45.06:631][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001980s)
+[2020.08.19-10.45.06:632][197]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.45.06:633][197]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2020.08.19-10.45.06:633][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003342s)
+[2020.08.19-10.45.06:672][197]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.45.06:690][197]LogInit: FAudioDevice initialized.
+[2020.08.19-10.45.06:721][197]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.45.06:723][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.45.06
+[2020.08.19-10.45.06:723][197]LogWorld: Bringing up level for play took: 0.000921
+[2020.08.19-10.45.06:731][197]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.389
+[2020.08.19-10.45.08:451][238]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.45.09:278][259]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.45.10:172][282]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.45.10:712][296]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.45.11:370][313]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Right
+[2020.08.19-10.45.11:833][325]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.45.27:371][114]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.45.27:459][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.45.27:460][114]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:45:27 PM)
+[2020.08.19-10.45.27:512][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.45.27:514][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001954s)
+[2020.08.19-10.45.27:514][114]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.45.27:515][114]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2020.08.19-10.45.27:515][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003242s)
+[2020.08.19-10.45.27:591][114]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.45.27:598][114]LogInit: FAudioDevice initialized.
+[2020.08.19-10.45.27:652][114]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.45.27:653][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.45.27
+[2020.08.19-10.45.27:654][114]LogWorld: Bringing up level for play took: 0.000869
+[2020.08.19-10.45.27:662][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.542
+[2020.08.19-10.46.16:142][110]LogSlate: Took 0.187709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.19-10.46.39:273][342]BlueprintLog: New page: Compile EnemyPlanes
+[2020.08.19-10.46.43:862][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy/EnemyPlanes" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset" SILENT=true
+[2020.08.19-10.46.47:536][379]LogSavePackage: Save=1045.41ms
+[2020.08.19-10.46.47:537][379]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/EnemyPlanesBAC482A6491920BED138239B550E8929.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset'
+[2020.08.19-10.46.47:793][379]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset
+[2020.08.19-10.46.49:213][443]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.46.49:496][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.46.49:496][443]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:46:49 PM)
+[2020.08.19-10.46.49:496][443]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.46.49:498][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001968s)
+[2020.08.19-10.46.49:499][443]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.46.49:500][443]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2020.08.19-10.46.49:500][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003431s)
+[2020.08.19-10.46.49:538][443]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.46.49:569][443]LogInit: FAudioDevice initialized.
+[2020.08.19-10.46.49:606][443]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.46.49:608][443]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.46.49
+[2020.08.19-10.46.49:608][443]LogWorld: Bringing up level for play took: 0.000869
+[2020.08.19-10.46.49:768][443]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.649
+[2020.08.19-10.47.31:394][442]LogBlueprintUserMessages: [SF_Light_Fighter-X6_C_2] Left
+[2020.08.19-10.47.46:768][218]BlueprintLog: New page: Compile EnemyPlanes
+[2020.08.19-10.47.48:276][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy/EnemyPlanes" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset" SILENT=true
+[2020.08.19-10.47.48:451][248]LogSavePackage: Save=143.38ms
+[2020.08.19-10.47.48:452][248]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/EnemyPlanes15E3E415490EC6C87C3567AD00AE23F5.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset'
+[2020.08.19-10.47.48:455][248]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Enemy/EnemyPlanes.uasset
+[2020.08.19-10.48.00:828][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-10.48.01:555][645]LogSavePackage: Save=711.81ms
+[2020.08.19-10.48.01:556][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_Plane0F0975054DB7AA79D2CEAF957074640F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-10.48.01:559][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-10.48.01:597][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/Sound/Music/Young_Tonight" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Young_Tonight.uasset" SILENT=true
+[2020.08.19-10.48.02:335][645]LogSavePackage: Save=636.64ms
+[2020.08.19-10.48.02:336][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Young_Tonight4B68B15D4CCF91D04C960CB02A2B3AF3.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Young_Tonight.uasset'
+[2020.08.19-10.48.02:379][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Young_Tonight.uasset
+[2020.08.19-10.48.02:470][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/Sound/Music/cyborg_kingdom" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/cyborg_kingdom.uasset" SILENT=true
+[2020.08.19-10.48.08:477][645]LogSavePackage: Save=5920.19ms
+[2020.08.19-10.48.08:477][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/cyborg_kingdomD12948E345D950D52179E2BE8F87E0AD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/cyborg_kingdom.uasset'
+[2020.08.19-10.48.08:502][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/cyborg_kingdom.uasset
+[2020.08.19-10.48.08:669][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/Sound/Music/Isotope__1_" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Isotope__1_.uasset" SILENT=true
+[2020.08.19-10.48.10:150][645]LogSavePackage: Save=1344.76ms
+[2020.08.19-10.48.10:150][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Isotope__1_5D64A3DF4883BA01F9AEFF8F99E3B632.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Isotope__1_.uasset'
+[2020.08.19-10.48.10:166][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Isotope__1_.uasset
+[2020.08.19-10.48.10:228][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/Sound/Music/Robot_plasm" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Robot_plasm.uasset" SILENT=true
+[2020.08.19-10.48.10:503][645]LogSavePackage: Save=232.30ms
+[2020.08.19-10.48.10:503][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Robot_plasmC86E273B45B48D1B608A4B802AD7DDCD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Robot_plasm.uasset'
+[2020.08.19-10.48.10:511][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Robot_plasm.uasset
+[2020.08.19-10.48.11:429][645]LogSavePackage: Save=436.60ms
+[2020.08.19-10.48.11:430][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Technologich_SoundsphereA83CDA2043C2254FB687BF9377F5CDB2.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Technologich_Soundsphere.uasset'
+[2020.08.19-10.48.11:484][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Technologich_Soundsphere.uasset
+[2020.08.19-10.48.12:506][645]LogSavePackage: Save=304.89ms
+[2020.08.19-10.48.12:507][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Bomb_Explosion_1__1_04ABBABA48472E4746CB32B8E7305604.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Bomb_Explosion_1__1_.uasset'
+[2020.08.19-10.48.12:548][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Bomb_Explosion_1__1_.uasset
+[2020.08.19-10.48.12:753][645]LogSavePackage: Save=56.95ms
+[2020.08.19-10.48.12:754][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Futuristic_Machine_Gun_16CF7EB1D42A3EDA962EA0FA23E542112.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Futuristic_Machine_Gun_1.uasset'
+[2020.08.19-10.48.12:757][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Futuristic_Machine_Gun_1.uasset
+[2020.08.19-10.48.12:862][645]LogSavePackage: Save=78.39ms
+[2020.08.19-10.48.12:863][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Futuristic_Machine_Gun_4C0DED2BB4662CB858B61E5B5B38112B0.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Futuristic_Machine_Gun_4.uasset'
+[2020.08.19-10.48.12:865][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Futuristic_Machine_Gun_4.uasset
+[2020.08.19-10.48.12:961][645]LogSavePackage: Save=72.76ms
+[2020.08.19-10.48.12:961][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Futuristic_Machine_Gun_57C6AD9AC4A641933E0AD3C92E325FE6B.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Futuristic_Machine_Gun_5.uasset'
+[2020.08.19-10.48.12:964][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Futuristic_Machine_Gun_5.uasset
+[2020.08.19-10.48.13:093][645]LogSavePackage: Save=95.69ms
+[2020.08.19-10.48.13:093][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Propeller_whoosh094B3E5849EDC7C563E38DA6B5DFB886.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Propeller_whoosh.uasset'
+[2020.08.19-10.48.13:096][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Effects/Propeller_whoosh.uasset
+[2020.08.19-10.48.13:375][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContents/Sound/Music/Music" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Music.uasset" SILENT=true
+[2020.08.19-10.48.31:042][645]LogSavePackage: Save=17632.70ms
+[2020.08.19-10.48.31:049][645]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Music6FEDE14C48EF86D5254C13B1C25700DE.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Music.uasset'
+[2020.08.19-10.48.31:098][645]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/GameContents/Sound/Music/Music.uasset
+[2020.08.19-10.49.22:445][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CostomizeMenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset" SILENT=true
+[2020.08.19-10.49.23:207][107]LogSavePackage: Save=391.84ms
+[2020.08.19-10.49.23:207][107]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/CostomizeMenuWBDC94BE56426A194849C829B9BE50DA5A.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset'
+[2020.08.19-10.49.23:285][107]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/CostomizeMenuWB.uasset
+[2020.08.19-10.50.23:896][413]BlueprintLog: New page: Compile SelectionmenuWB
+[2020.08.19-10.50.25:031][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SelectionmenuWB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset" SILENT=true
+[2020.08.19-10.50.25:748][455]LogSavePackage: Save=433.51ms
+[2020.08.19-10.50.25:749][455]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SelectionmenuWB2C441DF949CAFFD5234D7DA63147E765.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset'
+[2020.08.19-10.50.25:791][455]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/SelectionmenuWB.uasset
+[2020.08.19-10.50.27:197][522]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-10.50.27:236][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-10.50.27:237][522]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 10:50:27 PM)
+[2020.08.19-10.50.27:252][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-10.50.27:255][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2020.08.19-10.50.27:265][522]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-10.50.27:266][522]LogPlayLevel: PIE: World Init took: (0.011073s)
+[2020.08.19-10.50.27:266][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.013491s)
+[2020.08.19-10.50.27:416][522]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-10.50.27:448][522]LogInit: FAudioDevice initialized.
+[2020.08.19-10.50.27:484][522]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-10.50.27:509][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-16.50.27
+[2020.08.19-10.50.27:509][522]LogWorld: Bringing up level for play took: 0.000933
+[2020.08.19-10.50.27:532][522]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.414
+[2020.08.19-10.51.10:191][112]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.19-10.51.44:642][798]LogSlate: Took 0.692938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.19-10.52.27:310][288]BlueprintLog: New page: Compile MenuGM
+[2020.08.19-10.52.28:800][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGM" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset" SILENT=true
+[2020.08.19-10.52.29:390][310]LogSavePackage: Save=221.86ms
+[2020.08.19-10.52.29:392][310]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/MenuGM911C39FC4628F220B2986E86C1695566.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset'
+[2020.08.19-10.52.29:411][310]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/MenuGM.uasset
+[2020.08.19-10.53.04:589][703]LogMetaData: Removing '/Game/Blueprints/GameSG.SKEL_GameSG_C' ref from Metadata '/Game/Blueprints/GameSV.PackageMetaData'
+[2020.08.19-10.53.04:589][703]LogMetaData: Removing '/Game/Blueprints/GameSG.GameSG_C' ref from Metadata '/Game/Blueprints/GameSV.PackageMetaData'
+[2020.08.19-10.53.04:989][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameSG" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset" SILENT=true
+[2020.08.19-10.53.05:391][703]LogSavePackage: Save=399.93ms
+[2020.08.19-10.53.05:392][703]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GameSGDCE9833741458265C43B3C9428D546FB.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset'
+[2020.08.19-10.53.05:395][703]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset
+[2020.08.19-10.55.02:301][371]BlueprintLog: New page: Compile GameSG
+[2020.08.19-10.55.02:972][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameSG" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset" SILENT=true
+[2020.08.19-10.55.04:169][407]LogSavePackage: Save=622.76ms
+[2020.08.19-10.55.04:171][407]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GameSG4F4CEBFC46D7D653D5592EB61CD63FA1.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset'
+[2020.08.19-10.55.04:174][407]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset
+[2020.08.19-10.55.10:179][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameSG" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset" SILENT=true
+[2020.08.19-10.55.10:238][763]LogSavePackage: Save=44.23ms
+[2020.08.19-10.55.10:238][763]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GameSG3BB1AD2343A106301F24458D312952CD.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset'
+[2020.08.19-10.55.10:239][763]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset
+[2020.08.19-10.55.28:432][817]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-10.55.30:063][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-10.55.30:254][854]LogSavePackage: Save=80.14ms
+[2020.08.19-10.55.30:254][854]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GIE45E878E432AB224EF5BB5A3CB291822.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-10.55.30:277][854]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-10.56.10:877][217]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-10.57.47:368][993]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-10.57.48:673][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-10.57.48:793][ 17]LogSavePackage: Save=105.67ms
+[2020.08.19-10.57.48:793][ 17]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GIE9ED2B79428E06D7BA77638C663BD924.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-10.57.48:795][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-10.58.19:059][798]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-10.58.53:945][842]BlueprintLog: New page: Compile GameSG
+[2020.08.19-10.58.54:469][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameSG" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset" SILENT=true
+[2020.08.19-10.58.54:713][867]LogSavePackage: Save=228.04ms
+[2020.08.19-10.58.54:715][867]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GameSGD4315DDB493909069B75CA8E02638EBB.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset'
+[2020.08.19-10.58.54:718][867]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset
+[2020.08.19-10.59.30:581][984]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-10.59.31:925][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-10.59.32:155][ 11]LogSavePackage: Save=215.43ms
+[2020.08.19-10.59.32:156][ 11]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI0D75996F41F3C04BA3A13B99027170E7.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-10.59.32:159][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-10.59.41:046][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-10.59.41:139][542]LogSavePackage: Save=78.43ms
+[2020.08.19-10.59.41:139][542]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GIAAC11C264DC0E9C60EE76793739B51B5.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-10.59.41:140][542]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-10.59.57:744][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameSG" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset" SILENT=true
+[2020.08.19-10.59.57:878][525]LogSavePackage: Save=117.82ms
+[2020.08.19-10.59.57:878][525]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GameSG4B6357A540C560A019B1948960AB0415.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset'
+[2020.08.19-10.59.57:879][525]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset
+[2020.08.19-11.00.43:666][176]BlueprintLog: New page: Compile GameSG
+[2020.08.19-11.01.14:812][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameSG" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset" SILENT=true
+[2020.08.19-11.01.16:149][451]LogSavePackage: Save=841.27ms
+[2020.08.19-11.01.16:150][451]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GameSG4C2B6E5840478A47C843CD8EBAD7FA87.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset'
+[2020.08.19-11.01.16:154][451]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset
+[2020.08.19-11.02.07:016][209]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-11.03.01:243][347]BlueprintLog: New page: Compile Game_GI
+[2020.08.19-11.03.02:695][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-11.03.02:943][377]LogSavePackage: Save=165.09ms
+[2020.08.19-11.03.02:944][377]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GIF7E6E4F947FCDC47B76385A0A5341AF2.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-11.03.02:947][377]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-11.03.28:722][765]BlueprintLog: New page: Compile Menu_WB
+[2020.08.19-11.03.29:814][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu_WB" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset" SILENT=true
+[2020.08.19-11.03.30:740][806]LogSavePackage: Save=420.74ms
+[2020.08.19-11.03.30:740][806]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Menu_WB39126D404B1FA6EA965DDF8FDC47BF68.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset'
+[2020.08.19-11.03.30:878][806]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/UI/Menu_WB.uasset
+[2020.08.19-11.03.33:510][937]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-11.03.33:862][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-11.03.33:862][937]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 11:03:33 PM)
+[2020.08.19-11.03.41:162][937]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-11.03.41:164][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002480s)
+[2020.08.19-11.03.41:166][937]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-11.03.41:166][937]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2020.08.19-11.03.41:166][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.004319s)
+[2020.08.19-11.03.41:538][937]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-11.03.41:549][937]LogInit: FAudioDevice initialized.
+[2020.08.19-11.03.41:609][937]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-11.03.41:610][937]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-17.03.41
+[2020.08.19-11.03.41:610][937]LogWorld: Bringing up level for play took: 0.000857
+[2020.08.19-11.03.41:713][937]Cmd: t.MaxFPS 60
+[2020.08.19-11.03.42:509][937]t.MaxFPS = "60"
+[2020.08.19-11.03.42:509][937]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 9.39
+[2020.08.19-11.05.30:570][236]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-11.05.30:604][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-11.05.30:604][236]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 11:05:30 PM)
+[2020.08.19-11.05.30:605][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-11.05.30:607][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002288s)
+[2020.08.19-11.05.30:608][236]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-11.05.30:608][236]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2020.08.19-11.05.30:609][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.004109s)
+[2020.08.19-11.05.30:649][236]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-11.05.30:669][236]LogInit: FAudioDevice initialized.
+[2020.08.19-11.05.30:702][236]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-11.05.30:704][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-17.05.30
+[2020.08.19-11.05.30:746][236]LogWorld: Bringing up level for play took: 0.042394
+[2020.08.19-11.05.30:814][236]Cmd: t.MaxFPS 60
+[2020.08.19-11.05.30:814][236]t.MaxFPS = "60"
+[2020.08.19-11.05.30:815][236]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap -0.304
+[2020.08.19-11.05.37:760][434]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-11.05.37:790][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-11.05.37:790][434]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 11:05:37 PM)
+[2020.08.19-11.05.37:790][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-11.05.37:792][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001899s)
+[2020.08.19-11.05.37:793][434]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-11.05.37:793][434]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2020.08.19-11.05.37:793][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003188s)
+[2020.08.19-11.05.37:829][434]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-11.05.37:836][434]LogInit: FAudioDevice initialized.
+[2020.08.19-11.05.37:871][434]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-11.05.37:872][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-17.05.37
+[2020.08.19-11.05.37:873][434]LogWorld: Bringing up level for play took: 0.000817
+[2020.08.19-11.05.37:879][434]Cmd: t.MaxFPS 60
+[2020.08.19-11.05.37:879][434]t.MaxFPS = "60"
+[2020.08.19-11.05.37:879][434]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.76
+[2020.08.19-11.06.24:777][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game_GI" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset" SILENT=true
+[2020.08.19-11.06.24:891][871]LogSavePackage: Save=97.93ms
+[2020.08.19-11.06.24:891][871]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Game_GI0C4EFEF94230884BD89FCE8EE2DE24C2.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset'
+[2020.08.19-11.06.24:894][871]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Game_GI.uasset
+[2020.08.19-11.06.27:110][  0]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-11.06.27:144][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-11.06.27:144][  0]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 11:06:27 PM)
+[2020.08.19-11.06.27:184][  0]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-11.06.27:200][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001993s)
+[2020.08.19-11.06.27:214][  0]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-11.06.27:214][  0]LogPlayLevel: PIE: World Init took: (0.013778s)
+[2020.08.19-11.06.27:214][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.030224s)
+[2020.08.19-11.06.27:250][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-11.06.27:281][  0]LogInit: FAudioDevice initialized.
+[2020.08.19-11.06.27:313][  0]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-11.06.27:315][  0]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-17.06.27
+[2020.08.19-11.06.27:315][  0]LogWorld: Bringing up level for play took: 0.000838
+[2020.08.19-11.06.27:347][  0]Cmd: t.MaxFPS 60
+[2020.08.19-11.06.27:348][  0]t.MaxFPS = "60"
+[2020.08.19-11.06.27:348][  0]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.228
+[2020.08.19-11.07.02:073][663]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.19-11.07.10:205][143]BlueprintLog: New page: Compile GameSG
+[2020.08.19-11.07.19:792][711]BlueprintLog: New page: Compile GameSG
+[2020.08.19-11.07.20:686][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameSG" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset" SILENT=true
+[2020.08.19-11.07.22:010][759]LogSavePackage: Save=658.97ms
+[2020.08.19-11.07.22:012][759]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/GameSGDC6DC9B841D6B15E491752876453686F.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset'
+[2020.08.19-11.07.22:016][759]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/GameSG.uasset
+[2020.08.19-11.07.23:353][837]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.19-11.07.23:389][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.19-11.07.23:390][837]PIE: New page: PIE session: SpaceMap (Aug 19, 2020, 11:07:23 PM)
+[2020.08.19-11.07.23:441][837]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceMap
+[2020.08.19-11.07.23:443][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002009s)
+[2020.08.19-11.07.23:444][837]LogAIModule: Creating AISystem for world SpaceMap
+[2020.08.19-11.07.23:445][837]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.08.19-11.07.23:445][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceMap.SpaceMap to /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.003412s)
+[2020.08.19-11.07.23:479][837]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.19-11.07.23:486][837]LogInit: FAudioDevice initialized.
+[2020.08.19-11.07.23:519][837]LogLoad: Game class is 'MenuGM_C'
+[2020.08.19-11.07.23:520][837]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2020.08.19-17.07.23
+[2020.08.19-11.07.23:521][837]LogWorld: Bringing up level for play took: 0.000854
+[2020.08.19-11.07.23:528][837]Cmd: t.MaxFPS 60
+[2020.08.19-11.07.23:529][837]t.MaxFPS = "60"
+[2020.08.19-11.07.23:529][837]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceMap 0.409
+[2020.08.19-11.07.55:800][646]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.07.56:499][662]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.07.56:893][672]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.07.57:286][682]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.07.57:642][691]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.07.58:074][702]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.07.58:625][716]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.07.59:344][731]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.07.59:975][747]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.00:727][766]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.01:778][778]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.02:558][798]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.03:299][817]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.03:948][831]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.04:473][844]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.05:029][858]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.05:383][867]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.07:726][926]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.08:206][938]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.08:812][953]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.09:173][962]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.10:205][987]Cmd: LevelEditor.ToggleImmersive
+[2020.08.19-11.08.11:368][  1]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.11:909][ 14]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.12:539][ 26]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.13:037][ 38]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.13:775][ 56]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.14:357][ 70]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.14:855][ 82]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.16:470][ 92]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.17:135][108]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.17:550][118]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.18:361][137]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.18:995][152]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.29:723][401]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.30:065][409]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.31:086][433]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.31:427][441]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.32:313][462]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.32:713][470]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.35:865][542]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.36:416][555]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.37:263][575]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.37:601][583]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.42:349][694]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.44:354][741]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.51:806][903]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.55:891][  3]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.08.56:515][ 18]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.56:968][ 29]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.08.58:871][ 73]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] 2x Left
+[2020.08.19-11.08.59:380][ 83]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.09.04:906][214]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.07:593][277]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.09:604][323]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] 2x Left
+[2020.08.19-11.09.10:144][335]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.09.12:058][378]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] 2x Right
+[2020.08.19-11.09.12:587][390]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.15:678][460]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] 2x Left
+[2020.08.19-11.09.16:202][472]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.09.23:976][652]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.25:586][689]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.26:675][714]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.09.28:958][767]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.09.32:491][840]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.43:868][114]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.44:233][121]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.09.44:661][131]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.09.51:380][287]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.57:153][409]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.09.59:114][456]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] 2x Left
+[2020.08.19-11.09.59:653][469]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.10.01:794][520]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.10.02:355][533]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.10.03:999][572]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.10.04:939][594]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.10.05:327][603]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.10.05:714][612]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.10.06:365][627]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.10.07:446][651]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.10.10:501][721]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.10.14:504][809]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Right
+[2020.08.19-11.10.15:381][830]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.10.15:968][844]LogBlueprintUserMessages: [ScoutShip-X5BP_C_3] Left
+[2020.08.19-11.10.23:610][ 66]LogEditorViewport: Clicking on Actor (context menu): SpaceSkyBox_C (SpaceSkyBox)
+[2020.08.19-11.11.52:353][852]BlueprintLog: New page: Compile Player_Plane
+[2020.08.19-11.12.03:916][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_Plane" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset" SILENT=true
+[2020.08.19-11.12.04:520][407]LogSavePackage: Save=543.36ms
+[2020.08.19-11.12.04:520][407]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/Player_Plane5F70FDC2460DA2657C11C0AAC1A7D6D5.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset'
+[2020.08.19-11.12.04:523][407]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Blueprints/Player_Plane.uasset
+[2020.08.19-11.12.05:972][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-11.12.06:258][487]LogSavePackage: Save=123.04ms
+[2020.08.19-11.12.06:259][487]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMap585447EF44B94BCCE22A259D8A99E0B2.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-11.12.06:296][487]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-11.13.44:628][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceMap" FILE="../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.19-11.13.45:036][298]LogSavePackage: Save=78.43ms
+[2020.08.19-11.13.45:036][298]LogSavePackage: Moving '../../../../../Projects/Client_Projects/ELR_spaceship/Saved/SpaceMapC0CD9A004AD36FB63E6BF9ABED854572.tmp' to '../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap'
+[2020.08.19-11.13.45:037][298]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/Client_Projects/ELR_spaceship/Content/Maps/SpaceMap.umap
+[2020.08.19-11.13.51:188][601]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.19-11.14.03:501][602]Cmd: QUIT_EDITOR
+[2020.08.19-11.14.11:417][602]LogExit: Preparing to exit.
+[2020.08.19-11.14.45:663][602]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/' was aborted.
+[2020.08.19-11.15.22:819][602]LogExit: Editor shut down
+[2020.08.19-11.15.23:712][602]LogExit: Transaction tracking system shut down
+[2020.08.19-11.15.43:704][602]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.08.19-11.15.43:704][602]LogDirectoryWatcher: A directory notification for '../../../../../Projects/Client_Projects/ELR_spaceship/Content/' was aborted.
+[2020.08.19-11.15.43:704][602]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.08.19-11.15.43:718][602]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.08.19-11.15.43:736][602]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.08.19-11.15.43:748][602]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.08.19-11.15.43:757][602]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.08.19-11.16.57:566][602]LogExit: Object subsystem successfully closed.
+[2020.08.19-11.17.02:681][602]LogD3D11RHI: Shutdown
+[2020.08.19-11.17.02:682][602]LogD3D11RHI: CleanupD3DDevice
+[2020.08.19-11.17.07:330][602]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.08.19-11.17.12:473][602]LogModuleManager: Shutting down and abandoning module DistCurveEditor (558)
+[2020.08.19-11.17.12:491][602]LogModuleManager: Shutting down and abandoning module Cascade (556)
+[2020.08.19-11.17.12:532][602]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2020.08.19-11.17.12:532][602]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2020.08.19-11.17.12:532][602]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2020.08.19-11.17.12:547][602]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2020.08.19-11.17.12:547][602]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2020.08.19-11.17.12:669][602]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.08.19-11.17.13:298][602]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2020.08.19-11.17.13:298][602]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2020.08.19-11.17.13:298][602]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2020.08.19-11.17.13:372][602]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Collections/' was aborted.
+[2020.08.19-11.17.13:391][602]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Content/Developers/farha/Collections/' was aborted.
+[2020.08.19-11.17.13:391][602]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Projects/Client_Projects/ELR_spaceship/Saved/Collections/' was aborted.
+[2020.08.19-11.17.13:437][602]LogModuleManager: Shutting down and abandoning module SceneOutliner (538)
+[2020.08.19-11.17.13:450][602]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2020.08.19-11.17.13:544][602]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2020.08.19-11.17.13:544][602]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2020.08.19-11.17.14:046][602]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2020.08.19-11.17.14:139][602]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2020.08.19-11.17.14:139][602]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2020.08.19-11.17.14:139][602]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2020.08.19-11.17.14:198][602]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2020.08.19-11.17.14:199][602]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2020.08.19-11.17.14:543][602]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2020.08.19-11.17.14:634][602]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2020.08.19-11.17.14:711][602]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2020.08.19-11.17.14:711][602]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2020.08.19-11.17.14:868][602]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2020.08.19-11.17.14:883][602]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2020.08.19-11.17.15:255][602]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2020.08.19-11.17.15:538][602]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2020.08.19-11.17.15:538][602]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2020.08.19-11.17.15:538][602]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2020.08.19-11.17.15:538][602]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2020.08.19-11.17.15:538][602]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2020.08.19-11.17.15:584][602]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2020.08.19-11.17.15:584][602]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2020.08.19-11.17.15:584][602]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2020.08.19-11.17.15:584][602]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2020.08.19-11.17.15:584][602]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2020.08.19-11.17.15:584][602]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2020.08.19-11.17.15:641][602]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2020.08.19-11.17.15:653][602]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2020.08.19-11.17.15:654][602]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2020.08.19-11.17.15:654][602]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2020.08.19-11.17.15:696][602]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2020.08.19-11.17.15:733][602]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2020.08.19-11.17.15:857][602]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2020.08.19-11.17.15:885][602]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2020.08.19-11.17.16:143][602]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2020.08.19-11.17.16:334][602]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2020.08.19-11.17.16:495][602]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2020.08.19-11.17.16:535][602]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2020.08.19-11.17.16:535][602]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2020.08.19-11.17.16:535][602]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2020.08.19-11.17.17:431][602]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2020.08.19-11.17.17:438][602]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2020.08.19-11.17.17:438][602]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2020.08.19-11.17.17:438][602]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2020.08.19-11.17.17:467][602]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2020.08.19-11.17.17:523][602]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2020.08.19-11.17.17:574][602]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2020.08.19-11.17.17:595][602]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2020.08.19-11.17.17:675][602]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2020.08.19-11.17.17:699][602]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2020.08.19-11.17.17:886][602]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2020.08.19-11.17.17:887][602]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2020.08.19-11.17.17:900][602]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2020.08.19-11.17.18:003][602]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2020.08.19-11.17.18:009][602]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2020.08.19-11.17.18:023][602]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2020.08.19-11.17.18:023][602]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2020.08.19-11.17.18:049][602]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2020.08.19-11.17.18:050][602]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2020.08.19-11.17.18:132][602]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2020.08.19-11.17.18:303][602]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2020.08.19-11.17.18:316][602]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2020.08.19-11.17.18:398][602]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2020.08.19-11.17.18:524][602]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2020.08.19-11.17.18:637][602]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2020.08.19-11.17.18:723][602]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2020.08.19-11.17.18:758][602]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2020.08.19-11.17.18:795][602]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2020.08.19-11.17.18:795][602]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2020.08.19-11.17.18:850][602]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2020.08.19-11.17.18:888][602]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2020.08.19-11.17.19:083][602]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2020.08.19-11.17.19:083][602]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2020.08.19-11.17.19:110][602]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2020.08.19-11.17.21:203][602]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2020.08.19-11.17.21:286][602]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2020.08.19-11.17.21:286][602]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2020.08.19-11.17.21:312][602]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2020.08.19-11.17.21:444][602]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2020.08.19-11.17.21:501][602]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2020.08.19-11.17.21:538][602]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2020.08.19-11.17.21:745][602]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2020.08.19-11.17.21:838][602]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2020.08.19-11.17.21:895][602]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2020.08.19-11.17.21:898][602]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2020.08.19-11.17.21:924][602]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2020.08.19-11.17.21:940][602]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2020.08.19-11.17.22:177][602]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2020.08.19-11.17.22:192][602]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2020.08.19-11.17.22:192][602]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2020.08.19-11.17.22:193][602]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2020.08.19-11.17.22:223][602]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2020.08.19-11.17.22:331][602]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2020.08.19-11.17.22:331][602]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2020.08.19-11.17.22:331][602]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2020.08.19-11.17.22:331][602]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2020.08.19-11.17.22:341][602]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2020.08.19-11.17.22:352][602]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.08.19-11.17.22:352][602]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.08.19-11.17.22:352][602]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2020.08.19-11.17.22:358][602]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2020.08.19-11.17.22:389][602]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2020.08.19-11.17.22:404][602]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2020.08.19-11.17.22:412][602]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2020.08.19-11.17.22:412][602]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2020.08.19-11.17.22:412][602]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2020.08.19-11.17.22:428][602]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2020.08.19-11.17.22:494][602]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2020.08.19-11.17.22:515][602]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2020.08.19-11.17.22:533][602]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2020.08.19-11.17.22:534][602]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2020.08.19-11.17.22:534][602]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2020.08.19-11.17.22:534][602]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2020.08.19-11.17.22:566][602]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2020.08.19-11.17.22:580][602]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.08.19-11.17.22:884][602]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.08.19-11.17.22:943][602]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2020.08.19-11.17.22:958][602]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2020.08.19-11.17.24:139][602]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2020.08.19-11.17.24:624][602]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2020.08.19-11.17.25:194][602]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2020.08.19-11.17.25:194][602]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2020.08.19-11.17.25:194][602]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2020.08.19-11.17.25:194][602]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2020.08.19-11.17.25:194][602]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2020.08.19-11.17.25:215][602]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.08.19-11.17.25:526][602]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.08.19-11.17.26:334][602]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.08.19-11.17.26:636][602]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.08.19-11.17.26:664][602]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.08.19-11.17.26:664][602]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.08.19-11.17.27:062][602]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.08.19-11.17.27:081][602]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.08.19-11.17.28:075][602]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.08.19-11.17.28:075][602]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.08.19-11.17.28:084][602]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.08.19-11.17.28:119][602]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.08.19-11.17.28:183][602]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.08.19-11.17.28:189][602]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.08.19-11.17.28:189][602]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.08.19-11.17.28:189][602]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.08.19-11.17.28:583][602]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.08.19-11.17.28:583][602]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.08.19-11.17.28:605][602]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.08.19-11.17.28:605][602]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.08.19-11.17.28:621][602]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.08.19-11.17.28:652][602]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.08.19-11.17.28:793][602]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.08.19-11.17.28:793][602]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.08.19-11.17.28:826][602]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.08.19-11.17.28:833][602]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.08.19-11.17.28:866][602]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.08.19-11.17.28:939][602]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.08.19-11.17.28:953][602]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.08.19-11.17.28:953][602]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.08.19-11.17.28:971][602]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.08.19-11.17.28:985][602]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.08.19-11.17.29:023][602]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.08.19-11.17.29:023][602]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.08.19-11.17.29:246][602]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.08.19-11.17.29:246][602]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.08.19-11.17.29:260][602]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.08.19-11.17.29:260][602]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.08.19-11.17.29:260][602]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.08.19-11.17.29:260][602]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.08.19-11.17.29:260][602]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.08.19-11.17.29:260][602]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.08.19-11.17.29:339][602]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.08.19-11.17.29:339][602]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.08.19-11.17.29:503][602]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.08.19-11.17.29:559][602]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.08.19-11.17.29:559][602]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.08.19-11.17.29:614][602]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.08.19-11.17.29:619][602]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.08.19-11.17.29:632][602]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.08.19-11.17.29:646][602]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.08.19-11.17.29:902][602]LogDerivedDataCache: Shutdown
+[2020.08.19-11.17.29:902][602]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.08.19-11.17.30:009][602]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.08.19-11.17.30:049][602]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.08.19-11.17.30:064][602]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.08.19-11.17.30:077][602]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.08.19-11.17.30:083][602]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.08.19-11.17.30:096][602]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.08.19-11.17.30:115][602]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.08.19-11.17.30:115][602]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.08.19-11.17.30:116][602]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.08.19-11.17.30:361][602]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.08.19-11.17.30:361][602]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.08.19-11.17.30:361][602]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.08.19-11.17.30:397][602]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.08.19-11.17.30:397][602]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.08.19-11.17.30:398][602]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.08.19-11.17.30:398][602]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.08.19-11.17.30:470][602]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.08.19-11.17.30:470][602]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.08.19-11.17.30:470][602]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.08.19-11.17.30:470][602]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.08.19-11.17.30:486][602]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.08.19-11.17.30:508][602]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.08.19-11.17.30:508][602]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.08.19-11.17.30:508][602]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.08.19-11.17.30:508][602]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.08.19-11.17.30:508][602]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.08.19-11.17.30:508][602]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.08.19-11.17.30:509][602]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.08.19-11.17.30:509][602]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.08.19-11.17.30:509][602]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.08.19-11.17.30:509][602]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.08.19-11.17.30:509][602]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.08.19-11.17.30:509][602]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.08.19-11.17.30:617][602]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.08.19-11.17.30:634][602]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.08.19-11.17.30:640][602]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.08.19-11.17.30:659][602]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.08.19-11.17.30:679][602]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.08.19-11.17.30:701][602]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.08.19-11.17.30:702][602]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.08.19-11.17.30:702][602]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.08.19-11.17.30:702][602]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.08.19-11.17.30:724][602]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.08.19-11.17.30:724][602]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.08.19-11.17.30:741][602]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.08.19-11.17.30:756][602]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.08.19-11.17.30:757][602]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.08.19-11.17.30:757][602]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.08.19-11.17.30:757][602]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.08.19-11.17.30:757][602]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.08.19-11.17.30:794][602]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.08.19-11.17.30:822][602]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.08.19-11.17.30:822][602]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.19-11.17.30:852][602]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9073CEF8-4B97-1249-50CB-0CA10DDCF7C4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.08.19-11.17.30:971][602]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.08.19-11.17.31:054][602]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.08.19-11.17.31:101][602]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.08.19-11.17.31:173][602]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.08.19-11.17.31:226][602]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.08.19-11.17.31:450][602]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.08.19-11.17.31:450][602]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.08.19-11.17.31:470][602]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.08.19-11.17.33:179][602]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.08.19-11.17.33:241][602]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.08.19-11.17.33:241][602]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.08.19-11.17.33:254][602]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.08.19-11.17.33:260][602]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.08.19-11.17.33:271][602]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.08.19-11.17.33:271][602]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.08.19-11.17.33:285][602]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.08.19-11.17.33:285][602]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.08.19-11.17.33:316][602]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.08.19-11.17.33:316][602]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.08.19-11.17.33:435][602]LogExit: Exiting.
+[2020.08.19-11.17.34:463][602]Log file closed, 08/19/20 17:17:34
